@@ -67,8 +67,6 @@ class SanskritToWX:
 
         wx_notation_list = [word if word != "-" else None for word in wx_notation_list]
         wx_notation_list = [word for word in wx_notation_list if word is not None]
-
-        # wx_notation_list = [word if word in SANSKRIT_TO_WX else word + "_1" for word in wx_notation_list]
         wx_notation_list = [word if word in SANSKRIT_TO_WX or word in name_list else word + "_1" for word in wx_notation_list]
         # print(wx_notation_list)
         modified_wx_notation_list = [SANSKRIT_TO_WX.get(word, word) for word in wx_notation_list]
