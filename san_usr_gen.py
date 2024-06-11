@@ -196,7 +196,7 @@ class JSONCreator:
 
 if __name__ == "__main__":
     folder_path = 'ramayana/'  
-    output_file_path = 'genearted_output_usr'  
+    output_file_path = 'output'  
     # Get a sorted list of filenames
     filenames = sorted(os.listdir(folder_path))
 
