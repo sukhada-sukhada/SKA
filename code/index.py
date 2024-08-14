@@ -1,5 +1,5 @@
+
 # import json
-# from constants.mappedRel import CNX_MAP
 
 # def process_json_data(input_file_path, output_file_path):
 #     """
@@ -24,18 +24,19 @@
 #         for entry in entries:
 #             # Check the criteria for wx_root
 #             if entry['wx_root'] != '-' and (not entry['is_indeclinable'] or entry['wx_root'] in ['yaxA', 'waxA']):
-#                 wx_roots.append(entry['wx_root']+'_1')
+#                 wx_roots.append(entry['index'])
                 
 #                 # If the word ends with a hyphen, store the dependency_relation to be added later
 #                 if entry['word'].endswith('-'):
-#                     dependency_relations.append(entry['dependency_relation'])
+#                     dependency_relations.append('-')
         
 #         # Append all dependency_relation values at the end of wx_roots
 #         wx_roots.extend(dependency_relations)
 
 #         # Index the concepts
 #         indexed_concepts = {f"{i+1}": wx_root for i, wx_root in enumerate(wx_roots)}
-        
+#         # indexed_concepts = {wx_root: i + 1 for i, wx_root in enumerate(wx_roots)}
+
 #         result[filename] = indexed_concepts
 
 #     # Save the processed data to a new JSON file
@@ -46,12 +47,11 @@
 
 # # Example usage
 # input_file_path = 'jsonIO/combined_data.json'
-# output_file_path = 'jsonIO/concepts.json'
+# output_file_path = 'jsonIO/indexes.json'
 # process_json_data(input_file_path, output_file_path)
 
 
 import json
-from constants.mappedRel import CNX_MAP
 
 def process_json_data(input_file_path, output_file_path):
     """
@@ -68,41 +68,28 @@ def process_json_data(input_file_path, output_file_path):
 
     # Process each file's data
     result = {}
-
+    
     for filename, entries in data.items():
         wx_roots = []
         dependency_relations = []
-        relation_count = {}  # Dictionary to track the count of each relation
-
+        hyphen_count = 1
+        
         for entry in entries:
             # Check the criteria for wx_root
             if entry['wx_root'] != '-' and (not entry['is_indeclinable'] or entry['wx_root'] in ['yaxA', 'waxA']):
-                wx_roots.append(entry['wx_root'] + '_1')
-
-                # If the word ends with a hyphen, process the dependency_relation
+                wx_roots.append(entry['index'])
+                
+                # If the word ends with a hyphen, store a sequential number
                 if entry['word'].endswith('-'):
-                    # Map the relation from CNX_MAP
-                    mapped_relation = CNX_MAP.get(entry['dependency_relation'], entry['dependency_relation'])
-                    
-                    # Ensure mapped_relation is a string
-                    mapped_relation = str(mapped_relation)
-                    
-                    # Count occurrences of each relation
-                    if mapped_relation in relation_count:
-                        relation_count[mapped_relation] += 1
-                    else:
-                        relation_count[mapped_relation] = 1
-                    
-                    # Create a new relation with suffix if repeated
-                    suffix = f"_{relation_count[mapped_relation]}]"
-                    dependency_relations.append('['+mapped_relation + suffix)
-
+                    dependency_relations.append(hyphen_count)
+                    hyphen_count += 1
+        
         # Append all dependency_relation values at the end of wx_roots
         wx_roots.extend(dependency_relations)
 
         # Index the concepts
         indexed_concepts = {f"{i+1}": wx_root for i, wx_root in enumerate(wx_roots)}
-        
+        # indexed_concepts = {wx_root: i + 1 for i, wx_root in enumerate(wx_roots)}
         result[filename] = indexed_concepts
 
     # Save the processed data to a new JSON file
@@ -113,5 +100,5 @@ def process_json_data(input_file_path, output_file_path):
 
 # Example usage
 input_file_path = 'jsonIO/combined_data.json'
-output_file_path = 'jsonIO/concepts.json'
+output_file_path = 'jsonIO/indexes.json'
 process_json_data(input_file_path, output_file_path)
