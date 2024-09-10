@@ -68,7 +68,6 @@ class SanskritToWX:
         wx_notation_list = [word if word != "-" else None for word in wx_notation_list]
         wx_notation_list = [word for word in wx_notation_list if word is not None]
         wx_notation_list = [word if word in SANSKRIT_TO_WX or word in name_list else word + "_1" for word in wx_notation_list]
-        # print(wx_notation_list)
         modified_wx_notation_list = [SANSKRIT_TO_WX.get(word, word) for word in wx_notation_list]
 
 
@@ -97,11 +96,6 @@ class SanskritToWX:
         
 
     def gen_dependency_row(self, kaaraka_sambandha_data, index_morph_map, word_index_map, dependency_drop_list, kaaraka_sambandha_morph_dict):
-        # print("kaaraka_sambandha_data: ",kaaraka_sambandha_data)
-        # print("index_morph_map: ",index_morph_map)
-        # print("word_index_map: ",word_index_map)
-        # print("dependency_drop_list: ",dependency_drop_list)
-        # print("kaaraka_sambandha_morph_dict: ",kaaraka_sambandha_morph_dict)
         associated_indices_map = []
         for sambandha in kaaraka_sambandha_data:
             if isinstance(sambandha, str):
@@ -129,7 +123,6 @@ class SanskritToWX:
                             index = word_index_map.get(base_word, "")
                             before_word = RELATION_MAP.get(before_word, before_word)
 
-
                         associated_indices_map.append(f"{index}:{before_word}")
                 else:
                     # Handle the case when matches is empty
@@ -137,7 +130,6 @@ class SanskritToWX:
                     index = "0"
                     before_word = "main"
                     associated_indices_map.append(f"{index}:{before_word}")
-
 
         return associated_indices_map
     
@@ -149,7 +141,6 @@ class JSONCreator:
         self.sanskrit_to_wx = SanskritToWX()
     
     def create_json(self, file_path, drop_list, dependency_drop_list):
-        # df = pd.read_csv(file_path, sep='\t')
         df = pd.read_csv(file_path, sep='\t', encoding='utf-8')
         df = df.dropna(subset=['word'])
 
@@ -174,7 +165,8 @@ class JSONCreator:
         original_line = '#' + ' '.join(original_word)
 
         blank_row = self.sanskrit_to_wx.get_blank_row(modified_wx_notation_list)
-
+        modified_wx_notation_list = [re.sub(r'_(?=\D)', '~', word) for word in modified_wx_notation_list]
+        
         print(original_line)
         print(','.join(modified_wx_notation_list))
         print(','.join(index_row))
@@ -192,12 +184,37 @@ class JSONCreator:
 #     output_json = json_creator.create_json(file_path, drop_list, dependency_drop_list)
 #     print(output_json)
 
-if __name__ == "__main__":
-    folder_path = 'ramayana/'  
-    output_file_path = 'output'  
-    # Get a sorted list of filenames
-    filenames = sorted(os.listdir(folder_path))
+# if __name__ == "__main__":
+#     folder_path = 'ramayana/'  
+#     output_file_path = 'output'  
 
+#     filenames = sorted(os.listdir(folder_path))
+#     # with open(output_file_path, 'w', encoding='utf-8') as output_file:
+#     json_creator = JSONCreator()
+    
+#     for filename in filenames:
+#         if filename.endswith(".tsv"):
+#             print('\n\n')
+#             print('filename: ', filename)
+#             file_path = os.path.join(folder_path, filename)
+#             try:
+#                 output_file.write(f"# Processing file: {filename}\n")
+#                 output_json = json_creator.create_json(file_path, drop_list, dependency_drop_list)
+#                 output_file.write(json.dumps(output_json) + '\n')
+#                 output_file.write('\n')
+#             except Exception as e:
+#                 output_file.write(f"# Error occurred while processing {filename}: {e}\n")
+#                 continue
+    
+#         with open(output_file_path, 'w', encoding='utf-8') as output_file:
+#             output_file.write()
+
+
+if __name__ == "__main__":
+    folder_path = 'data/'  
+    output_file_path = 'output'  
+
+    filenames = sorted(os.listdir(folder_path))
     with open(output_file_path, 'w', encoding='utf-8') as output_file:
         json_creator = JSONCreator()
         
@@ -208,11 +225,7 @@ if __name__ == "__main__":
                 file_path = os.path.join(folder_path, filename)
                 try:
                     output_file.write(f"# Processing file: {filename}\n")
-                    output_json = json_creator.create_json(file_path, drop_list, dependency_drop_list)
-                    output_file.write(json.dumps(output_json) + '\n')
-                    output_file.write('\n')
+                    output_lines = json_creator.create_json(file_path, drop_list, dependency_drop_list)
+                    output_file.write('\n'.join(output_lines) + '\n\n')
                 except Exception as e:
                     output_file.write(f"# Error occurred while processing {filename}: {e}\n")
-                    continue
-
-                

@@ -3,7 +3,7 @@
 
 filename:  001_1.tsv
 #तपः- स्वाध्याय- निरतम् तपस्वी वाक्- विदाम् वरम् नारदम् परिपप्रच्छ वाल्मीकिः मुनि- पुङ्गवम् .
-wapas_1,svAXyAya_1,nirawa_1,wapasvin_1,vAc_1,vix_1,vara_1,nAraxa,pari_praC1_1,vAlmIki,muni_1,pufgava_1
+wapas_1,svAXyAya_1,nirawa_1,wapasvin_1,vAc_1,vix_1,vara_1,nAraxa,pari~praC1_1,vAlmIki,muni_1,pufgava_1
 1,2,3,4,5,6,7,8,9,10,11,12
 ,,male,male,,male,male,male,,male,,male
 ,,,,,pl,,,,,,
@@ -227,7 +227,7 @@ affirmative
 
 filename:  006_1.tsv
 #श्रुत्वा च एतत् त्रि- लोक ज्ञः वाल्मीकेः नारदः वचः श्रूयताम् इति च आमन्त्र्य प्रहृष्टः वाक्यम् अब्रवीत् .
-Sru1_1,$wyax,wri_1,loka_1,jFa_1,vAlmIki,nAraxa,vacas_1,Sru1_1,Af_mawr1_1,prahqRta_1,vAkya_1,brU1_1
+Sru1_1,$wyax,wri_1,loka_1,jFa_1,vAlmIki,nAraxa,vacas_1,Sru1_1,Af~mawr1_1,prahqRta_1,vAkya_1,brU1_1
 1,2,3,4,5,6,7,8,9,10,11,12,13
 ,male,,,male,male,male,male,,,male,male,
 ,,,,,,,,,,,,
@@ -311,7 +311,7 @@ affirmative
 
 filename:  008_2.tsv
 #सः नियत- आत्मा महा- वीर्यः च अस्ति .
-$wyax,niyawa(ni_yaw1;GaF;BvAxiH)_1,Awman_1,mahaw_1,vIrya_1,as2_1
+$wyax,niyawa(ni~yaw1;GaF;BvAxiH)_1,Awman_1,mahaw_1,vIrya_1,as2_1
 1,2,3,4,5,6
 male,,male,,male,
 ,,,,,
@@ -451,7 +451,7 @@ affirmative
 
 filename:  011_1.tsv
 #सः समः सम- विभक्त- अङ्गः च अस्ति .
-$wyax,$sama,$sama,viBakwa(vi_Baj1;kwa;BvAxiH)_1,afga_1,as2_1
+$wyax,$sama,$sama,viBakwa(vi~Baj1;kwa;BvAxiH)_1,afga_1,as2_1
 1,2,3,4,5,6
 male,male,,,male,
 ,,,,,
@@ -815,7 +815,7 @@ affirmative
 
 filename:  019_3-21_1.tsv
 #मही- पतिः दशरथः तम् एवं- गुण- सम्पन्नं सत्य- पराक्रमम् ज्येष्ठ- गुणैः युक्तं प्रकृतीनां हितैः युक्तं प्रियं ज्येष्ठं सुतम् च रामं प्रकृति- प्रिय- काम्यया प्रीत्या यौवराज्येन संयोक्तुम् ऐच्छत् .
-mahI_1,pawi_1,xaSaraWa_1,$wyax,evaM_1,guNa_1,sampanna_1,sawya_1,parAkrama_1,jyeRTa_1,guNa_1,yukwa_1,prakqwi_1,hiwa_1,yukwa_1,priya_1,jyeRTa_1,suwa_1,rAma,prakqwi_1,priya_1,kAmyA_1,prIwi_1,yOvarAjya_1,sam_yuj1_1,iR2_1
+mahI_1,pawi_1,xaSaraWa_1,$wyax,evaM_1,guNa_1,sampanna_1,sawya_1,parAkrama_1,jyeRTa_1,guNa_1,yukwa_1,prakqwi_1,hiwa_1,yukwa_1,priya_1,jyeRTa_1,suwa_1,rAma,prakqwi_1,priya_1,kAmyA_1,prIwi_1,yOvarAjya_1,sam~yuj1_1,iR2_1
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
 ,male,male,male,,,male,,male,,male,male,female,male,male,male,male,male,male,,,female,female,male,,
 ,,,,,,,,,,pl,,pl,pl,,,,,,,,,,,,
@@ -857,7 +857,7 @@ affirmative
 
 filename:  023_1.tsv
 #सः सत्य- वचनाद् राजा धर्म- पाशेन संयतः विवासयामास सुतं रामं दशरथः प्रियम् .
-$wyax,sawya_1,vacana_1,rAjan_1,Xarma_1,pASa_1,saMyawa_1,vi_vas1_1,suwa_1,rAma,xaSaraWa_1,priya_1
+$wyax,sawya_1,vacana_1,rAjan_1,Xarma_1,pASa_1,saMyawa_1,vi~vas1_1,suwa_1,rAma,xaSaraWa_1,priya_1
 1,2,3,4,5,6,7,8,9,10,11,12
 male,,male,male,,male,male,,male,male,male,male
 ,,,,,,,,,,,
@@ -955,7 +955,7 @@ affirmative
 
 filename:  028_2-29_1.tsv
 #पौरैः पित्रा दशरथेन च दूरं अनुगतः धर्मात्मा शृङ्गवेर- पुरे निषाद- अधिपतिं प्रियम् गुहम् आसाद्य सूतं गङ्गा- कूले व्यसर्जयत् .
-pOra_1,piwq_1,xaSaraWa_1,xUra_1,anugawa_1,XarmAwman_1,Sqfgavera_1,pura_1,niRAxa(ni_Rax1;GaF;BvAxiH)_1,aXipawi_1,priya_1,guha_1,Af_Rax1_1,sUwa_1,gafgA_1,kUla_1,vi_sq2_1
+pOra_1,piwq_1,xaSaraWa_1,xUra_1,anugawa_1,XarmAwman_1,Sqfgavera_1,pura_1,niRAxa(ni~Rax1;GaF;BvAxiH)_1,aXipawi_1,priya_1,guha_1,Af~Rax1_1,sUwa_1,gafgA_1,kUla_1,vi~sq2_1
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
 male,male,male,male,male,male,,male,,male,male,male,,male,,male,
 pl,,,,,,,,,,,,,,,,
@@ -969,7 +969,7 @@ affirmative
 
 filename:  030-32_1.tsv
 #रामः गुहेन लक्ष्मणेन सीतया च सहितः वनेन वनं गत्वा बहु- उदकाः नदीः तीर्त्वा चित्रकूटम् अनुप्राप्य भरद्वाजस्य शासनात् रम्यम् आवसथं कृत्वा देव- गन्धर्व- सङ्काशाः वने रममाणाः ते त्रयः तत्र सुखम् न्यवसन् .
-rAma,guha_1,lakRmaNa,sIwA,sahiwa_1,vana_1,vana_1,gam1_1,bahu_1,uxakA_1,naxI_1,wa1_1,ciwrakUta,anu_pra_Ap1_1,BaraxvAja,SAsana_1,ramya_1,AvasaWa_1,kq2_1,xeva_1,ganXarva_1,safkASA_1,vana_1,ramamANa_1,$wyax,wri_1,ni_vas1_1
+rAma,guha_1,lakRmaNa,sIwA,sahiwa_1,vana_1,vana_1,gam1_1,bahu_1,uxakA_1,naxI_1,wa1_1,ciwrakUta,anu~pra~Ap1_1,BaraxvAja,SAsana_1,ramya_1,AvasaWa_1,kq2_1,xeva_1,ganXarva_1,safkASA_1,vana_1,ramamANa_1,$wyax,wri_1,ni~vas1_1
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
 male,male,male,female,male,male,male,,,female,female,,male,,male,male,male,male,,,,female,male,male,male,male,
 ,,,,,,,,,pl,pl,,,,,,,,,,,pl,,pl,pl,pl,pl
@@ -1067,7 +1067,7 @@ affirmative
 
 filename:  037_2-38_1.tsv
 #रामः महा- बलः पादुके च अस्य राज्याय न्यासं दत्त्वा पुनः पुनः निवर्तयामास ततः भरतं भरत- अग्र- जः .
-rAma,mahA_1,bala_1,pAxuka_1,$wyax,rAjya_1,nyAsa_1,xA1_1,ni_vqw1_1,Bq1_1,Barawa,agra-_1,ja_1
+rAma,mahA_1,bala_1,pAxuka_1,$wyax,rAjya_1,nyAsa_1,xA1_1,ni~vqw1_1,Bq1_1,Barawa,agra-_1,ja_1
 1,2,3,4,5,6,7,8,9,10,11,12,13
 male,,male,male,male,male,male,,,,,,male
 ,,,,,,,,,dl,,,
@@ -1081,7 +1081,7 @@ affirmative
 
 filename:  038_2-39_1.tsv
 #सः कामम् अन्- अवाप्य एव राम- पादौ उपस्पृशन् नन्दि- ग्रामे अकरोत् राज्यं राम- आगमन- काङ्क्षया .
-$wyax,kAma_1,an_1,ava_Ap1_1,rAma,pAxa_1,upaspqSaw_1,nanxi_1,grAma_1,kq3_1,rAjya_1,rAma,Agamana(Af_gam1;lyut;BvAxiH)_1,kAfkRA_1
+$wyax,kAma_1,an_1,ava~Ap1_1,rAma,pAxa_1,upaspqSaw_1,nanxi_1,grAma_1,kq3_1,rAjya_1,rAma,Agamana(Af~gam1;lyut;BvAxiH)_1,kAfkRA_1
 1,2,3,4,5,6,7,8,9,10,11,12,13,14
 male,male,,,,male,male,,male,,male,,,female
 ,,,,,dl,,,,,,,,
@@ -1095,7 +1095,7 @@ affirmative
 
 filename:  039_2-40.tsv
 #गते तु भरते श्रीमान् सत्य- सन्धः जितेन्द्रियः रामः तु पुनः आलक्ष्य नागरस्य जनस्य च तत्र आगमनम् एकाग्रः दण्डकान् प्रविवेश ह .
-gawa_1,Barawa,SrImaw_1,sawya_1,sanXa_1,jiwenxriya_1,rAma,Af_lakR2_1,nAgara_1,jana_1,Agamana_1,ekAgra_1,xaNdaka_1,pra_viS1_1
+gawa_1,Barawa,SrImaw_1,sawya_1,sanXa_1,jiwenxriya_1,rAma,Af~lakR2_1,nAgara_1,jana_1,Agamana_1,ekAgra_1,xaNdaka_1,pra~viS1_1
 1,2,3,4,5,6,7,8,9,10,11,12,13,14
 male,male,male,,male,male,male,,male,male,male,male,male,
 ,,,,,,,,,,,,pl,
@@ -1109,7 +1109,7 @@ affirmative
 
 filename:  041_1-42_1.tsv
 #प्रविश्य तु महारण्यं रामः राजीव- लोचनः विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह सुतीक्ष्णं च अपि अगस्त्यं च अगस्त्य- भ्रातरं तथा .
-pra_viS1_1,mahAraNya_1,rAma,rAjIva_1,locana_1,virAXa_1,rAkRasa_1,han1_1,SaraBafga,xqS1_1,suwIkRNa_1,agaswya,agaswya,BrAwq_1
+pra~viS1_1,mahAraNya_1,rAma,rAjIva_1,locana_1,virAXa_1,rAkRasa_1,han1_1,SaraBafga,xqS1_1,suwIkRNa_1,agaswya,agaswya,BrAwq_1
 1,2,3,4,5,6,7,8,9,10,11,12,13,14
 ,male,male,,male,male,male,,male,,male,male,,male
 ,,,,,,,,,,,,,
@@ -1137,7 +1137,7 @@ affirmative
 
 filename:  043_2-44_1.tsv
 #तस्य रामस्य वने वसतः वनचरैः सह सर्वे ऋषयः असुर- रक्षसाम् वधाय अभ्यागमन् .
-$wyax,rAma,vana_1,vasaw_1,vanacara_1,$sarva,qRi_1,asura_1,rakRas_1,vaXa_1,aBi_Af_gam1_1
+$wyax,rAma,vana_1,vasaw_1,vanacara_1,$sarva,qRi_1,asura_1,rakRas_1,vaXa_1,aBi~Af~gam1_1
 1,2,3,4,5,6,7,8,9,10,11
 male,male,male,male,male,male,male,,male,male,
 ,,,,pl,pl,pl,,pl,,pl
@@ -1151,7 +1151,7 @@ affirmative
 
 filename:  044_2.tsv
 #सः तेषां प्रतिशुश्राव राक्षसानां वधम् तदा वने .
-$wyax,$wyax,prawi_Sru1_1,rAkRasa_1,vaXa_1,vana_1
+$wyax,$wyax,prawi~Sru1_1,rAkRasa_1,vaXa_1,vana_1
 1,2,3,4,5,6
 male,male,,male,male,male
 ,pl,,pl,,
@@ -1193,7 +1193,7 @@ affirmative
 
 filename:  047-48_1.tsv
 #ततः शूर्पणखा- वाक्यात् उद्युक्तान् सर्व- राक्षसान् खरं त्रिशिरसं दूषणं च एव राक्षसम् तेषां पदानुगान् च एव रणे रामः निजघान .
-SUrpaNaKA,vAkya_1,uxyukwa_1,$sarva,rAkRasa_1,Kara_1,wriSiras_1,xURaNa_1,rAkRasa_1,$wyax,paxAnuga_1,raNa_1,rAma,ni_han1_1
+SUrpaNaKA,vAkya_1,uxyukwa_1,$sarva,rAkRasa_1,Kara_1,wriSiras_1,xURaNa_1,rAkRasa_1,$wyax,paxAnuga_1,raNa_1,rAma,ni~han1_1
 1,2,3,4,5,6,7,8,9,10,11,12,13,14
 ,male,male,,male,male,male,male,male,male,male,male,male,
 ,,pl,,pl,,,,,pl,pl,,,
@@ -1235,7 +1235,7 @@ affirmative
 
 filename:  052_2-53_1.tsv
 #तेन मायाविना नृप- आत्म- जौ दूरम् अपवाह्य गृध्रं जटायुषम् हत्वा रामस्य भार्यां जहार .
-$wyax,mAyAvin_1,nqpa_1,Awma-_1,ja_1,xUra_1,apa_vah1_1,gqXra_1,jatAyus,han1_1,rAma,BAryA_1,hq2_1
+$wyax,mAyAvin_1,nqpa_1,Awma-_1,ja_1,xUra_1,apa~vah1_1,gqXra_1,jatAyus,han1_1,rAma,BAryA_1,hq2_1
 1,2,3,4,5,6,7,8,9,10,11,12,13
 male,male,,,male,male,,male,male,,male,female,
 ,,,,dl,,,,,,,,
@@ -1249,7 +1249,7 @@ affirmative
 
 filename:  053_2-54_1.tsv
 #गृध्रं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम् राघवः शोक- संतप्तः विललाप आकुल- इन्द्रियः .
-gqXra_1,nihawa_1,xqS1_1,hqwA_1,Sru1_1,mEWilI_1,rAGava,Soka_1,sanwapwa_1,vi_lap1_1,Akula_1,inxriya_1
+gqXra_1,nihawa_1,xqS1_1,hqwA_1,Sru1_1,mEWilI_1,rAGava,Soka_1,sanwapwa_1,vi~lap1_1,Akula_1,inxriya_1
 1,2,3,4,5,6,7,8,9,10,11,12
 male,male,,female,,female,male,,male,,,male
 ,,,,,,,,,,,
@@ -1263,7 +1263,7 @@ affirmative
 
 filename:  054_2-55_1.tsv
 #तेन एव शोकेन गृध्रं दग्ध्वा जटायुषम् मार्गमाणः वने सीतां राक्षसं संददर्श ह कबन्धं नाम रूपेण विकृतं घोर- दर्शनम् .
-$wyax,Soka_1,gqXra_1,xah1_1,jatAyus,mArgamANa_1,vana_1,sIwA,rAkRasa_1,sam_xqS1_1,kabanXa,rUpa_1,vikqwa_1,Gora_1,xarSana_1
+$wyax,Soka_1,gqXra_1,xah1_1,jatAyus,mArgamANa_1,vana_1,sIwA,rAkRasa_1,sam~xqS1_1,kabanXa,rUpa_1,vikqwa_1,Gora_1,xarSana_1
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
 male,male,male,,male,male,male,female,male,,male,male,male,,male
 ,,,,,,,,,,,,,,
@@ -1277,7 +1277,7 @@ affirmative
 
 filename:  056_1.tsv
 #तं निहत्य महा- बाहुः ददाह .
-$wyax,ni_han1_1,mahA_1,bAhu_1,xah1_1
+$wyax,ni~han1_1,mahA_1,bAhu_1,xah1_1
 1,2,3,4,5
 male,,,male,
 ,,,,
@@ -1305,7 +1305,7 @@ affirmative
 
 filename:  056_3-57_1.tsv
 #सः च तम् कथयामास शबरीं धर्मचारिणीम् श्रमणां धर्म- निपुणाम् अभिगच्छ इति राघव .
-$wyax,$wyax,kaWa1_1,SabarI,XarmacAriNI_1,SramaNA_1,Xarma_1,nipuNA_1,aBi_gam1_1,rAGava
+$wyax,$wyax,kaWa1_1,SabarI,XarmacAriNI_1,SramaNA_1,Xarma_1,nipuNA_1,aBi~gam1_1,rAGava
 1,2,3,4,5,6,7,8,9,10
 male,male,,female,female,female,,female,,male
 ,,,,,,,,,
@@ -1319,7 +1319,7 @@ affirmative
 
 filename:  057_2.tsv
 #सः अभ्यगच्छत् महा- तेजाः शबरीं शत्रु- सूदनः .
-$wyax,aBi_gam1_1,mahaw_1,wejas_1,SabarI,Sawru_1,sUxana_1
+$wyax,aBi~gam1_1,mahaw_1,wejas_1,SabarI,Sawru_1,sUxana_1
 1,2,3,4,5,6,7
 male,,,male,female,,male
 ,,,,,,
@@ -1445,7 +1445,7 @@ affirmative
 
 filename:  065_1.tsv
 #उत्स्मयित्वा महा- बाहुः प्रेक्ष्य च अस्थि महा- बलः पाद- अङ्गुष्ठेन चिक्षेप सम्पूर्णं दश- योजनम् .
-uw_smi1_1,mahA_1,bAhu_1,pra_IkR1_1,asWi_1,mahA_1,bala_1,pAxa_1,afguRTa_1,kRip2_1,sampUrNa_1,xaSan_1,yojana_1
+uw~smi1_1,mahA_1,bAhu_1,pra~IkR1_1,asWi_1,mahA_1,bala_1,pAxa_1,afguRTa_1,kRip2_1,sampUrNa_1,xaSan_1,yojana_1
 1,2,3,4,5,6,7,8,9,10,11,12,13
 ,,male,,male,,male,,male,,male,,male
 ,,,,,,,,,,,,
@@ -1501,7 +1501,7 @@ affirmative
 
 filename:  068_2.tsv
 #तेन नादेन महता निर्जगाम हरि- ईश्वरः .
-$wyax,nAxa_1,mahaw_1,nir_gam1_1,hari_1,ISvara_1
+$wyax,nAxa_1,mahaw_1,nir~gam1_1,hari_1,ISvara_1
 1,2,3,4,5,6
 male,male,male,,,male
 ,,,,,
@@ -1515,7 +1515,7 @@ affirmative
 
 filename:  069_1.tsv
 #अनुमान्य तदा तारां सुग्रीवेण समागतः .
-anu_man2_1,wArA_1,sugrIva,samAgawa_1
+anu~man2_1,wArA_1,sugrIva,samAgawa_1
 1,2,3,4
 ,female,male,male
 ,,,
@@ -1529,7 +1529,7 @@ affirmative
 
 filename:  069_2.tsv
 #निजघान च तत्र एनं शरेण एकेन राघवः .
-ni_han1_1,$wyax,Sara_1,$eka,rAGava
+ni~han1_1,$wyax,Sara_1,$eka,rAGava
 1,2,3,4,5
 ,male,male,male,male
 ,,,,
@@ -1543,7 +1543,7 @@ affirmative
 
 filename:  070_1.tsv
 #ततः सुग्रीव- वचनात् हत्वा वालिनम् आहवे सुग्रीवम् एव तद्- राज्ये राघवः प्रत्यपादयत् .
-sugrIva,vacana_1,han1_1,vAlin,Ahava_1,sugrIva,$wyax,rAjya_1,rAGava,prawi_pax1_1
+sugrIva,vacana_1,han1_1,vAlin,Ahava_1,sugrIva,$wyax,rAjya_1,rAGava,prawi~pax1_1
 1,2,3,4,5,6,7,8,9,10
 ,male,,male,male,male,,male,male,
 ,,,,,,,,,
@@ -1557,7 +1557,7 @@ affirmative
 
 filename:  071_1.tsv
 #सः च सर्वान् समानीय वानरान् वानरर्षभः दिशः प्रस्थापयामास दिदृक्षुः जनक- आत्मजाम् .
-$wyax,$sarva,sam_Af_NI1_1,vAnara_1,xiS_1,pra_RWA1_1,xixqkRu_1,janaka_1,AwmajA_1
+$wyax,$sarva,sam~Af~NI1_1,vAnara_1,xiS_1,pra~RWA1_1,xixqkRu_1,janaka_1,AwmajA_1
 1,2,3,4,5,6,7,8,9
 male,male,,male,,female,,male,
 ,pl,,pl,,pl,,,
@@ -1585,7 +1585,7 @@ affirmative
 
 filename:  073_1.tsv
 #तत्र रावण- पालिताम् लङ्कां पुरीं समासाद्य अशोक- वनिकां गताम् ध्यायन्तीम् सीतां ददर्श .
-rAvaNa,pAliwA_1,lafkA,purI_1,sam_Af_Rax1_1,aSoka_1,vanikA_1,gawA_1,XyAyanwI_1,sIwA,xqS1_1
+rAvaNa,pAliwA_1,lafkA,purI_1,sam~Af~Rax1_1,aSoka_1,vanikA_1,gawA_1,XyAyanwI_1,sIwA,xqS1_1
 1,2,3,4,5,6,7,8,9,10,11
 ,female,female,female,,,female,female,female,female,
 ,,,,,,,,,,
@@ -1599,7 +1599,7 @@ affirmative
 
 filename:  074_1.tsv
 #निवेद्य अभिज्ञानं प्रवृत्तिं विनिवेद्य च समाश्वास्य च वैदेहीं मर्दयामास तोरणम् .
-ni_vix1_1,aBi_jFAna_1,pravqwwi_1,vi_ni_vix1_1,sam_Af_Svas1_1,vExehI,mqx1_1,woraNa_1
+ni~vix1_1,aBi~jFAna_1,pravqwwi_1,vi~ni~vix1_1,sam~Af~Svas1_1,vExehI,mqx1_1,woraNa_1
 1,2,3,4,5,6,7,8
 ,male,female,,,female,,male
 ,,,,,,,
@@ -1613,7 +1613,7 @@ affirmative
 
 filename:  075_1.tsv
 #पञ्च सेन- अग्रगान् हत्वा सप्त मन्त्रि- सुतान् अपि शूरम् अक्षं च निष्पिष्य ग्रहणं समुपागमत् .
-paFcan_1,sena_1,agraga_1,han1_1,sapwan_1,manwrin_1,suwa_1,SUra_1,akRa_1,nis_piR1_1,grahaNa_1,sam_upa_Af_gam1_1
+paFcan_1,sena_1,agraga_1,han1_1,sapwan_1,manwrin_1,suwa_1,SUra_1,akRa_1,nis~piR1_1,grahaNa_1,sam~upa~Af~gam1_1
 1,2,3,4,5,6,7,8,9,10,11,12
 ,,male,,,,male,male,male,,male,
 pl,,pl,,pl,,pl,,,,,
@@ -1641,7 +1641,7 @@ affirmative
 
 filename:  078_1.tsv
 #सः अभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम् न्यवेदयत् अमेयात्मा .
-$wyax,aBi_gam1_1,mahAwman_1,kq2_1,rAma,praxakRiNa_1,ni_vix1_1,ameyAwman_1
+$wyax,aBi~gam1_1,mahAwman_1,kq2_1,rAma,praxakRiNa_1,ni~vix1_1,ameyAwman_1
 1,2,3,4,5,6,7,8
 male,,male,,male,male,,male
 ,,,,,,,
@@ -1711,7 +1711,7 @@ affirmative
 
 filename:  081_1.tsv
 #तेन गत्वा पुरीं लङ्कां हत्वा रावणम् आहवे रामः सीताम् अनुप्राप्य परां व्रीडाम् उपागमत् .
-$wyax,gam1_1,purI_1,lafkA,han1_1,rAvaNa,Ahava_1,rAma,sIwA,anu_pra_Ap1_1,parA_1,vrIdA_1,upa_Af_gam1_1
+$wyax,gam1_1,purI_1,lafkA,han1_1,rAvaNa,Ahava_1,rAma,sIwA,anu~pra~Ap1_1,parA_1,vrIdA_1,upa~Af~gam1_1
 1,2,3,4,5,6,7,8,9,10,11,12,13
 male,,female,female,,male,male,male,female,,female,female,
 ,,,,,,,,,,,,
@@ -1753,7 +1753,7 @@ affirmative
 
 filename:  083_1.tsv
 #ततः अग्नि- वचनात् सीतां ज्ञात्वा विगत- कल्मषाम् अङ्गीचकार .
-agni_1,vacana_1,sIwA,jFA1_1,vigawa(vi_gam1;kwa;BvAxiH)_1,kalmaRA_1,afgI_kq3_1
+agni_1,vacana_1,sIwA,jFA1_1,vigawa(vi~gam1;kwa;BvAxiH)_1,kalmaRA_1,afgI~kq3_1
 1,2,3,4,5,6,7
 ,male,female,,,female,
 ,,,,,,
@@ -1795,7 +1795,7 @@ affirmative
 
 filename:  085_1.tsv
 #अभिषिच्य च लङ्कायां राक्षस- इन्द्रं विभीषणम् कृतकृत्यः तदा रामः विज्वरः प्रमुमोद ह .
-aBi_Ric1_1,lafkA,rAkRasa_1,inxra,viBIRaNa_1,kqwakqwya_1,rAma,vijvara_1,pra_mux1_1
+aBi~Ric1_1,lafkA,rAkRasa_1,inxra,viBIRaNa_1,kqwakqwya_1,rAma,vijvara_1,pra~mux1_1
 1,2,3,4,5,6,7,8,9
 ,female,,male,male,male,male,male,
 ,,,,,,,,
@@ -1809,7 +1809,7 @@ affirmative
 
 filename:  086_1.tsv
 #देवताभ्यः वरं प्राप्य समुत्थाप्य च वानरान् अयोध्यां प्रस्थितः रामः पुष्पकेण सुहृद्- वृतः .
-xevawA_1,vara_1,pra_Ap1_1,sam_uw_RWA1_1,vAnara_1,ayoXyA,prasWiwa_1,rAma,puRpaka_1,suhq_1,vqw_1
+xevawA_1,vara_1,pra~Ap1_1,sam~uw~RWA1_1,vAnara_1,ayoXyA,prasWiwa_1,rAma,puRpaka_1,suhq_1,vqw_1
 1,2,3,4,5,6,7,8,9,10,11
 female,male,,,male,female,male,male,male,,male
 pl,,,,pl,,,,,,
@@ -1823,7 +1823,7 @@ affirmative
 
 filename:  087_1.tsv
 #भरद्वाज- आश्रमं गत्वा आरामः सत्य- पराक्रमः भरतस्य अन्तिके रामः हनूमन्तं व्यसर्जयत् .
-BaraxvAja,ASrama_1,gam1_1,ArAma_1,sawya_1,parAkrama_1,Barawa,anwika_1,rAma,hanUmaw_1,vi_sq2_1
+BaraxvAja,ASrama_1,gam1_1,ArAma_1,sawya_1,parAkrama_1,Barawa,anwika_1,rAma,hanUmaw_1,vi~sq2_1
 1,2,3,4,5,6,7,8,9,10,11
 ,male,,male,,male,male,male,male,male,
 ,,,,,,,,,,
@@ -1837,7 +1837,7 @@ affirmative
 
 filename:  088_1.tsv
 #पुनः आख्यायिकां जल्पन् सुग्रीव- सहितः तदा पुष्पकं तत् समारुह्य नन्दि- ग्रामं ययौ तदा .
-AKyAyikA_1,jalpaw_1,sugrIva,sahiwa_1,puRpaka_1,$wyax,sam_Af_ruh1_1,nanxi_1,grAma_1,yA1_1
+AKyAyikA_1,jalpaw_1,sugrIva,sahiwa_1,puRpaka_1,$wyax,sam~Af~ruh1_1,nanxi_1,grAma_1,yA1_1
 1,2,3,4,5,6,7,8,9,10
 female,male,,male,male,male,,,male,
 ,,,,,,,,,
@@ -1851,7 +1851,7 @@ affirmative
 
 filename:  089_1.tsv
 #नन्दि- ग्रामे जटां हित्वा भ्रातृभिः सहितः अनघः रामः सीताम् अनुप्राप्य राज्यं पुनः अवाप्तवान् .
-nanxi_1,grAma_1,jatA_1,hA2_1,BrAwq_1,sahiwa_1,anaGa_1,rAma,sIwA,anu_pra_Ap1_1,rAjya_1,avApwavaw_1
+nanxi_1,grAma_1,jatA_1,hA2_1,BrAwq_1,sahiwa_1,anaGa_1,rAma,sIwA,anu~pra~Ap1_1,rAjya_1,avApwavaw_1
 1,2,3,4,5,6,7,8,9,10,11,12
 ,male,female,,male,male,male,male,female,,male,male
 ,,,,pl,,,,,,,
@@ -1865,7 +1865,7 @@ affirmative
 
 filename:  090_1.tsv
 #प्रहृष्ट- मुदितः लोकः तुष्टः पुष्टः सु- धार्मिकः भविष्यति .
-prahqRta(pra_hqR2;kwa;xivAxiH)_1,muxiwa_1,loka_1,wuRta_1,puRta_1,su_1,XArmika_1,BU1_1
+prahqRta(pra~hqR2;kwa;xivAxiH)_1,muxiwa_1,loka_1,wuRta_1,puRta_1,su_1,XArmika_1,BU1_1
 1,2,3,4,5,6,7,8
 ,male,male,male,male,,male,
 ,,,,,,,
@@ -2047,7 +2047,7 @@ affirmative
 
 filename:  096_2.tsv
 #राघवः चातुर्वर्ण्यं च लोके अस्मिन् स्वे स्वे धर्मे नियोक्ष्यति .
-rAGava,cAwurvarNya_1,loka_1,$wyax,sve_1,$sva,Xarma_1,ni_yuj2_1
+rAGava,cAwurvarNya_1,loka_1,$wyax,sve_1,$sva,Xarma_1,ni~yuj2_1
 1,2,3,4,5,6,7,8
 male,male,male,male,male,male,male,
 ,,,,,,,
@@ -2061,7 +2061,7 @@ affirmative
 
 filename:  097_1.tsv
 #दश- वर्ष- सहस्राणि दश- वर्ष- शतानि च रामः राज्यम् उपासित्वा ब्रह्मलोकं प्रयास्यति .
-xaSan_1,varRa_1,sahasra_1,xaSan_1,varRa_1,Sawa_1,rAma,rAjya_1,upa_As1_1,brahmaloka_1,pra_yA1_1
+xaSan_1,varRa_1,sahasra_1,xaSan_1,varRa_1,Sawa_1,rAma,rAjya_1,upa~As1_1,brahmaloka_1,pra~yA1_1
 1,2,3,4,5,6,7,8,9,10,11
 ,,male,,,male,male,male,,male,
 ,,pl,,,pl,,,,,
@@ -2089,7 +2089,7 @@ affirmative
 
 filename:  098_2.tsv
 #सः सर्व- पापैः प्रमुच्यते .
-$wyax,$sarva,pApa_1,pra_muc1_1
+$wyax,$sarva,pApa_1,pra~muc1_1
 1,2,3,4
 male,,male,
 ,,pl,
@@ -2103,7 +2103,7 @@ affirmative
 
 filename:  099_1.tsv
 #एतत् आख्यानम् आयुष्यं पठन् रामायणं नरः स- -पुत्र- पौत्रः सगणः प्रेत्य स्वर्गे महीयते .
-$wyax,AKyAna_1,AyuRya_1,paTaw_1,rAmAyaNa_1,nq_1,sa-_1,-puwra-_1,pOwra_1,sagaNa_1,pra_i1_1,svarga_1,mahI_1
+$wyax,AKyAna_1,AyuRya_1,paTaw_1,rAmAyaNa_1,nq_1,sa-_1,-puwra-_1,pOwra_1,sagaNa_1,pra~i1_1,svarga_1,mahI_1
 1,2,3,4,5,6,7,8,9,10,11,12,13
 male,male,male,male,male,male,,,male,male,,male,
 ,,,,,pl,,,,,,,
