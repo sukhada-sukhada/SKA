@@ -29,7 +29,7 @@ Once the JSON is created, generate the Sanskrit USR.
 ```
 python3 main.py
 ```
-- The output USR will be saved in the IO/ directory as generated_USR.txt
+- The output USR will be saved in the IO/ directory as USR_output.txt
 
 ## Output
 
