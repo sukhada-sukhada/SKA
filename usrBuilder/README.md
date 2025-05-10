@@ -16,7 +16,7 @@ Convert individual parsed Sanskrit files into a consolidated JSON file.
 ### Usage
 
 ```
-python3 convert_to_json.py <folder_name>
+python3 Convert_to_JSON.py <folder_name>
 ```
 - <folder_name> should be the path to the folder containing all individual parsed Sanskrit files.
 
