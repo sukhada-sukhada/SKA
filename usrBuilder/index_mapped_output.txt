@@ -1,0 +1,2002 @@
+<sent_id=01_001_1>
+#आदि-रोगान् सतत-अनुषक्तान् अ-शेष-काय-प्रसृतान् अ-शेषान् औत्सुक्य-मोह-अ-रति-दान् जघान यः .
+Axi_1	1	-	-	2:कर्मधारयः	-	-	-
+roga_1	2	-	pl	16:k2	-	-	-
+sawawa_1	3	-	-	4:कर्मधारयः	-	-	-
+anuRakwa_1	4	-	pl	2:mod	-	-	-
+a_1	5	-	-	6:neg	-	-	-
+SeRa_1	6	-	-	7:कर्मधारयः	-	-	-
+kAya_1	7	-	-	8:k7	-	-	-
+prasqwa_1	8	-	pl	2:mod	-	-	-
+a_1	9	-	-	10:अस्त्यर्थ-मध्यमपदलोपी(नञ्)-बहुव्रीहिः	-	-	-
+SeRa_1	10	-	pl	2:mod	-	-	-
+Owsukya_1	11	-	-	14:k7	-	-	-
+moha_1	12	-	-	14:k7	-	-	-
+a_1	13	-	-	14:neg	-	-	-
+rawi_1	14	-	-	15:k2	-	-	-
+xa_1	15	-	pl	2:mod	-	-	-
+han_1-a_1	16	-	-	0:main	-	-	-
+$yax	17	-	-	16:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_001_1_1>
+#अथ अतः आयुष्कामीयम् अध्यायम् व्याख्यास्यामः .
+aWa_1	1	-	-	4:k7t	-	-	-
+AyuRkAmIya_1	2	-	-	3:mod	-	-	-
+aXyAya_1	3	-	-	4:k2	-	-	-
+vi_Af_KyA_1-syawi_1	4	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_001_2>
+#अ-पूर्व-वैद्याय नमः अस्तु तस्मै .
+a_1	1	-	-	2:अस्त्यर्थ-मध्यमपदलोपी(नञ्)-बहुव्रीहिः	-	-	-
+pUrva_1	2	-	-	3:कर्मधारयः	-	-	-
+vExya_1	3	-	-	4:rt	-	-	-
+namaH_1	4	-	-	5:k1	-	-	-
+as_1-awu_1	5	-	-	0:main	-	-	-
+$wyax	6	-	-	3:mod	-	distal	-
+%affirmative
+</sent_id>
+
+<sent_id=01_001_2_1>
+#इति ह स्म आहुः आत्रेय-आदयः महा-ऋषयः .
+brU_1-awi_1	1	-	pl	0:main	-	-	-
+Awreya_1	2	-	-	3:mod	-	-	-
+Axi_1	3	-	pl	1:k1	-	-	-
+mahaw_1	4	-	-	5:कर्मधारयः	-	-	-
+qRi_1	5	-	pl	3:mod	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_002_1>
+#आयुः कामयमानेन धर्म-अर्थ-सुख-साधनम् आयुः-वेद-उपदेशेषु विधेयः परम-आदरः .
+Ayus_1	1	-	-	2:k2	-	-	-
+kAmayamAna_1	2	-	-	10:k1	-	-	-
+Xarma_1	3	-	-	5:द्वन्द्वः	-	-	-
+arWa_1	4	-	-	5:द्वन्द्वः	-	-	-
+suKa_1	5	-	-	6:r6	-	-	-
+sAXana_1	6	-	-	1:mod	-	-	-
+Ayus_1	7	-	-	8:r6	-	-	-
+vexa_1	8	-	-	9:r6	-	-	-
+upaxeSa_1	9	-	pl	10:k7p	-	-	-
+viXeya_1	10	-	-	0:main	-	-	-
+parama_1	11	-	-	12:कर्मधारयः	-	-	-
+Axara_1	12	-	-	10:k2	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_003-004_1_1>
+#ब्रह्मा स्मृत्वा आयुषः वेदम् प्रजापतिम् अजिग्रहत् .
+brahman_1	1	-	-	6:pk1	-	-	-
+smq_1	2	-	-	6:rpk	-	-	-
+Ayus_1	3	-	-	4:r6	-	-	-
+vexa_1	4	-	-	2:k2	-	-	-
+prajApawi_1	5	-	-	6:jk1	-	-	-
+grah_1-Iw_1	6	-	causative	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_003-004_1_2>
+#सः अश्विनौ (अजिग्रहत्) .
+$wyax	1	-	-	3:pk1	-	distal	-
+aSvin_1	2	-	dl	3:jk1	-	-	-
+grah_1-Iw_1	3	-	causative	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_003-004_1_3>
+#तौ सहस्र-अक्षम् (अजिग्रहताम्) .
+$wyax	1	-	dl	4:pk1	-	distal	-
+sahasra_1	2	-	-	3:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+akRa_1	3	-	-	4:jk1	-	-	-
+grah_1-Iw_1	4	-	causative	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_003-004_1_4>
+#सः अत्रि-पुत्र-आदिकान् मुनीन् (अजिग्रहत्) .
+$wyax	1	-	-	6:pk1	-	distal	-
+awri_1	2	-	-	3:r6	-	-	-
+puwra_1	3	-	-	4:mod	-	-	-
+Axika_1	4	-	pl	6:jk1	-	-	-
+muni_1	5	-	pl	4:mod	-	-	-
+grah_1-Iw_1	6	-	causative	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_003-004_1_5>
+#ते अग्निवेश-आदिकान् (अजिग्रहन्) .
+$wyax	1	-	pl	4:pk1	-	distal	-
+agniveSa_1	2	-	-	3:mod	-	-	-
+Axika_1	3	-	pl	4:jk1	-	-	-
+grah_1-Iw_1	4	-	causative	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_003-004_1_6>
+#ते तु पृथक् तन्त्राणि तेनिरे .
+$wyax	1	-	pl	4:k1	-	distal	-
+pqWak_1	2	-	-	4:krvn	-	-	-
+wanwra_1	3	-	pl	4:k2	-	-	-
+wan_1	4	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_004_2-005_1_1>
+#तेभ्यः अति-विप्रकीर्णेभ्यः प्रायः सारतर-उच्चयः क्रियते .
+$wyax	1	-	pl	3:mod	-	distal	-
+awi_1	2	-	-	3:अव्ययीभावः	-	-	-
+vi_pra_kIrNa_1	3	-	pl	7:k5	-	-	-
+prAyaH_1	4	-	-	6:krvn	-	-	-
+sAra_1	5	-	comparmore	6:r6	-	-	-
+uccaya_1	6	-	-	7:k2	-	-	-
+kq_1-ya_we_1	7	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_004_2-005_1_2>
+#अष्ट-अङ्ग-हृदयम् न-अति-सङ्क्षेप-विस्तरम् (क्रियते) .
+aRta_1	1	-	-	2:कर्मधारयः	-	-	-
+afga_1	2	-	-	3:r6	-	-	-
+hqxaya_1	3	-	-	8:k2	-	-	-
+na_1	4	-	-	5:केवलसमासः	-	-	-
+awi_1	5	-	-	7:सप्तमी-बहुव्रीहिः	-	-	-
+safkRepa_1	6	-	-	7:k7	-	-	-
+viswara_1	7	-	-	3:mod	-	-	-
+kq_1-ya_we_1	8	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_005_2-006_1_1>
+#काय-बाल-ग्रह-ऊर्ध्व-अङ्ग-शल्य-दंष्ट्रा-जरा-वृषान् अष्टौ अङ्गानि तस्य आहुः .
+kAya_1	1	-	-	9:k7	-	-	-
+bAla_1	2	-	-	9:k7	-	-	-
+graha_1	3	-	-	9:k7	-	-	-
+UrXva_1	4	-	-	5:कर्मधारयः	-	-	-
+afga_1	5	-	-	9:k7	-	-	-
+Salya_1	6	-	-	9:k7	-	-	-
+xaMRtrA_1	7	-	-	9:k7	-	-	-
+jarA_1	8	-	-	9:k7	-	-	-
+vqRa_1	9	-	pl	13:k2	-	-	-
+aRtan_1	10	-	pl	11:mod	-	-	-
+afga_1	11	-	pl	13:k2s	-	-	-
+$wyax	12	-	-	10:r6	-	distal	-
+brU_1-awi_1	13	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_005_2-006_1_2>
+#चिकित्सा येषु संश्रिता .
+cikiwsA_1	1	-	-	3:k1	-	-	-
+$yax	2	-	pl	3:k7p	-	-	-
+saMSriwA_1	3	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_006_2_1>
+#वायुः पित्तम् कफः च इति त्रयः दोषाः समासतः (सन्ति) .
+vAyu_1	1	-	-	3:k1	-	-	-
+piwwa_1	2	-	-	3:k1	-	-	-
+kaPa_1	3	-	-	4:घटकः	-	-	-
+3_1	4	-	pl	5:mod	-	-	-
+xoRa_1	5	-	pl	7:k1	-	-	-
+samAsa_1	6	-	-	7:krvn	-	-	-
+as_1-awi_1	7	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_007_1_1>
+#विकृत-अ-विकृताः देहम् घ्नन्ति ते वर्तयन्ति च .
+vikqwa_1	1	-	-	3:k7	-	-	-
+a_1	2	-	-	3:neg	-	-	-
+vikqwa_1	3	-	pl	5:k1	-	-	-
+xeha_1	4	-	-	5:k2	-	-	-
+han_1-awi_1	5	-	pl	0:main	-	-	-
+$wyax	6	-	pl	7:pk1	-	distal	-
+vqw_1-awi_1	7	-	causative	5:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_007_2_1>
+#ते व्यापिनः अपि हृत्-नाभ्योः अधो-मध्य-ऊर्ध्व-संश्रयाः .
+$wyax	1	-	pl	2:k1	-	distal	-
+vyApin_1	2	-	pl	0:main	-	-	-
+hqw_1	3	-	-	4:k7	-	-	-
+nABi_1	4	-	dl	8:r6	-	-	-
+aXo_1	5	-	-	7:k7	-	-	-
+maXya_1	6	-	-	7:k7	-	-	-
+UrXva_1	7	-	-	8:mod	-	-	-
+saMSraya_1	8	-	pl	2:k1	-	api_1	-
+%affirmative
+</sent_id>
+
+<sent_id=01_008_1_1>
+#वयः-अहः-रात्रि-भुक्तानाम् ते अन्त-मध्य-आदि-गाः क्रमात् (भवन्ति) .
+vayas_1	1	-	-	4:k7	-	-	-
+ahan_1	2	-	-	4:k7	-	-	-
+rAwri_1	3	-	-	4:k7	-	-	-
+Bukwa_1	4	-	pl	9:r6	-	-	-
+$wyax	5	-	pl	11:k1	-	distal	-
+anwa_1	6	-	-	8:k7	-	-	-
+maXya_1	7	-	-	8:k7	-	-	-
+Axi_1	8	-	-	9:k2	-	-	-
+ga_1	9	-	pl	5:k1s	-	-	-
+krama_1	10	-	-	11:krvn	-	-	-
+BU_1-awi_1	11	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_008_2_1>
+#तैः भवेत् विषमः तीक्ष्णः मन्दः च अग्निः .
+$wyax	1	-	pl	2:rh	-	distal	-
+BU_1-yAw_1	2	-	-	0:main	-	-	-
+viRama_1	3	-	-	5:k1	-	-	-
+wIkRNa_1	4	-	-	5:k1	-	-	-
+manxa_1	5	-	-	6:k1s	-	-	-
+agni_1	6	-	-	2:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_008_2_2>
+#समैः समः (भवेत्) .
+sama_1	1	-	pl	3:rh	-	-	-
+sama_1	2	-	-	3:k1	-	-	-
+BU_1-yAw_1	3	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_009_1_1>
+#कोष्ठः क्रूरः मृदुः मध्यः (च) (स्यात्) (तैः) .
+koRTa_1	1	-	-	5:k1	-	-	-
+krUra_1	2	-	-	4:k1	-	-	-
+mqxu_1	3	-	-	4:k1	-	-	-
+maXya_1	4	-	-	1:k1s	-	-	-
+as_1-yAw_1	5	-	-	0:main	-	-	-
+$wyax	6	-	pl	5:rh	-	distal	-
+%affirmative
+</sent_id>
+
+<sent_id=01_009_1_2>
+#मध्यः स्यात् तैः समैः अपि .
+maXya_1	1	-	-	2:k1	-	-	-
+as_1-yAw_1	2	-	-	0:main	-	-	-
+$wyax	3	-	pl	4:mod	-	distal	-
+sama_1	4	-	pl	2:rh	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_009_2-010_1>
+#शुक्र-आर्तव-स्थैः जन्म-आदौ विषेण इव विष-क्रिमेः (जन्म) (भवति) तैः च तिस्रः प्रकृतयः हीन-मध्य-उत्तमाः पृथक् सम-धातुः समस्तासु श्रेष्ठा निन्द्याः द्वि-दोष-जाः (भवन्ति) .
+Sukra_1	1	-	-	2:k7	-	-	-
+Arwava_1	2	-	-	3:k2	-	-	-
+sWa_1	3	-	pl	11:mod	-	-	-
+janma_1	4	-	-	5:r6	-	-	-
+Axi_1	5	-	-	3:k7p	-	-	-
+viRa_1	6	-	-	10:k3	-	-	-
+viRa_1	7	-	-	8:मध्यमपदलोपी-कर्मधारयः	-	-	-
+krimi_1	8	-	-	9:r6	-	-	-
+janman_1	9	-	-	10:k1	-	-	-
+BU_1-awi_1	10	-	-	26:ru	-	iva_1	-
+$wyax	11	-	pl	26:k3	-	distal	-
+3_1	12	-	pl	17:mod	-	-	-
+prakqwi_1	13	-	pl	26:k1	-	-	-
+hIna_1	14	-	-	16:k7	-	-	-
+maXya_1	15	-	-	16:k7	-	-	-
+uwwama_1	16	-	pl	12:mod	-	-	-
+pqWak_1	17	-	-	13:घटकः	-	-	-
+sama_1	18	-	-	19:mod	-	-	-
+XAwu_1	19	-	-	13:घटकः	-	-	-
+samaswA_1	20	-	pl	21:rn	-	-	-
+SreRTA_1	21	-	-	19:mod	-	-	-
+ninxyA_1	22	-	pl	25:mod	-	-	-
+xvi_1	23	-	dl	24:समाहार-द्विगुः	-	-	-
+xoRa_1	24	-	-	25:k2	-	-	-
+ja_1	25	-	pl	13:घटकः	-	-	-
+BU_1-awi_1	26	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_011_1_1>
+#तत्र रूक्षः लघुः शीतः खरः सूक्ष्मः चलः (च) अनिलः (अस्ति) .
+wawra_1	1	-	-	9:k7p	-	-	-
+rUkRa_1	2	-	-	7:k1	-	-	-
+laGu_1	3	-	-	7:k1	-	-	-
+SIwa_1	4	-	-	7:k1	-	-	-
+Kara_1	5	-	-	7:k1	-	-	-
+sUkRma_1	6	-	-	7:k1	-	-	-
+cala_1	7	-	-	8:k1s	-	-	-
+anila_1	8	-	-	9:k1	-	-	-
+as_1-awi_1	9	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_011_2_1>
+#पित्तम् स-स्नेह-तीक्ष्ण-उष्णम् लघु विस्रम् सरम् द्रवम् (च) (अस्ति) .
+piwwa_1	1	-	-	10:k1	-	-	-
+sa_1	2	-	-	3:सहपूर्वपद-व्यधिकरण-बहुव्रीहिः	-	-	-
+sneha_1	3	-	-	5:k7	-	-	-
+wIkRNa_1	4	-	-	5:k7	-	-	-
+uRNa_1	5	-	-	9:k1	-	-	-
+laGu_1	6	-	-	9:k1	-	-	-
+visra_1	7	-	-	9:k1	-	-	-
+sara_1	8	-	-	9:k1	-	-	-
+xrava_1	9	-	-	1:k1s	-	-	-
+as_1-awi_1	10	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_012_1_1>
+#स्निग्धः शीतः गुरुः मन्दः श्लक्ष्णः मृत्स्नः स्थिरः (च) (अस्ति) कफः .
+snigXa_1	1	-	-	7:k1	-	-	-
+SIwa_1	2	-	-	7:k1	-	-	-
+guru_1	3	-	-	7:k1	-	-	-
+manxa_1	4	-	-	7:k1	-	-	-
+SlakRNa_1	5	-	-	7:k1	-	-	-
+mqwsna_1	6	-	-	7:k1	-	-	-
+sWira_1	7	-	-	9:k1s	-	-	-
+as_1-awi_1	8	-	-	0:main	-	-	-
+kaPa_1	9	-	-	8:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_012_2_1>
+#संसर्गः सन्निपातः च तत्-द्वि-त्रि-क्षय-कोपतः (क्रमेण) (भवति) .
+saMsarga_1	1	-	-	2:k1	-	-	-
+sannipAwa_1	2	-	-	9:k1	-	-	-
+$wyax	3	-	-	7:r6	-	distal	-
+xvi_1	4	-	dl	5:k7	-	-	-
+wri_1	5	-	-	7:r6	-	-	-
+kRaya_1	6	-	-	7:k7	-	-	-
+kopa_1	7	-	-	9:rh	-	-	-
+krama_1	8	-	-	9:krvn	-	-	-
+BU_1-awi_1	9	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_013_1_1>
+#रस-असृक्-मांस-मेदः-अस्थि-मज्ज-शुक्राणि धातवः (सन्ति) .
+rasa_1	1	-	-	7:k7	-	-	-
+asqj_1	2	-	-	7:k7	-	-	-
+mAMsa_1	3	-	-	7:k7	-	-	-
+mexas_1	4	-	-	7:k7	-	-	-
+asWi_1	5	-	-	7:k7	-	-	-
+majja_1	6	-	-	7:k7	-	-	-
+Sukra_1	7	-	pl	9:k1	-	-	-
+XAwu_1	8	-	pl	7:k1s	-	-	-
+as_1-awi_1	9	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_013_1_2>
+#सप्त दूष्याः (सन्ति) .
+7_1	1	-	pl	3:k1	-	-	-
+xURyA_1	2	-	pl	1:k1s	-	-	-
+as_1-awi_1	3	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_013_2_1>
+#मलाः मूत्र-शकृत्-स्वेद-आदयः अपि च (सन्ति) .
+mala_1	1	-	pl	5:k1s	-	-	-
+mUwra_1	2	-	-	3:समाहार-द्वन्द्वः	-	-	-
+Sakqw_1	3	-	-	5:k7	-	-	-
+svexa_1	4	-	-	5:mod	-	-	-
+Axi_1	5	-	pl	6:k1	-	-	-
+as_1-awi_1	6	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_014_1_1>
+#वृद्धिः समानैः सर्वेषाम् .
+vqxXi_1	1	-	-	0:main	-	-	-
+samAna_1	2	-	pl	1:rh	-	-	-
+sarva_1	3	-	pl	1:r6	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_014_1_2>
+#विपरीतैः विपर्ययः .
+viparIwa_1	1	-	pl	2:rh	-	-	-
+viparyaya_1	2	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_014_2-015_1_1>
+#रसाः स्वादु-अम्ल-लवण-तिक्त-ऊषण-कषायकाः (सन्ति) .
+rasa_1	1	-	pl	8:k1	-	-	-
+svAxu_1	2	-	-	7:k7	-	-	-
+amla_1	3	-	-	7:k7	-	-	-
+lavaNa_1	4	-	-	7:k7	-	-	-
+wikwa_1	5	-	-	7:k7	-	-	-
+URaNa_1	6	-	-	7:k7	-	-	-
+kaRAya_1	7	-	pl	1:k1s	-	-	-
+as_1-awi_1	8	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_014_2-015_1_2>
+#षट् द्रव्यम् आश्रिताः ते च यथा-पूर्वम् बल-आवहाः (सन्ति) .
+6_1	1	-	pl	4:mod	-	-	-
+xravya_1	2	-	-	3:k2	-	-	-
+ASriwa_1	3	-	pl	4:mod	-	-	-
+$wyax	4	-	pl	9:k1	-	distal	-
+yaWA_1	5	-	-	6:अव्ययीभावः	-	-	-
+pUrva_1	6	-	-	9:krvn	-	-	-
+bala_1	7	-	-	8:k2	-	-	-
+Avaha_1	8	-	pl	4:k1s	-	-	-
+as_1-awi_1	9	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_015_2-016_1_1>
+#तत्र आद्याः मारुतम् घ्नन्ति त्रयः .
+wawra_1	1	-	-	4:k7p	-	-	-
+Axya_1	2	-	pl	5:mod	-	-	-
+mAruwa_1	3	-	-	4:k2	-	-	-
+han_1-awi_1	4	-	pl	0:main	-	-	-
+3_1	5	-	pl	4:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_015_2-016_1_2>
+#तिक्त-आदयः कफम् (घ्नन्ति) .
+wikwa_1	1	-	-	2:mod	-	-	-
+Axi_1	2	-	pl	4:k1	-	-	-
+kaPa_1	3	-	-	4:k2	-	-	-
+han_1-awi_1	4	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_015_2-016_1_3>
+#कषाय-तिक्त-मधुराः पित्तम् (घ्नन्ति) .
+kaRAya_1	1	-	-	3:k7	-	-	-
+wikwa_1	2	-	-	3:k7	-	-	-
+maXura_1	3	-	pl	5:k1	-	-	-
+piwwa_1	4	-	-	5:k2	-	-	-
+han_1-awi_1	5	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_015_2-016_1_4>
+#अन्ये तु कुर्वते .
+anya_1	1	-	pl	2:k1	-	-	-
+kq_1	2	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_016_2_1>
+#शमनम् कोपनम् स्वस्थ-हितम् द्रव्यम् इति त्रिधा (अस्ति) .
+Samana_1	1	-	-	6:घटकः	-	-	-
+kopana_1	2	-	-	6:घटकः	-	-	-
+svasWa_1	3	-	-	4:चतुर्थी-तत्पुरुषः	-	-	-
+hiwa_1	4	-	-	6:घटकः	-	-	-
+xravya_1	5	-	-	7:k1	-	-	-
+wri_1	6	-	-	7:krvn	-	-	-
+as_1-awi_1	7	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_017_1_1>
+#उष्ण-शीत-गुण-उत्कर्षात् तत्र वीर्यम् द्विधा स्मृतम् .
+uRNa_1	1	-	-	2:k7	-	-	-
+SIwa_1	2	-	-	3:कर्मधारयः	-	-	-
+guNa_1	3	-	-	4:r6	-	-	-
+uwkarRa_1	4	-	-	8:rh	-	-	-
+wawra_1	5	-	-	8:k7p	-	-	-
+vIrya_1	6	-	-	8:k2	-	-	-
+xvi_1	7	-	dl	8:krvn	-	-	-
+smqwa_1	8	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_017_2_2>
+#त्रिधा विपाकः द्रव्यस्य स्वादु-अम्ल-कटुक-आत्मकः (अस्ति) .
+wri_1	1	-	-	8:krvn	-	-	-
+vipAka_1	2	-	-	8:k1	-	-	-
+xravya_1	3	-	-	2:r6	-	-	-
+svAxu_1	4	-	-	6:k7	-	-	-
+amla_1	5	-	-	6:k7	-	-	-
+katuka_1	6	-	-	7:mod	-	-	-
+Awmaka_1	7	-	-	1:घटकः	-	-	-
+as_1-awi_1	8	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_018_1>
+#स-विपर्ययाः स-सूक्ष्म-विशदाः गुरु-मन्द-हिम-स्निग्ध-श्लक्ष्ण-सान्द्र-मृदु-स्थिराः विंशतिः गुणाः (सन्ति) .
+sa_1	1	-	-	2:सहपूर्वपद-व्यधिकरण-बहुव्रीहिः	-	-	-
+viparyaya_1	2	-	pl	16:krvn	-	-	-
+sa_1	3	-	-	5:सहपूर्वपद-व्यधिकरण-बहुव्रीहिः	-	-	-
+sUkRma_1	4	-	-	5:k7	-	-	-
+viSaxa_1	5	-	pl	14:घटकः	-	-	-
+guru_1	6	-	-	13:k7	-	-	-
+manxa_1	7	-	-	13:k7	-	-	-
+hima_1	8	-	-	13:k7	-	-	-
+snigXa_1	9	-	-	13:k7	-	-	-
+SlakRNa_1	10	-	-	13:k7	-	-	-
+sAnxra_1	11	-	-	13:k7	-	-	-
+mqxu_1	12	-	-	13:k7	-	-	-
+sWira_1	13	-	pl	14:घटकः	-	-	-
+viMSawi_1	14	-	-	15:k1s	-	-	-
+guNa_1	15	-	pl	16:k1	-	-	-
+as_1-awi_1	16	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_019_1>
+#काल-अर्थ-कर्मणाम् योगः हीन-मिथ्या-अति-मात्रकः (विज्ञेयः) रोग-एक-कारणम् .
+kAla_1	1	-	-	3:k7	-	-	-
+arWa_1	2	-	-	3:k7	-	-	-
+karman_1	3	-	pl	4:r6	-	-	-
+yoga_1	4	-	-	9:k2	-	-	-
+hIna_1	5	-	-	7:k7	-	-	-
+-miWyA_1	6	-	-	7:k7	-	-	-
+-awi_1	7	-	-	8:mod	-	-	-
+mAwraka_1	8	-	-	4:mod	-	-	-
+vijFeya_1	9	-	-	0:main	-	-	-
+roga_1	10	-	-	12:r6	-	-	-
+eka_1	11	-	-	12:कर्मधारयः	-	-	-
+kAraNa_1	12	-	-	4:k1s	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_019_2>
+#सम्यक् योगः च विज्ञेयः आरोग्य-एक-कारणम् .
+samyak_1	1	-	-	2:mod	-	-	-
+yoga_1	2	-	-	3:k2	-	-	-
+vijFeya_1	3	-	-	0:main	-	-	-
+Arogya_1	4	-	-	6:r6	-	-	-
+eka_1	5	-	-	6:कर्मधारयः	-	-	-
+kAraNa_1	6	-	-	2:k1s	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_020_1_1>
+#रोगः तु दोष-वैषम्यम् (भवति) .
+roga_1	1	-	-	4:k1	-	-	-
+xoRa_1	2	-	-	3:r6	-	-	-
+vERamya_1	3	-	-	1:k1s	-	-	-
+BU_1-awi_1	4	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_020_1_2>
+#दोष-साम्यम् अ-रोगता (भवति) .
+xoRa_1	1	-	-	2:r6	-	-	-
+sAmya_1	2	-	-	4:k1s	-	-	-
+a_1	3	-	-	4:neg	-	-	-
+roga_1	4	-	-	5:k1	-	-	-
+BU_1-awi_1	5	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_020_2_1>
+#निज-आगन्तु-विभागेन तत्र रोगाः द्विधा स्मृताः .
+nija_1	1	-	-	2:k7	-	-	-
+Aganwu_1	2	-	-	3:r6	-	-	-
+viBAga_1	3	-	-	7:rh	-	-	-
+wawra_1	4	-	-	7:k7p	-	-	-
+roga_1	5	-	pl	7:k2	-	-	-
+xvi_1	6	-	dl	7:krvn	-	-	-
+smqwa_1	7	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_021_1_1>
+#तेषाम् काय-मनः-भेदात् अधिष्ठानम् अपि द्विधा (स्मृतम्) .
+$wyax	1	-	pl	5:r6	-	distal	-
+kAya_1	2	-	-	3:k7	-	-	-
+manas_1	3	-	-	4:r6	-	-	-
+Bexa_1	4	-	-	7:rh	-	-	-
+aXiRTAna_1	5	-	-	7:k2	-	-	-
+xvi_1	6	-	dl	7:krvn	-	-	-
+smqwa_1	7	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_021_2_1>
+#रजः तमः च मनसः द्वौ च दोषौ उदाहृतौ .
+rajas_1	1	-	-	2:k1	-	-	-
+wama_1	2	-	-	4:घटकः	-	-	-
+manas_1	3	-	-	5:r6	-	-	-
+2_1	4	-	dl	5:mod	-	-	-
+xos_1	5	-	dl	6:k2	-	-	-
+uxAhqwa_1	6	-	dl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_022_1_1>
+#दर्शन-स्पर्शन-प्रश्नैः परीक्षेत च रोगिणम् .
+xarSana_1	1	-	pl	3:k7	-	-	-
+sparSana_1	2	-	pl	3:k7	-	-	-
+praSna_1	3	-	pl	4:k3	-	-	-
+pari_IkR_1	4	-	-	0:main	-	-	-
+rogin_1	5	-	-	4:k2	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_022_2_1>
+#रोगम् निदान-प्राक्-रूप-लक्षण-उपशय-आप्तिभिः (परीक्षेत) .
+roga_1	1	-	-	8:k2	-	-	-
+nixAna_1	2	-	-	7:k7	-	-	-
+prAS_1	3	-	-	4:केवल-समासः	-	-	-
+rUpa_1	4	-	-	7:k7	-	-	-
+lakRaNa_1	5	-	-	7:k7	-	-	-
+upaSaya_1	6	-	-	7:k7	-	-	-
+Apwi_1	7	-	pl	8:k3	-	-	-
+pari_IkR_1	8	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_023_1_1>
+#भूमि-देह-प्रभेदेन देशम् आहुः इह द्विधा .
+BUmi_1	1	-	-	2:k7	-	-	-
+xeha_1	2	-	-	3:r6	-	-	-
+praBexa_1	3	-	-	5:rh	-	-	-
+xeSa_1	4	-	-	5:k2	-	-	-
+brU_1-awi_1	5	-	pl	0:main	-	-	-
+iha_1	6	-	-	5:k7p	-	-	-
+xvi_1	7	-	dl	5:krvn	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_023_2-024_1_1>
+#जाङ्गलम् वात-भूयिष्ठम् अनूपम् तु कफ-उल्बणम् साधारणम् सम-मलम् त्रिधा भू-देशम् आदिशेत् .
+jAfgala_1	1	-	-	10:घटकः	-	-	-
+vAwa_1	2	-	-	3:सप्तमी-बहुव्रीहिः	-	-	-
+BUyiRTa_1	3	-	-	1:mod	-	-	-
+anUpa_1	4	-	-	10:घटकः	-	-	-
+kaPa_1	5	-	-	6:सप्तमी-बहुव्रीहिः	-	-	-
+ulbaNa_1	6	-	-	4:mod	-	-	-
+sAXAraNa_1	7	-	-	10:घटकः	-	-	-
+sama_1	8	-	-	9:सप्तमी-बहुव्रीहिः	-	-	-
+mala_1	9	-	-	7:mod	-	-	-
+wri_1	10	-	-	13:krvn	-	-	-
+BU_1	11	-	-	12:सम्भावना-पूर्वपद-कर्मधारयः	-	-	-
+xeSa_1	12	-	-	13:k2	-	-	-
+Af_xiS_1-yAw_1	13	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_024_2_1>
+#क्षण-आदिः व्याधि-अवस्था च कालः भेषज-योग-कृत् (अस्ति) .
+kRaNa_1	1	-	-	2:mod	-	-	-
+Axi_1	2	-	-	5:k1s	-	-	-
+vyAXi_1	3	-	-	4:r6	-	-	-
+avasWA_1	4	-	-	2:k1	-	-	-
+kAla_1	5	-	-	9:k1	-	-	-
+BeRaja_1	6	-	-	7:r6	-	-	-
+yoga_1	7	-	-	8:k2	-	-	-
+kqw_1	8	-	-	5:mod	-	-	-
+as_1-awi_1	9	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_025_1_1>
+#शोधनम् शमनम् च इति समासात् औषधम् द्विधा (अस्ति) .
+SoXana_1	1	-	-	2:k1	-	-	-
+Samana_1	2	-	-	5:घटकः	-	-	-
+samAsa_1	3	-	-	6:krvn	-	-	-
+ORaXa_1	4	-	-	6:k1	-	-	-
+xvi_1	5	-	dl	6:krvn	-	-	-
+as_1-awi_1	6	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_025_2-026_1_1>
+#शरीर-जानाम् दोषाणाम् क्रमेण परम-औषधम् बस्तिः विरेकः वमनम् (भवति) तथा
+SarIra_1	1	-	-	2:k2	-	-	-
+ja_1	2	-	pl	3:r6	-	-	-
+xoRa_1	3	-	pl	6:r6	-	-	-
+krama_1	4	-	-	10:krvn	-	-	-
+parama_1	5	-	-	6:कर्मधारयः	-	-	-
+ORaXa_1	6	-	-	10:k1	-	-	-
+baswi_1	7	-	-	9:k1	-	-	-
+vireka_1	8	-	-	9:k1	-	-	-
+vamana_1	9	-	-	6:k1s	-	-	-
+BU_1-awi_1	10	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_026_2_1>
+#धी-धैर्य-आत्म-आदि-विज्ञानम् मनो-दोष-औषधम् परम् (भवति) .
+XI_1	1	-	-	5:समाहार-द्वन्द्वः	-	-	-
+XErya_1	2	-	-	5:समाहार-द्वन्द्वः	-	-	-
+Awman_1	3	-	-	4:mod	-	-	-
+Axi_1	4	-	-	5:r6	-	-	-
+vijFAna_1	5	-	-	10:k1	-	-	-
+manas_1	6	-	-	7:r6	-	-	-
+xoRa_1	7	-	-	8:r6	-	-	-
+ORaXa_1	8	-	-	5:k1s	-	-	-
+para_1	9	-	-	8:mod	-	-	-
+BU_1-awi_1	10	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_027_1>
+#भिषक् द्रव्याणि उपस्थाता रोगी पाद-चतुष्टयम् चिकित्सितस्य निर्दिष्टम् (भवति) .
+BiRaj_1	1	-	-	6:घटकः	-	-	-
+xravya_1	2	-	pl	6:घटकः	-	-	-
+upasWAwq_1	3	-	-	6:घटकः	-	-	-
+rogin_1	4	-	-	6:घटकः	-	-	-
+pAxa_1	5	-	-	6:r6	-	-	-
+cawuRtaya_1	6	-	-	9:k1	-	-	-
+cikiwsiwa_1	7	-	-	6:r6	-	-	-
+nirxiRta_1	8	-	-	6:mod	-	-	-
+BU_1-awi_1	9	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_027_2>
+#प्रति-एकम् तत् चतुः-गुणम् (भवति) .
+prawi_1	1	-	-	2:अव्ययीभावः	-	-	-
+eka_1	2	-	-	3:mod	-	-	-
+$wyax	3	-	-	6:k1	-	distal	-
+cawuH_1	4	-	-	5:समाहार-द्विगुः	-	-	-
+guNa_1	5	-	-	3:k1s	-	-	-
+BU_1-awi_1	6	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_028_1_1>
+#दक्षः तीर्थ-आत्त-शास्त्र-अर्थः दृष्ट-कर्मा शुचिः (च) भिषक् (भवेत्) .
+xakRa_1	1	-	-	8:k1	-	-	-
+wIrWa_1	2	-	-	3:पञ्चमी-तत्पुरुषः	-	-	-
+Awwa_1	3	-	-	5:तृतीया-बहुव्रीहिः	-	-	-
+SAswra_1	4	-	-	5:r6	-	-	-
+arWa_1	5	-	-	8:k1	-	-	-
+xqRta_1	6	-	-	7:तृतीया-बहुव्रीहिः	-	-	-
+karman_1	7	-	-	8:k1	-	-	-
+Suci_1	8	-	-	9:k1s	-	-	-
+BiRaj_1	9	-	-	10:k1	-	-	-
+BU_1-yAw_1	10	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_028_2_1>
+#औषधम् बहु-कल्पम् बहु-गुणम् सम्पन्नम् योग्यम् (च) (भवेत्) .
+ORaXa_1	1	-	-	8:k1	-	-	-
+bahu_1	2	-	pl	3:सप्तमी-बहुव्रीहिः	-	-	-
+kalpa_1	3	-	-	7:k1	-	-	-
+bahu_1	4	-	pl	5:सप्तमी-बहुव्रीहिः	-	-	-
+guNa_1	5	-	-	7:k1	-	-	-
+sampanna_1	6	-	-	7:k1	-	-	-
+yogya_1	7	-	-	1:k1s	-	-	-
+BU_1-yAw_1	8	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_029_1_1>
+#अनुरक्तः शुचिः दक्षः बुद्धिमान् (च) परिचारकः (भवेत्) .
+anurakwa_1	1	-	-	4:k1	-	-	-
+Suci_1	2	-	-	4:k1	-	-	-
+xakRa_1	3	-	-	4:k1	-	-	-
+buxXi_1	4	-	mawupa	5:k1s	-	-	-
+paricAraka_1	5	-	-	6:k1	-	-	-
+BU_1-yAw_1	6	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_029_2_1>
+#आढ्यः रोगी भिषक्-वश्यः ज्ञापकः सत्त्ववान् अपि (भवेत्) .
+ADya_1	1	-	-	6:k1	-	-	-
+rogin_1	2	-	-	7:k1	-	-	-
+BiRaj_1	3	-	-	4:r6	-	-	-
+vaSya_1	4	-	-	6:k1	-	-	-
+jFApaka_1	5	-	-	6:k1	-	-	-
+sawwva_1	6	-	mawupa	2:k1s	-	api_1	-
+BU_1-yAw_1	7	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_030-031_1>
+#साध्यः अ-साध्यः इति व्याधिः द्विधा (भवति) .
+sAXya_1	1	-	-	5:घटकः	-	-	-
+a_1	2	-	-	3:neg	-	-	-
+sAXya_1	3	-	-	5:घटकः	-	-	-
+vyAXi_1	4	-	-	6:k1	-	-	-
+xvi_1	5	-	dl	6:krvn	-	-	-
+BU_1-awi_1	6	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_030-031_2>
+#तौ तु पुनः द्विधा सु-साध्यः कृच्छ्र-साध्यः च याप्यः यः च अनुपक्रमः (भवतः) .
+$wyax	1	-	dl	11:k1	-	distal	-
+punaH_1	2	-	-	11:krvn	-	-	-
+xvi_1	3	-	dl	11:krvn	-	-	-
+su_1	4	-	-	5:mod	-	-	-
+sAXya_1	5	-	-	7:k1	-	-	-
+kqcCra_1	6	-	-	7:k3	-	-	-
+sAXya_1	7	-	-	3:घटकः	-	-	-
+yApya_1	8	-	-	10:k1	-	-	-
+$yax	9	-	-	0:main	-	-	-
+anupakrama_1	10	-	-	3:घटकः	-	-	-
+BU_1-awi_1	11	-	dl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_030-031_3>
+#सर्व-औषध-क्षमे देहे (स्थितः) यूनः पुंसः जित-आत्मनः अ-मर्म-गः अल्प-हेतु-अग्र-रूप-रूपः अन्-उपद्रवः अ-तुल्य-दूष्य-देश-ऋतु-प्रकृतिः पाद-संपदि (सति) ग्रहेषु अनुगुणेषु (सत्सु) एक-दोष-मार्गः नवः (व्याधिः) सुखः (उच्यते) .
+sarva_1	1	-	-	2:कर्मधारयः	-	-	-
+ORaXa_1	2	-	-	3:mod	-	-	-
+kRama_1	3	-	-	4:mod	-	-	-
+xeha_1	4	-	-	5:k7p	-	-	-
+sWiwa_1	5	-	-	36:mod	-	-	-
+yuvan_1	6	-	-	7:mod	-	-	-
+pums_1	7	-	-	4:r6	-	-	-
+jiwa_1	8	-	-	9:तृतीयार्थ-बहुव्रीहिः	-	-	-
+Awman_1	9	-	-	7:mod	-	-	-
+a_1	10	-	-	12:neg	-	-	-
+marman_1	11	-	-	12:k2	-	-	-
+ga_1	12	-	-	36:mod	-	-	-
+alpa_1	13	-	-	17:r6	-	-	-
+hewu_1	14	-	-	17:k7	-	-	-
+agra_1	15	-	-	17:k7	-	-	-
+rUpa_1	16	-	-	17:k7	-	-	-
+rUpa_1	17	-	-	36:mod	-	-	-
+an_1	18	-	-	19:mod	-	-	-
+upaxrava_1	19	-	-	36:mod	-	-	-
+a_1	20	-	-	21:neg	-	-	-
+wulya_1	21	-	-	25:r6	-	-	-
+xURya_1	22	-	-	25:k7	-	-	-
+xeSa_1	23	-	-	25:k7	-	-	-
+qwu_1	24	-	-	25:k7	-	-	-
+prakqwi_1	25	-	-	36:mod	-	-	-
+pAxa_1	26	-	-	27:r6	-	-	-
+sampax_1	27	-	-	28:k1	-	-	-
+saw_1	28	-	-	38:rblsk	-	-	-
+graha_1	29	-	pl	31:k1	-	-	-
+anuguNa_1	30	-	pl	29:mod	-	-	-
+saw_1	31	-	pl	38:rblsk	-	-	-
+eka_1	32	-	-	34:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+xoRa_1	33	-	-	34:k7	-	-	-
+mArga_1	34	-	-	36:mod	-	-	-
+nava_1	35	-	-	36:mod	-	-	-
+vyAXi_1	36	-	-	38:k2	-	-	-
+suKa_1	37	-	-	38:k2s	-	-	-
+brU_1-ya_we_1	38	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_032_1_1>
+#शस्त्र-आदि-साधनः कृच्छ्रः संकरे (सति) च ततः गदः (उच्यते) .
+Saswra_1	1	-	-	2:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+Axi_1	2	-	-	3:r6	-	-	-
+sAXana_1	3	-	-	7:mod	-	-	-
+kqcCra_1	4	-	-	8:k2s	-	-	-
+safkara_1	5	-	-	6:k1	-	-	-
+saw_1	6	-	-	8:rblsk	-	-	-
+gaxa_1	7	-	-	8:k2	-	-	-
+brU_1-ya_we_1	8	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_032_2_1>
+#शेषत्वात् आयुषः याप्यः पथ्य-अभ्यासात् विपर्यये (सति) (व्याधिः) (उच्यते) .
+SeRa_1	1	-	-	9:rh	-	-	-
+Ayus_1	2	-	-	1:r6	-	-	-
+yApya_1	3	-	-	8:k1s	-	-	-
+paWya_1	4	-	-	5:r6	-	-	-
+aByAsa_1	5	-	-	9:rh	-	-	-
+viparyaya_1	6	-	-	7:k1	-	-	-
+saw_1	7	-	-	9:rblsk	-	-	-
+vyAXi_1	8	-	-	9:k2	-	-	-
+brU_1-ya_we_1	9	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_033_1>
+#अन्-उपक्रमः एव स्यात् स्थितः अत्यन्त-विपर्यये औत्सुक्य-मोह-अ-रति-कृत् दृष्ट-रिष्टः अक्ष-नाशनः (गदः) .
+an_1	1	-	-	2:अस्त्यर्थ-मध्यमपदलोपी-(नञ्)बहुव्रीहिः	-	-	-
+upakrama_1	2	-	-	16:k1s	-	-	-
+as_1-yAw_1	3	-	-	0:main	-	-	-
+sWiwa_1	4	-	-	16:mod	-	-	-
+awyanwa_1	5	-	-	6:समासः	-	-	-
+viparyaya_1	6	-	-	4:k7p	-	-	-
+Owsukya_1	7	-	-	10:k7	-	-	-
+moha_1	8	-	-	10:k7	-	-	-
+a_1	9	-	-	10:neg	-	-	-
+rawi_1	10	-	-	11:k2	-	-	-
+kqw_1	11	-	-	16:mod	-	-	-
+xqRta_1	12	-	-	13:सप्तमी-बहुव्रीहिः	-	-	-
+riRta_1	13	-	-	16:mod	-	-	-
+akRa_1	14	-	-	15:k2	-	-	-
+nASana_1	15	-	-	16:mod	-	-	-
+gaxa_1	16	-	-	3:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_034_1-35_1_1>
+#त्यजेत् आर्तम् भिषक्-भूपैः द्विष्टम् तेषाम् द्विषम् द्विषम् हीन-उपकरणम् व्यग्रम् अ-विधेयम् गत-आयुषम् चण्डम् शोक-आतुरम् भीरुम् कृत-घ्नम् वैद्य-मानिनम् (च)
+wyaj_1-yAw_1	1	-	-	0:main	-	-	-
+Arwa_1	2	-	-	23:k1	-	-	-
+BiRaj_1	3	-	-	4:k7	-	-	-
+BUpa_1	4	-	pl	5:k1	-	-	-
+xviRta_1	5	-	dl	23:k1	-	-	-
+$wyax	6	-	pl	7:r6	-	distal	-
+xviRa_1	7	-	dl	23:k1	-	-	-
+xviRa_1	8	-	dl	23:k1	-	-	-
+hIna_1	9	-	-	10:mod	-	-	-
+upakaraNa_1	10	-	-	23:k1	-	-	-
+vyagra_1	11	-	-	23:k1	-	-	-
+a_1	12	-	-	13:mod	-	-	-
+viXeya_1	13	-	-	23:k1	-	-	-
+gawa_1	14	-	-	15:mod	-	-	-
+Ayus_1	15	-	-	23:k1	-	-	-
+caNda_1	16	-	-	23:k1	-	-	-
+Soka_1	17	-	-	18:k3	-	-	-
+Awura_1	18	-	-	23:k1	-	-	-
+BIru_1	19	-	-	23:k1	-	-	-
+kqwa_1	20	-	-	21:k2	-	-	-
+Gna_1	21	-	-	23:k1	-	-	-
+vExya_1	22	-	-	23:k2	-	-	-
+mAnin_1	23	-	-	1:k2	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=01_035_2_1>
+#तन्त्रस्य अस्य परम् च अतः वक्ष्यते अध्याय-सङ्ग्रहः .
+wanwra_1	1	-	-	5:r6	-	-	-
+$wyax	2	-	-	1:mod	-	proximal	-
+vac_1	3	-	-	0:main	-	-	-
+aXyAya_1	4	-	-	5:r6	-	-	-
+safgraha_1	5	-	-	3:k2	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_000_1>
+#अथ दिनचर्या-अध्यायम् व्याख्यास्यामः .
+xinacaryA_1	1	-	-	2:r6	-	-	-
+aXyAya_1	2	-	-	3:k2	-	-	-
+vi_Af_KyA_1-syawi_1	3	-	pl	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_000_2>
+#इति ह स्म आहुः आत्रेय-आदयः महा-ऋषयः .
+brU_1-awi_1	1	-	pl	0:main	-	-	-
+Awreya_1	2	-	-	3:mod	-	-	-
+Axi_1	3	-	pl	1:k1	-	-	-
+mahaw_1	4	-	-	5:कर्मधारयः	-	-	-
+qRi_1	5	-	pl	3:mod	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_001_1_1>
+#ब्राह्मे मुहूर्ते उत्तिष्ठेत् स्वस्थः रक्षा-अर्थम् आयुषः .
+brAhma_1	1	-	-	2:mod	-	-	-
+muhUrwa_1	2	-	-	3:k7t	-	-	-
+uw_RWA_1-yAw_1	3	-	-	0:main	-	-	-
+svasWa_1	4	-	-	3:k1	-	-	-
+rakRA_1	5	-	-	6:चतुर्थी-तत्पुरुषः	-	-	-
+arWa_1	6	-	-	3:rt	-	-	-
+Ayus_1	7	-	-	6:r6	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_001_2-003_1>
+#शरीर-चिन्ताम् निर्वर्त्य कृत-शौच-विधिः ततः अर्क-न्यग्रोध-खदिर-करञ्ज-ककुभ-आदि-जम् प्रातः मृदु-अग्रम् कषाय-कटु-तिक्तकम् कनीनि-अग्र-सम-स्थौल्यम् प्र-गुणम् द्वादश-अङ्गुलम् भक्षयेत् दन्त-पवनम् दन्त-मांसानि अ-बाधयन् भुक्त्वा च (भक्षयेत्) .
+SarIra_1	1	-	-	2:r6	-	-	-
+cinwA_1	2	-	-	3:k2	-	-	-
+nir_vqw_1	3	-	-	28:rpk	-	-	-
+kqwa_1	4	-	-	6:तृतीयार्थ-बहुव्रीहिः	-	-	-
+SOca_1	5	-	-	6:r6	-	-	-
+viXi_1	6	-	-	28:k1	-	-	-
+arka_1	7	-	-	11:k7	-	-	-
+nyagroXa_1	8	-	-	11:k7	-	-	-
+Kaxira_1	9	-	-	11:k7	-	-	-
+karaFja_1	10	-	-	11:k7	-	-	-
+kakuBa_1	11	-	-	12:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+Axi_1	12	-	-	13:k2	-	-	-
+ja_1	13	-	-	30:mod	-	-	-
+prAwaH_1	14	-	-	28:k7t	-	-	-
+mqxu_1	15	-	-	16:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+agra_1	16	-	-	30:mod	-	-	-
+kaRAya_1	17	-	-	19:समाहार-द्वन्द्वः	-	-	-
+katu_1	18	-	-	19:समाहार-द्वन्द्वः	-	-	-
+wikwaka_1	19	-	-	13:mod	-	-	-
+kanIni_1	20	-	-	21:r6	-	-	-
+agra_1	21	-	-	22:k3	-	-	-
+sama_1	22	-	-	23:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+sWOlya_1	23	-	-	30:mod	-	-	-
+pra_1	24	-	-	25:प्रादि-तत्पुरुषः	-	-	-
+guNa_1	25	-	-	30:mod	-	-	-
+xvAxaSa_1	26	-	-	27:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+afgula_1	27	-	-	30:mod	-	-	-
+BakR_1-yAw_1	28	-	-	0:main	-	-	-
+xanwa_1	29	-	-	30:k2	-	-	-
+pavana_1	30	-	-	28:k2	-	-	-
+xanwa_1	31	-	-	32:r6	-	-	-
+mAMsa_1	32	-	pl	34:k2	-	-	-
+a_1	33	-	-	34:neg	-	-	-
+bAXayaw_1	34	-	-	28:rvks	-	-	-
+Buj_1	35	-	-	36:rpk	-	-	-
+BakR_1-yAw_1	36	-	-	28:अन्वाचितः	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_004_1>
+#न अद्यात् अ-जीर्ण-वमथु-श्वास-कास-ज्वर-अर्दिती तृष्णा-आस्य-पाक-हृद्-नेत्र-शिरः-कर्ण-आमयी च तत् .
+na_1	1	-	-	2:neg	-	-	-
+ax_1-yAw_1	2	-	-	0:main	-	-	-
+a_1	3	-	-	4:neg	-	-	-
+jIrNa_1	4	-	-	9:k7	-	-	-
+vamaWu_1	5	-	-	9:k7	-	-	-
+SvAsa_1	6	-	-	9:k7	-	-	-
+kAsa_1	7	-	-	9:k7	-	-	-
+jvara_1	8	-	-	9:k7	-	-	-
+arxiwin_1	9	-	-	17:k1	-	-	-
+wqRNA_1	10	-	-	17:k7	-	-	-
+Asya_1	11	-	-	12:r6	-	-	-
+pAka_1	12	-	-	17:k7	-	-	-
+hqx_1	13	-	-	16:k7	-	-	-
+newra_1	14	-	-	16:k7	-	-	-
+Siras_1	15	-	-	16:k7	-	-	-
+karNa_1	16	-	-	17:r6	-	-	-
+Amayin_1	17	-	-	2:k1	-	-	-
+$wyax	18	-	-	2:k2	-	distal	-
+%affirmative
+</sent_id>
+
+<sent_id=02_005_1_1>
+#सौवीरम् अञ्जनम् नित्यम् हितम् अक्ष्णोः ततः भजेत् .
+sOvIra_1	1	-	-	2:mod	-	-	-
+aFjana_1	2	-	-	6:k2	-	-	-
+niwya_1	3	-	-	4:krvn	-	-	-
+hiwa_1	4	-	-	2:mod	-	-	-
+akRi_1	5	-	dl	4:r6	-	-	-
+Baj_1-yAw_1	6	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_005_2-006_1_1>
+#चक्षुः तेजोमयम् (भवति) तस्य विशेषात् श्लेष्मतः भयम् (भवति) योजयेत् सप्त-रात्रे (सति) अस्मात् स्रावण-अर्थम् रस-अञ्जनम् .
+cakRus_1	1	-	-	3:k1	-	-	-
+wejomaya_1	2	-	-	1:k1s	-	-	-
+BU_1-awi_1	3	-	-	0:main	-	-	-
+$wyax	4	-	-	7:r6	-	distal	-
+viSeRa_1	5	-	-	8:krvn	-	-	-
+SleRman_1	6	-	-	8:k5	-	-	-
+Baya_1	7	-	-	8:k1	-	-	-
+BU_1-awi_1	8	-	-	0:main	-	-	-
+yuj_1-yAw_1	9	-	-	0:main	-	-	-
+sapwan_1	10	-	-	11:समाहार-द्विगुः	-	-	-
+rAwra_1	11	-	-	12:k1	-	-	-
+saw_1	12	-	-	9:rblsk	-	-	-
+$wyax	13	-	-	9:rh	-	proximal	-
+srAvaNa_1	14	-	-	15:चतुर्थी-तत्पुरुषः	-	-	-
+arWa_1	15	-	-	9:rt	-	-	-
+rasa_1	16	-	-	17:कर्मधारयः	-	-	-
+aFjana_1	17	-	-	9:k2	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_006_2_1>
+#ततः नावन-गण्डूष-धूम-ताम्बूल-भाग् भवेत् .
+nAvana_1	1	-	-	4:k7	-	-	-
+gaNdURa_1	2	-	-	4:k7	-	-	-
+XUma_1	3	-	-	4:k7	-	-	-
+wAmbUla_1	4	-	-	5:mod	-	-	-
+BAj_1	5	-	-	6:k1	-	-	-
+BU_1-yAw_1	6	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_007_1>
+#ताम्बूलम् क्षत-पित्तास्र-रूक्ष-उत्कुपित-चक्षुषाम् विष-मूर्छा-मद-आर्तानाम् अ-पथ्यम् शोषिणाम् अपि (भवति) .
+wAmbUla_1	1	-	-	14:k1	-	-	-
+kRawa_1	2	-	-	6:k7	-	-	-
+-piwwAsra_1	3	-	-	6:k7	-	-	-
+rUkRa_1	4	-	-	6:k7	-	-	-
+-uwkupiwa_1	5	-	-	6:mod	-	-	-
+cakRus_1	6	-	pl	13:k1	-	-	-
+viRa_1	7	-	-	9:k7	-	-	-
+-mUrCA_1	8	-	-	9:k7	-	-	-
+maxa_1	9	-	-	10:k3	-	-	-
+Arwa_1	10	-	pl	13:k1	-	-	-
+a_1	11	-	-	12:neg	-	-	-
+paWya_1	12	-	-	1:k1s	-	-	-
+SoRin_1	13	-	pl	1:r6	-	api_1	-
+BU_1-awi_1	14	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_008_1>
+#अभ्यङ्गम् आचरेत् नित्यम् सः जरा-श्रम-वात-हा दृष्टि-प्रसाद-पुष्टि-आयुः-स्वप्न-सु-त्वक्त्व-दार्ढ्य-कृत् (च) (भवति) .
+aByafga_1	1	-	-	2:k2	-	-	-
+Af_car_1-yAw_1	2	-	-	0:main	-	-	-
+niwya_1	3	-	-	2:krvn	-	-	-
+$wyax	4	-	-	18:k1	-	distal	-
+jarA_1	5	-	-	7:k7	-	-	-
+Srama_1	6	-	-	7:k7	-	-	-
+vAwa_1	7	-	-	8:k2	-	-	-
+ha_1	8	-	-	17:k1	-	-	-
+xqRti_1	9	-	-	10:r6	-	-	-
+prasAxa_1	10	-	-	16:k7	-	-	-
+puRti_1	11	-	-	16:k7	-	-	-
+Ayus_1	12	-	-	16:k7	-	-	-
+svapna_1	13	-	-	16:k7	-	-	-
+-su_1	14	-	-	15:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+wvac_1	15	-	-	16:k7	-	-	-
+-xArDya_1	16	-	-	17:k2	-	-	-
+kqw_1	17	-	-	4:k1s	-	-	-
+BU_1-awi_1	18	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_009_1_1>
+#शिरः-श्रवण-पादेषु तम् विशेषेण शीलयेत् .
+Siras_1	1	-	-	3:k7	-	-	-
+SravaNa_1	2	-	-	3:k7	-	-	-
+pAxa_1	3	-	pl	6:k7p	-	-	-
+$wyax	4	-	-	6:k2	-	distal	-
+viSeRa_1	5	-	-	6:krvn	-	-	-
+SIl_1-yAw_1	6	-	causative	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_009_2_1>
+#वर्ज्यः अभ्यङ्गः कफ-ग्रस्त-कृत-सम्-शुद्धि-अ-जीर्णिभिः .
+varjya_1	1	-	-	0:main	-	-	-
+aByafga_1	2	-	-	1:k2	-	-	-
+kaPa_1	3	-	-	4:k3	-	-	-
+graswa_1	4	-	-	9:k7	-	-	-
+kqwa_1	5	-	-	6:तृतीयार्थ-बहुव्रीहिः	-	-	-
+-saM_1	6	-	-	7:प्रादि-तत्पुरुषः	-	-	-
+SuxXi_1	7	-	-	9:k7	-	-	-
+-a_1	8	-	-	9:neg	-	-	-
+jIrNi_1	9	-	pl	1:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_010_1>
+#लाघवम् कर्म-सामर्थ्यम् दीप्तः अग्निः मेदसः क्षयः विभक्त-घन-गात्रत्वम् (च) व्यायामात् उपजायते .
+lAGava_1	1	-	-	10:k1	-	-	-
+karman_1	2	-	-	3:r6	-	-	-
+sAmarWya_1	3	-	-	10:k1	-	-	-
+xIpwa_1	4	-	-	5:mod	-	-	-
+agni_1	5	-	-	10:k1	-	-	-
+mexas_1	6	-	-	7:r6	-	-	-
+kRaya_1	7	-	-	10:k1	-	-	-
+viBakwa_1	8	-	-	9:k7	-	-	-
+Gana_1	9	-	-	10:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+gAwra_1	10	-	-	12:k1	-	-	-
+vyAyAma_1	11	-	-	12:rh	-	-	-
+upa_jan_1	12	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_011_1_1>
+#वात-पित्त-आमयी बालः वृद्धः अजीर्णः च तम् त्यजेत् .
+vAwa_1	1	-	-	2:k7	-	-	-
+piwwa_1	2	-	-	3:r6	-	-	-
+Amayin_1	3	-	-	6:k1	-	-	-
+bAla_1	4	-	-	6:k1	-	-	-
+vqxXa_1	5	-	-	6:k1	-	-	-
+ajIrNa_1	6	-	-	8:k1	-	-	-
+$wyax	7	-	-	8:k2	-	distal	-
+wyaj_1-yAw_1	8	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_011_2-012_1_1>
+#अर्ध-शक्त्या निषेव्यः तु बलिभिः स्निग्ध-भोजिभिः (पुरुषैः) शीत-काले वसन्ते च मन्दम् एव ततः अन्यदा (निषेव्यः) .
+arXa_1	1	-	-	2:कर्मधारयः	-	-	-
+Sakwi_1	2	-	-	3:krvn	-	-	-
+niRevya_1	3	-	-	0:main	-	-	-
+bali_1	4	-	pl	7:mod	-	-	-
+snigXa_1	5	-	-	6:k2	-	-	-
+Boji_1	6	-	pl	7:mod	-	-	-
+puruRa_1	7	-	pl	3:k1	-	-	-
+SIwa_1	8	-	-	9:कर्मधारयः	-	-	-
+kAla_1	9	-	-	10:k1	-	-	-
+vasanwa_1	10	-	-	3:k7p	-	-	-
+manxa_1	11	-	-	13:krvn	-	-	-
+anyaxA_1	12	-	-	13:k7t	-	-	-
+niRevya_1	13	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_012_2_1>
+#तम् कृत्वा अनु-सुखम् देहम् मर्दयेत् च समन्ततः .
+$wyax	1	-	-	2:k2	-	distal	-
+kq_1	2	-	-	6:rpk	-	-	-
+anu_1	3	-	-	4:अव्ययीभावः	-	-	-
+suKam_1	4	-	-	6:krvn	-	-	-
+xeha_1	5	-	-	7:rdl	-	-	-
+mqx_1-yAw_1	6	-	causative	0:main	-	-	-
+samanwa_1	7	-	-	6:k7p	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_013_1>
+#तृष्णा क्षयः प्रतमकः रक्तपित्तम् श्रमः क्लमः अति-व्यायामतः कासः ज्वरः छर्दिः च जायते .
+wqRNA_1	1	-	-	11:k1	-	-	-
+kRaya_1	2	-	-	11:k1	-	-	-
+prawamaka_1	3	-	-	11:k1	-	-	-
+rakwapiwwa_1	4	-	-	11:k1	-	-	-
+Srama_1	5	-	-	11:k1	-	-	-
+klama_1	6	-	-	11:k1	-	-	-
+awi_1	7	-	-	8:अव्ययीभावः	-	-	-
+vyAyAma_1	8	-	-	12:rh	-	-	-
+kAsa_1	9	-	-	11:k1	-	-	-
+jvara_1	10	-	-	11:k1	-	-	-
+Carxi_1	11	-	-	12:k1	-	-	-
+jan_1	12	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_014_1>
+#व्यायाम-जागर-अध्व-स्त्री-हास्य-भाषि-आदि साहसम् गजम् सिंहः इव आकर्षन् (विनश्यति) भजन् अति विनश्यति (पुरुषः) .
+vyAyAma_1	1	-	-	6:k7	-	-	-
+jAgara_1	2	-	-	6:k7	-	-	-
+aXvan_1	3	-	-	6:k7	-	-	-
+swrI_1	4	-	-	6:k7	-	-	-
+hAsya_1	5	-	-	6:k7	-	-	-
+-BARi_1	6	-	-	7:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+Axi_1	7	-	-	8:k1	-	-	-
+sAhasa_1	8	-	-	13:k2	-	-	-
+gaja_1	9	-	-	11:k2	-	-	-
+siMha_1	10	-	-	12:k1	-	-	-
+AkarRaw_1	11	-	-	12:rvks	-	-	-
+vi_NaS_1-awi_1	12	-	-	15:ru	-	iva_1	-
+Bajaw_1	13	-	-	15:rvks	-	-	-
+awi_1	14	-	-	13:तीव्रतादर्शी	-	-	-
+vi_NaS_1-awi_1	15	-	-	0:main	-	-	-
+puruRa_1	16	-	-	15:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_015_1>
+#उद्वर्तनम् कफ-हरम् मेदसः प्रविलायनम् स्थिरीकरणम् अङ्गानाम् त्वक्-प्रसाद-करम् परम् (च) (भवति) .
+uxvarwana_1	1	-	-	12:k1	-	-	-
+kaPa_1	2	-	-	3:k2	-	-	-
+hara_1	3	-	-	10:k1	-	-	-
+mexas_1	4	-	-	5:r6	-	-	-
+pravilAyana_1	5	-	-	10:k1	-	-	-
+sWirIkaraNa_1	6	-	-	10:k1	-	-	-
+afga_1	7	-	pl	6:r6	-	-	-
+wvac_1	8	-	-	9:r6	-	-	-
+prasAxa_1	9	-	-	10:k2	-	-	-
+kara_1	10	-	-	1:k1s	-	-	-
+para_1	11	-	-	10:mod	-	-	-
+BU_1-awi_1	12	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_016_1>
+#दीपनम् वृष्यम् आयुष्यम् स्नानम् ऊर्जा-बल-प्रदम् कण्डू-मल-श्रम-स्वेद-तन्द्रा-तृट्-दाह-पाप्म-जित् (च) (भवति) .
+xIpana_1	1	-	-	16:k1	-	-	-
+vqRya_1	2	-	-	16:k1	-	-	-
+AyuRya_1	3	-	-	16:k1	-	-	-
+snAna_1	4	-	-	17:k1	-	-	-
+UrjA_1	5	-	-	6:k7	-	-	-
+bala_1	6	-	-	7:k2	-	-	-
+praxa_1	7	-	-	16:k1	-	-	-
+kaNdU_1	8	-	-	15:k7	-	-	-
+mala_1	9	-	-	15:k7	-	-	-
+Srama_1	10	-	-	15:k7	-	-	-
+svexa_1	11	-	-	15:k7	-	-	-
+wanxrA_1	12	-	-	15:k7	-	-	-
+-wqt_1	13	-	-	15:k7	-	-	-
+xAha_1	14	-	-	15:k7	-	-	-
+pApman_1	15	-	-	16:k2	-	-	-
+jiw_1	16	-	-	4:k1s	-	-	-
+BU_1-awi_1	17	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_017_1>
+#उष्ण-अम्बुना अधः-कायस्य परिषेकः बल-आवहः (भवति) तेन एव तु उत्तम-अङ्गस्य बल-हृत् केश-चक्षुषाम् (भवति) (परिषेकः) .
+uRNa_1	1	-	-	2:कर्मधारयः	-	-	-
+ambu_1	2	-	-	8:k3	-	-	-
+aXaH_1	3	-	-	4:कर्मधारयः	-	-	-
+kAya_1	4	-	-	5:r6	-	-	-
+pariReka_1	5	-	-	8:k1	-	-	-
+bala_1	6	-	-	7:k2	-	-	-
+Avaha_1	7	-	-	5:k1s	-	-	-
+BU_1-awi_1	8	-	-	0:main	-	-	-
+$wyax	9	-	-	16:k3	-	distal	-
+uwwama_1	10	-	-	11:कर्मधारयः	-	-	-
+afga_1	11	-	-	17:r6	-	-	-
+bala_1	12	-	-	13:k2	-	-	-
+hqx_1	13	-	-	17:k1s	-	-	-
+keSa_1	14	-	-	15:k7	-	-	-
+cakRus_1	15	-	pl	13:r6	-	-	-
+BU_1-awi_1	16	-	-	0:main	-	-	-
+pariReka_1	17	-	-	16:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_018_1>
+#स्नानम् अर्दित-नेत्र-अस्य-कर्ण-रोग-अतिसारिषु अध्मान-पीनस-अ-जीर्ण-भुक्तवत्सु च गर्हितम् .
+snAna_1	1	-	-	13:k2	-	-	-
+arxiwa_1	2	-	-	7:k7	-	-	-
+newra_1	3	-	dl	5:k7	-	-	-
+asya_1	4	-	-	5:k7	-	-	-
+karNa_1	5	-	-	6:k7	-	-	-
+roga_1	6	-	-	7:k7	-	-	-
+awisArin_1	7	-	pl	12:k1	-	-	-
+aXmAna_1	8	-	-	12:k7	-	-	-
+pInasa_1	9	-	-	12:k7	-	-	-
+a_1	10	-	-	11:neg	-	-	-
+jIrNa_1	11	-	-	12:k7	-	-	-
+Bukwa_1	12	-	mawupa	13:k7p	-	-	-
+garhiwa_1	13	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_019_1>
+#जीर्णे हितम् मितम् च अद्यात् न वेगान् ईरयेत् बलात् .
+jIrNa_1	1	-	-	4:rblak	-	-	-
+hiwa_1	2	-	-	3:k1	-	-	-
+miwa_1	3	-	-	4:k2	-	-	-
+ax_1-yAw_1	4	-	-	0:main	-	-	-
+na_1	5	-	-	7:neg	-	-	-
+vega_1	6	-	pl	7:k2	-	-	-
+Ir_1-yAw_1	7	-	causative	0:main	-	-	-
+bala_1	8	-	-	7:rh	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_019_2>
+#न वेगितः (सन्) अन्य-कार्यः स्यात् न अ-जित्वा साध्यम् आमयम् (अन्य)-(कार्यम्) .
+na_1	1	-	-	6:neg	-	-	-
+vegin_1	2	-	-	3:k1	-	-	-
+saw_1	3	-	-	6:rvks	-	-	-
+anya_1	4	-	-	5:तृतीयार्थ-बहुव्रीहिः	-	-	-
+kArI_1	5	-	pl	6:k1	-	-	-
+as_1-yAw_1	6	-	-	0:main	-	-	-
+na_1	7	-	-	10:neg	-	-	-
+a_1	8	-	-	9:neg	-	-	-
+ji_1	9	-	-	10:rpk	-	-	-
+sAXya_1	10	-	-	0:main	-	-	-
+Amaya_1	11	-	-	9:k2	-	-	-
+anya_1	12	-	-	13:कर्मधारयः	-	-	-
+kArya_1	13	-	-	10:k2	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_020_1>
+#सुख-अर्थाः सर्व-भूतानाम् मताः सर्वाः प्रवृत्तयः सुखम् च न विना धर्मात् (भवति) तस्मात् धर्म-परः भवेत् .
+suKa_1	1	-	-	2:चतुर्थी-तत्पुरुषः	-	-	-
+arWa_1	2	-	pl	5:rt	-	-	-
+sarva_1	3	-	-	4:कर्मधारयः	-	-	-
+BUwa_1	4	-	pl	7:r6	-	-	-
+mawa_1	5	-	pl	0:main	-	-	-
+sarvA_1	6	-	pl	7:mod	-	-	-
+pravqwwi_1	7	-	pl	5:k2	-	-	-
+suKam_1	8	-	-	12:k1	-	-	-
+na_1	9	-	-	12:neg	-	-	-
+vinA_1	10	-	-	11:rasneg	-	-	-
+Xarma_1	11	-	-	12:k5	-	-	-
+BU_1-awi_1	12	-	-	0:main	-	-	-
+$wyax	13	-	-	16:कार्य_द्योतकः	-	distal	-
+Xarma_1	14	-	-	15:चतुर्थ्यर्थ-बहुव्रीहिः	-	-	-
+para_1	15	-	-	16:k1	-	-	-
+BU_1-yAw_1	16	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_021_1_1>
+#भक्त्या कल्याण-मित्राणि सेवेत इतर-दूर-गः (सन्) .
+Bakwi_1	1	-	-	4:krvn	-	-	-
+kalyANa_1	2	-	-	3:कर्मधारयः	-	-	-
+miwra_1	3	-	pl	4:k2	-	-	-
+sev_1	4	-	-	0:main	-	-	-
+iwara_1	5	-	-	7:पञ्चमी-तत्पुरुषः	-	-	-
+xUra_1	6	-	-	7:k2	-	-	-
+ga_1	7	-	-	8:k1	-	-	-
+saw_1	8	-	-	4:rvks	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_021_2-022_1>
+#हिंसा-स्तेय-अन्यथा-कामम् पैशुन्यम् परुष-अनृते सम्भिन्न-आलापम् व्यापादम् अभिध्याम् दृक्-विपर्ययम् पापम् कर्म इति दशधा काय-वाक्-मानसैः त्यजेत् .
+hiMsA_1	1	-	-	3:k7	-	-	-
+sweya_1	2	-	-	3:k7	-	-	-
+-anyaWA_1	3	-	-	4:कर्मधारयः	-	-	-
+kAma_1	4	-	-	16:घटकः	-	-	-
+pESunya_1	5	-	-	16:घटकः	-	-	-
+paruRa_1	6	-	-	7:k7	-	-	-
+anqwa_1	7	-	dl	16:घटकः	-	-	-
+samBinna_1	8	-	-	9:कर्मधारयः	-	-	-
+AlApa_1	9	-	-	16:घटकः	-	-	-
+vyApAxa_1	10	-	-	16:घटकः	-	-	-
+aBiXyA_1	11	-	-	16:घटकः	-	-	-
+xqS_1	12	-	-	13:k7	-	-	-
+viparyaya_1	13	-	-	16:घटकः	-	-	-
+pApa_1	14	-	-	15:mod	-	-	-
+karman_1	15	-	-	20:k2	-	-	-
+xaSan_1	16	-	-	15:mod	-	-	-
+kAya_1	17	-	-	19:k7	-	-	-
+vAc_1	18	-	-	19:k7	-	-	-
+mAnasa_1	19	-	pl	20:k3	-	-	-
+wyaj_1-yAw_1	20	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_023_1_1>
+#अ-वृत्ति-व्याधि-शोक-आर्तान् अनुवर्तेत शक्तितः .
+a_1	1	-	-	2:अस्त्यर्थ-मध्यमपदलोपी(नञ्)-बहुव्रीहिः	-	-	-
+vqwwi_1	2	-	-	5:k7	-	-	-
+vyAXi_1	3	-	-	4:k7	-	-	-
+Soka_1	4	-	-	5:k3	-	-	-
+Arwa_1	5	-	pl	6:k2	-	-	-
+anu_vqw_1	6	-	-	0:main	-	-	-
+Sakwi_1	7	-	-	6:krvn	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_023_2_1>
+#आत्मवत् सततम् पश्येत् अपि कीट-पिपीलिकम् .
+Awman_1	1	-	-	3:krvn	-	-	-
+sawawam_1	2	-	-	3:krvn	-	-	-
+xqS_1-yAw_1	3	-	-	0:main	-	-	-
+kIta_1	4	-	-	5:समाहार-द्वन्द्वः	-	-	-
+pipIlika_1	5	-	-	3:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_024_1_1>
+#अर्चयेत् देव-गो-विप्र-वृद्ध-वैद्य-नृप-अतिथीन् .
+qc_1-yAw_1	1	-	causative	0:main	-	-	-
+xeva_1	2	-	-	8:k7	-	-	-
+go_1	3	-	-	8:k7	-	-	-
+vipra_1	4	-	-	8:k7	-	-	-
+vqxXa_1	5	-	-	8:k7	-	-	-
+vExya_1	6	-	-	8:k7	-	-	-
+nqpa_1	7	-	-	8:k7	-	-	-
+awiWi_1	8	-	pl	1:k2	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_024_2_1>
+#विमुखान् न अर्थिनः कुर्यात् न अवमन्येत न आक्षिपेत् .
+vimuKa_1	1	-	pl	3:k1s	-	-	-
+na_1	2	-	-	4:neg	-	-	-
+arWin_1	3	-	pl	4:k2	-	-	-
+kq_1-yAw_1	4	-	-	0:main	-	-	-
+na_1	5	-	-	6:neg	-	-	-
+ava_man_1	6	-	-	0:main	-	-	-
+na_1	7	-	-	8:neg	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_025_1_1>
+#उपकार-प्रधानः स्यात् अपकार-परे अपि अरौ .
+upakAra_1	1	-	-	2:चतुर्थ्यर्थ-बहुव्रीहिः	-	-	-
+praXAna_1	2	-	-	3:k1	-	-	-
+as_1-yAw_1	3	-	-	0:main	-	-	-
+apakAra_1	4	-	-	5:चतुर्थ्यर्थ-बहुव्रीहिः	-	-	-
+para_1	5	-	-	6:mod	-	-	-
+ari_1	6	-	-	3:k7p	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_025_2_1>
+#सम्पत्-विपत्सु एक-मनाः हेतौ ईर्ष्येत् फले न तु (ईर्ष्येत्) (स्यात्) .
+sampaw_1	1	-	-	2:k7	-	-	-
+vipaw_1	2	-	pl	10:k7p	-	-	-
+eka_1	3	-	-	4:mod	-	-	-
+manas_1	4	-	-	10:k1	-	-	-
+hewu_1	5	-	-	6:k7p	-	-	-
+IrRy_1-yAw_1	6	-	-	0:main	-	-	-
+Pala_1	7	-	-	9:k7p	-	-	-
+na_1	8	-	-	9:neg	-	-	-
+IrRy_1-yAw_1	9	-	-	0:main	-	-	-
+as_1-yAw_1	10	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_026_1_1>
+#काले हितम् मितम् ब्रूयात् अ-विसंवादि पेशलम् (च) .
+kAla_1	1	-	-	4:k7t	-	-	-
+hiwa_1	2	-	-	7:k1	-	-	-
+miwa_1	3	-	-	7:k1	-	-	-
+brU_1-yAw_1	4	-	-	0:main	-	-	-
+a_1	5	-	-	6:neg	-	-	-
+visaMvAxin_1	6	-	-	7:k1	-	-	-
+peSala_1	7	-	-	4:k2	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_026_2-027_1_1>
+#पूर्व-अभिभाषी सु-मुखः सु-शीलः करुणा-मृदुः (च) (स्यात्) .
+pUrva_1	1	-	-	2:k2	-	-	-
+aBiBARin_1	2	-	-	8:k1	-	-	-
+su_1	3	-	-	4:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+muKa_1	4	-	-	8:k1	-	-	-
+su_1	5	-	-	6:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+SIla_1	6	-	-	8:k1	-	-	-
+karuNA_1	7	-	-	8:k3	-	-	-
+mqxu_1	8	-	-	9:k1	-	-	-
+as_1-yAw_1	9	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_026_2-027_1_2>
+#न एकः सुखी (स्यात्) न सर्वत्र विश्रब्धः (स्यात्) न च शङ्कितः (स्यात्) .
+na_1	1	-	-	4:neg	-	-	-
+1_1	2	-	-	3:mod	-	-	-
+suKin_1	3	-	-	4:k1	-	-	-
+as_1-yAw_1	4	-	-	0:main	-	-	-
+na_1	5	-	-	8:neg	-	-	-
+sarvawra_1	6	-	-	8:k7p	-	-	-
+viSrabXa_1	7	-	-	8:k1	-	-	-
+as_1-yAw_1	8	-	-	0:main	-	-	-
+na_1	9	-	-	11:neg	-	-	-
+Safkiwa_1	10	-	-	11:k1	-	-	-
+as_1-yAw_1	11	-	-	8:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_027_2-028_1_1>
+#न कञ्चित् आत्मनः शत्रुम् (प्रकाशयेत्) न आत्मानम् कस्यचित् रिपुम् (प्रकाशयेत्) .
+na_1	1	-	-	5:neg	-	-	-
+kiFciw_1	2	-	-	4:mod	-	-	-
+Awman_1	3	-	-	4:r6	-	-	-
+Sawru_1	4	-	-	5:k2	-	-	-
+pra_kAS_1-yAw_1	5	-	-	0:main	-	-	-
+na_1	6	-	-	10:neg	-	-	-
+Awman_1	7	-	-	10:k2	-	-	-
+kiFciw_1	8	-	-	9:r6	-	-	-
+ripu_1	9	-	-	7:mod	-	-	-
+pra_kAS_1-yAw_1	10	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_027_2-028_1_2>
+#प्रकाशयेत् न अपमानम् न च निर्-स्नेहताम् प्रभोः (प्रकाशयेत्) .
+pra_kAS_1-yAw_1	1	-	-	0:main	-	-	-
+na_1	2	-	-	1:neg	-	-	-
+apamAna_1	3	-	-	1:k2	-	-	-
+na_1	4	-	-	8:neg	-	-	-
+nir_1	5	-	-	6:अव्ययीभावः	-	-	-
+sneha_1	6	-	-	8:k2	-	-	-
+praBu_1	7	-	-	6:r6	-	-	-
+pra_kAS_1-yAw_1	8	-	-	1:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_028_2-029_1_1>
+#जनस्य आशयम् आलक्ष्य यः यथा परितुष्यति .
+jana_1	1	-	-	2:r6	-	-	-
+ASaya_1	2	-	-	3:k2	-	-	-
+Af_lakR_1	3	-	-	6:rpk	-	-	-
+$yax	4	-	-	6:k1	-	-	-
+yaWA_1	5	-	-	6:krvn	-	-	-
+pari_wuR_1-awi_1	6	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_028_2-029_1_2>
+#तम् तथा एव अनुवर्तेत पर-आराधन-पण्डितः .
+$wyax	1	-	-	3:k2	-	distal	-
+waWA_1	2	-	-	3:krvn	-	-	-
+anu_vqw_1	3	-	-	0:main	-	-	-
+para_1	4	-	-	5:r6	-	-	-
+ArAXana_1	5	-	-	6:k7	-	-	-
+paNdiwa_1	6	-	-	3:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_029_2_1>
+#न पीडयेत् इन्द्रियाणि न च एतानि अति लालयेत् .
+na_1	1	-	-	2:neg	-	-	-
+pId_1-yAw_1	2	-	-	0:main	-	-	-
+inxriya_1	3	-	pl	2:k2	-	-	-
+na_1	4	-	-	7:neg	-	-	-
+$wyax	5	-	pl	7:k2	-	proximal	-
+awi_1	6	-	-	7:तीव्रतादर्शी	-	-	-
+lal_1-yAw_1	7	-	-	2:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_030_1_1>
+#त्रि-वर्ग-शून्यम् न आरम्भम् भजेत् तम् च अ-विरोधयन् (भजेत्) .
+wri_1	1	-	-	2:समाहार-द्विगुः	-	-	-
+varga_1	2	-	-	3:k3	-	-	-
+SUnya_1	3	-	-	5:mod	-	-	-
+na_1	4	-	-	6:neg	-	-	-
+AramBa_1	5	-	-	6:k2	-	-	-
+Baj_1-yAw_1	6	-	-	0:main	-	-	-
+$wyax	7	-	-	9:k2	-	distal	-
+a_1	8	-	-	9:neg	-	-	-
+viroXayaw_1	9	-	-	10:rvks	-	-	-
+Baj_1-yAw_1	10	-	-	6:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_030_2_1>
+#अनुयायात् प्रतिपदम् सर्व-धर्मेषु मध्यमाम् .
+anu_yA_1-yAw_1	1	-	-	0:main	-	-	-
+prawipax_1	2	-	-	1:k2	-	-	-
+sarva_1	3	-	-	4:कर्मधारयः	-	-	-
+Xarma_1	4	-	pl	1:k7p	-	-	-
+maXyamA_1	5	-	-	2:mod	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_031_1>
+#नीच-रोम-नख-श्मश्रुः निर्मल-अङ्घ्रि-मल-अयनः स्नान-शीलः सु-सुरभिः सु-वेषः अन्-उल्बण-उज्ज्वलः (च) (स्यात्) (नरः) .
+nIca_1	1	-	-	4:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+roman_1	2	-	-	4:k7	-	-	-
+naKa_1	3	-	-	4:k7	-	-	-
+SmaSru_1	4	-	-	17:k1	-	-	-
+nirmala_1	5	-	-	8:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+afGri_1	6	-	-	7:इतर्तर-द्वन्द्वः	-	-	-
+mala_1	7	-	-	8:r6	-	-	-
+ayana_1	8	-	-	17:k1	-	-	-
+snAna_1	9	-	-	10:k2	-	-	-
+SIla_1	10	-	-	17:k1	-	-	-
+su_1	11	-	-	12:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+suraBi_1	12	-	-	17:k1	-	-	-
+su_1	13	-	-	14:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+veRa_1	14	-	-	17:k1	-	-	-
+an_1	15	-	-	16:neg	-	-	-
+ulbaNa_1	16	-	-	17:कर्मधारयः	-	-	-
+ujjvala_1	17	-	-	19:k1s	-	-	-
+as_1-yAw_1	18	-	-	0:main	-	-	-
+nara_1	19	-	-	18:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_032_1_1>
+#धारयेत् सततम् रत्न-सिद्ध-मन्त्र-महा-ओषधीः .
+Xq_1-yAw_1	1	-	-	0:main	-	-	-
+sawawam_1	2	-	-	1:krvn	-	-	-
+rawna_1	3	-	-	7:k7	-	-	-
+sixXa_1	4	-	-	5:कर्मधारयः	-	-	-
+manwra_1	5	-	-	7:k7	-	-	-
+mahaw_1	6	-	-	7:कर्मधारयः	-	-	-
+oRaXi_1	7	-	pl	1:k2	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_032_2_1>
+#स-आतप-त्र-पद-त्राणः विचरेत् युग-मात्र-दृक् (च) (सन्) .
+sa_1	1	-	-	5:सहपूर्वपद-व्यधिकरण-बहुव्रीहिः	-	-	-
+Awapa_1	2	-	-	3:k2	-	-	-
+-wra_1	3	-	-	5:k7	-	-	-
+paxa_1	4	-	-	5:r6	-	-	-
+wrANa_1	5	-	-	9:k1	-	-	-
+vi_car_1-yAw_1	6	-	-	0:main	-	-	-
+yuga_1	7	-	-	8:मयूरव्यंसकादिः	-	-	-
+mAwra_1	8	-	-	9:k2	-	-	-
+xqS_1	9	-	-	10:k1	-	-	-
+saw_1	10	-	-	6:rvks	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_033_1_1>
+#निशि च आत्ययिके कार्ये दण्डी मौली सहायवान् (विचरेत्) (च) (सन्) .
+niS_1	1	-	-	7:k7p	-	-	-
+Awyayika_1	2	-	-	3:mod	-	-	-
+kArya_1	3	-	-	7:k7p	-	-	-
+xaNdin_1	4	-	-	6:k1	-	-	-
+mOlin_1	5	-	-	6:k1	-	-	-
+sahAya_1	6	-	mawupa	8:k1	-	-	-
+vi_car_1-yAw_1	7	-	-	0:main	-	-	-
+saw_1	8	-	-	7:rvks	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_033_2-034_1_1>
+#चैत्य-पूज्य-ध्वज-आशस्त-छाया-भस्म-तुष-अशुचीन् न आक्रामेत् शर्करा-लोष्ट-बलि-स्नान-भुवः न च (आक्रामेत्) .
+cEwya_1	1	-	-	4:k7	-	-	-
+pUjya_1	2	-	-	4:k7	-	-	-
+Xvaja_1	3	-	-	4:k7	-	-	-
+-ASaswa_1	4	-	-	5:r6	-	-	-
+CAyA_1	5	-	-	8:k7	-	-	-
+Basman_1	6	-	-	8:k7	-	-	-
+wuRa_1	7	-	-	8:k7	-	-	-
+aSuci_1	8	-	pl	10:k2	-	-	-
+na_1	9	-	-	10:neg	-	-	-
+Af_kram_1-yAw_1	10	-	-	0:main	-	-	-
+SarkarA_1	11	-	-	15:k7	-	-	-
+loRta_1	12	-	-	15:k7	-	-	-
+bali_1	13	-	-	14:k7	-	-	-
+snAna_1	14	-	-	15:r6	-	-	-
+BU_1	15	-	pl	17:k2	-	-	-
+na_1	16	-	-	17:neg	-	-	-
+Af_kram_1-yAw_1	17	-	-	10:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_034_2-035_1_1>
+#नदीम् तरेत् न बाहुभ्याम् न अग्नि-स्कन्धम् अभिव्रजेत् .
+naxI_1	1	-	-	2:k2	-	-	-
+wa_1-yAw_1	2	-	-	0:main	-	-	-
+na_1	3	-	-	2:neg	-	-	-
+bAhu_1	4	-	dl	2:k3	-	-	-
+na_1	5	-	-	8:neg	-	-	-
+agni_1	6	-	-	7:r6	-	-	-
+skanXa_1	7	-	-	8:k2	-	-	-
+aBi_vraj_1-yAw_1	8	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_034_2-035_1_2>
+#सन्दिग्ध-नावम् वृक्षम् च न आरोहेत् दुष्ट-यानवत् .
+sanxigXa_1	1	-	-	2:कर्मधारयः	-	-	-
+nO_1	2	-	-	3:k1	-	-	-
+vqkRa_1	3	-	-	5:k2	-	-	-
+na_1	4	-	-	5:neg	-	-	-
+Af_ruh_1-yAw_1	5	-	-	0:main	-	-	-
+xuRta_1	6	-	-	7:कर्मधारयः	-	-	-
+yAnavaw_1	7	-	mawupa	5:krvn	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_035_2_1>
+#न अ-संवृत-मुखः कुर्यात् क्षुति-हास्य-विजृम्भणम् .
+na_1	1	-	-	5:neg	-	-	-
+a_1	2	-	-	3:neg	-	-	-
+saMvqwa_1	3	-	-	4:कर्मधारयः	-	-	-
+muKa_1	4	-	-	5:k1	-	-	-
+kq_1-yAw_1	5	-	-	0:main	-	-	-
+kRuwi_1	6	-	-	8:समाहार-द्वन्द्वः	-	-	-
+hAsya_1	7	-	-	8:समाहार-द्वन्द्वः	-	-	-
+vijqmBaNa_1	8	-	-	5:k2	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_036_1>
+#नासिकाम् न विकुष्णीयात् न अकस्मात् विलिखेत् भुवम् न अङ्गैः चेष्टेत विगुणम् न आसीत उत्कटकः चिरम् .
+nAsikA_1	1	-	-	3:k2	-	-	-
+na_1	2	-	-	3:neg	-	-	-
+vi_kuR_1-yAw_1	3	-	-	0:main	-	-	-
+na_1	4	-	-	6:neg	-	-	-
+akasmAw_1	5	-	-	6:krvn	-	-	-
+vi_liK_1-yAw_1	6	-	-	0:main	-	-	-
+BU_1	7	-	-	6:k2	-	-	-
+na_1	8	-	-	10:neg	-	-	-
+afga_1	9	-	pl	10:k3	-	-	-
+ceRt_1	10	-	-	0:main	-	-	-
+viguNa_1	11	-	-	10:krvn	-	-	-
+na_1	12	-	-	13:neg	-	-	-
+As_1	13	-	-	0:main	-	-	-
+uwkataka_1	14	-	-	13:k1	-	-	-
+ciram_1	15	-	-	13:krvn	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_037_1_1>
+#देह-वाक्-चेतसाम् चेष्टाः प्राक् श्रमात् विनिवर्तयेत् न ऊर्ध्व-जानुः चिरम् तिष्ठेत् .
+xeha_1	1	-	-	3:k7	-	-	-
+vAc_1	2	-	-	3:k7	-	-	-
+cewas_1	3	-	pl	4:r6	-	-	-
+ceRtA_1	4	-	pl	7:k2	-	-	-
+prAk_1	5	-	-	7:k7t	-	-	-
+Srama_1	6	-	-	5:rdl	-	-	-
+vi_ni_vqw_1-yAw_1	7	-	-	0:main	-	-	-
+na_1	8	-	-	12:neg	-	-	-
+UrXva_1	9	-	-	10:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+jAnu_1	10	-	-	12:k1	-	-	-
+ciram_1	11	-	-	12:krvn	-	-	-
+RWA_1-yAw_1	12	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_037_2-038_1>
+#नक्तम् सेवेत न द्रुमम् तथा चत्वर-चैत्य-अन्तः-चतुः-पथ-सुर-आलयान् सूना-अटवी-शून्य-गृह-श्मशानानि दिवा अपि न (सेवेत) .
+nakwam_1	1	-	-	2:k7t	-	-	-
+sev_1	2	-	-	0:main	-	-	-
+na_1	3	-	-	2:neg	-	-	-
+xruma_1	4	-	-	2:k2	-	-	-
+cawvara_1	5	-	-	11:k7	-	-	-
+cEwya_1	6	-	-	7:r6	-	-	-
+-anwaH_1	7	-	-	11:k7	-	-	-
+cawuRpaWa_1	8	-	-	9:समाहार-द्विगुः	-	-	-
+paWa_1	9	-	-	11:k7	-	-	-
+sura_1	10	-	-	11:r6	-	-	-
+Alaya_1	11	-	pl	4:k1	-	-	-
+sUnA_1	12	-	-	16:k7	-	-	-
+atavI_1	13	-	-	16:k7	-	-	-
+SUnya_1	14	-	-	15:कर्मधारयः	-	-	-
+gqha_1	15	-	-	16:k7	-	-	-
+SmaSAna_1	16	-	pl	19:k2	-	-	-
+xivA_1	17	-	-	19:k7t	-	-	-
+na_1	18	-	-	19:neg	-	-	-
+sev_1	19	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_039_1>
+#सर्वथा ईक्षेत न आदित्यम् न भारम् शिरसा वहेत् न ईक्षेत प्रततम् सूक्ष्मम् दीप्त-अमेध्य-अ-प्रियाणि च .
+sarvaWA_1	1	-	-	2:krvn	-	-	-
+IkR_1	2	-	-	0:main	-	-	-
+na_1	3	-	-	2:neg	-	-	-
+Axiwya_1	4	-	-	2:k2	-	-	-
+na_1	5	-	-	8:neg	-	-	-
+BAra_1	6	-	-	8:k2	-	-	-
+Siras_1	7	-	-	8:k3	-	-	-
+vah_1-yAw_1	8	-	-	0:main	-	-	-
+na_1	9	-	-	10:neg	-	-	-
+IkR_1	10	-	-	0:main	-	-	-
+prawawa_1	11	-	-	10:krvn	-	-	-
+sUkRma_1	12	-	-	16:k1	-	-	-
+xIpwa_1	13	-	-	16:k7	-	-	-
+ameXya_1	14	-	-	16:k7	-	-	-
+-a_1	15	-	-	16:neg	-	-	-
+priya_1	16	-	pl	10:k2	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_040-044_1>
+#मद्य-विक्रय-सन्धान-दान-आदानानि न आचरेत् .
+maxya_1	1	-	-	5:r6	-	-	-
+vikraya_1	2	-	-	5:k7	-	-	-
+sanXAna_1	3	-	-	5:k7	-	-	-
+xAna_1	4	-	-	5:k7	-	-	-
+AxAna_1	5	-	pl	7:k2	-	-	-
+na_1	6	-	-	7:neg	-	-	-
+Af_car_1-yAw_1	7	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_040-044_2>
+#पुरो-वात-आतप-रजस्-तुषार-परुष-अनिलान् त्यजेत् .
+puro_1	1	-	-	2:कर्मधारयः	-	-	-
+vAwa_1	2	-	-	3:k7	-	-	-
+Awapa_1	3	-	-	7:k7	-	-	-
+rajas_1	4	-	-	7:k7	-	-	-
+wuRAra_1	5	-	-	7:k7	-	-	-
+paruRa_1	6	-	-	7:कर्मधारयः	-	-	-
+anila_1	7	-	pl	8:k2	-	-	-
+wyaj_1-yAw_1	8	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_040-044_3>
+#अनृजुः क्षवथु-उद्गार-कास-स्वप्न-अन्न-मैथुनम् (त्यजेत्) .
+anqju_1	1	-	-	8:k1	-	-	-
+kRavaWu_1	2	-	-	7:k7	-	-	-
+uxgAra_1	3	-	-	7:k7	-	-	-
+kAsa_1	4	-	-	7:k7	-	-	-
+svapna_1	5	-	-	7:k7	-	-	-
+anna_1	6	-	-	7:k7	-	-	-
+mEWuna_1	7	-	-	8:k2	-	-	-
+wyaj_1-yAw_1	8	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_040-044_4>
+#कूल-छायाम् नृप-द्विष्टम् व्याल-दंष्ट्रि-विषाणिनः हीन-अन् आर्य-अति-निपुण-सेवाम् (च) (त्यजेत्) विग्रहम् उत्तमैः (त्यजेत्) सन्ध्यासु अभ्यवहार-स्त्री-स्वप्न-अध्ययन-चिन्तनम् (त्यजेत्) .
+kUla_1	1	-	-	2:r6	-	-	-
+CAyA_1	2	-	-	13:k1	-	-	-
+nqpa_1	3	-	-	4:k3	-	-	-
+xviRta_1	4	-	dl	13:k1	-	-	-
+vyAla_1	5	-	-	7:k7	-	-	-
+xaMRtrin_1	6	-	-	7:k7	-	-	-
+viRANin_1	7	-	pl	13:k1	-	-	-
+hIna_1	8	-	-	12:k7	-	-	-
+-an_1	9	-	-	10:neg	-	-	-
+-Arya_1	10	-	-	12:k7	-	-	-
+-awi_1	11	-	-	12:प्रादि-तत्पुरुषः	-	-	-
+nipuNa_1	12	-	-	13:r6	-	-	-
+sevA_1	13	-	-	14:k2	-	-	-
+wyaj_1-yAw_1	14	-	-	0:main	-	-	-
+vigraha_1	15	-	-	17:k2	-	-	-
+uwwama_1	16	-	pl	17:rask1	-	-	-
+wyaj_1-yAw_1	17	-	-	0:main	-	-	-
+sanXyA_1	18	-	pl	24:k7p	-	-	-
+aByavahAra_1	19	-	-	23:k7	-	-	-
+swrI_1	20	-	-	23:k7	-	-	-
+svapna_1	21	-	-	23:k7	-	-	-
+aXyayana_1	22	-	-	23:k7	-	-	-
+cinwana_1	23	-	-	24:k2	-	-	-
+wyaj_1-yAw_1	24	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_040-044_5>
+#शत्रु-सत्र-गण-आकीर्ण-गणिका-पणिक-अशनम् (त्यजेत्) .
+Sawru_1	1	-	-	6:k7	-	-	-
+sawra_1	2	-	-	6:k7	-	-	-
+gaNa_1	3	-	-	6:k7	-	-	-
+AkIrNa_1	4	-	-	6:k7	-	-	-
+gaNikA_1	5	-	-	6:k7	-	-	-
+-paNika_1	6	-	-	7:r6	-	-	-
+aSana_1	7	-	-	8:k2	-	-	-
+wyaj_1-yAw_1	8	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_040-044_6>
+#गात्र-वक्त्र-नखैः वाद्यम् (त्यजेत्) हस्त-केश-अवधूननम् (त्यजेत्) .
+gAwra_1	1	-	-	3:k7	-	-	-
+vakwra_1	2	-	-	3:k7	-	-	-
+naKa_1	3	-	pl	5:k3	-	-	-
+vAxya_1	4	-	-	5:k2	-	-	-
+wyaj_1-yAw_1	5	-	-	0:main	-	-	-
+haswa_1	6	-	-	7:समाहार-द्वन्द्वः	-	-	-
+keSa_1	7	-	-	8:r6	-	-	-
+avaXUnana_1	8	-	-	9:k2	-	-	-
+wyaj_1-yAw_1	9	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_040-044_7>
+#तोय-अग्नि-पूज्य-मध्येन यानम् (त्यजेत्) धूमम् शव-आश्रयम् मद्य-अति-सक्तिम् (च) (त्यजेत्) विश्रम्भ-स्वातन्त्र्ये स्त्रीषु च त्यजेत् .
+woya_1	1	-	-	3:k7	-	-	-
+agni_1	2	-	-	3:k7	-	-	-
+pUjya_1	3	-	-	4:r6	-	-	-
+maXya_1	4	-	-	6:k3	-	-	-
+yAna_1	5	-	-	6:k2	-	-	-
+wyaj_1-yAw_1	6	-	-	0:main	-	-	-
+XUma_1	7	-	-	12:k1	-	-	-
+Sava_1	8	-	-	9:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+ASraya_1	9	-	-	7:mod	-	-	-
+maxya_1	10	-	-	11:r6	-	-	-
+-awi_1	11	-	-	12:प्रादि-तत्पुरुषः	-	-	-
+sakwi_1	12	-	-	13:k2	-	-	-
+wyaj_1-yAw_1	13	-	-	0:main	-	-	-
+viSramBa_1	14	-	-	15:k7	-	-	-
+svAwanwrya_1	15	-	dl	17:k2	-	-	-
+swrI_1	16	-	pl	17:k7p	-	-	-
+wyaj_1-yAw_1	17	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_045_1>
+#आचार्यः सर्व-चेष्टासु लोकः एव हि धीमतः (भवति) अनुकुर्यात् तम् एव अतः लौकिके अर्थे परीक्षकः .
+AcArya_1	1	-	-	6:k1	-	-	-
+sarva_1	2	-	-	3:कर्मधारयः	-	-	-
+ceRtA_1	3	-	pl	6:k7p	-	-	-
+loka_1	4	-	-	1:k1s	-	-	-
+XImaw_1	5	-	-	1:r6	-	-	-
+BU_1-awi_1	6	-	-	0:main	-	-	-
+anu_kq_1-yAw_1	7	-	-	0:main	-	-	-
+$wyax	8	-	-	7:k2	-	distal	-
+lOkika_1	9	-	-	10:mod	-	-	-
+arWa_1	10	-	-	7:k7p	-	-	-
+parIkRaka_1	11	-	-	7:k1	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_046_1>
+#आर्द्र-सन्तानता त्यागः काय-वाक्-चेतसाम् दमः स्व-अर्थ-बुद्धिः पर-अर्थेषु पर्याप्तम् इति सद्-व्रतम् (भवति) .
+Arxra_1	1	-	-	2:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+sanwAnawA_1	2	-	-	15:घटकः	-	-	-
+wyAga_1	3	-	-	15:घटकः	-	-	-
+kAya_1	4	-	-	6:k7	-	-	-
+vAc_1	5	-	-	6:k7	-	-	-
+cewas_1	6	-	pl	7:r6	-	-	-
+xama_1	7	-	-	15:घटकः	-	-	-
+sva_1	8	-	-	9:r6	-	-	-
+arWa_1	9	-	-	10:चतुर्थी-तत्पुरुषः	-	-	-
+buxXi_1	10	-	-	15:घटकः	-	-	-
+para_1	11	-	-	12:r6	-	-	-
+arWa_1	12	-	pl	10:k7	-	-	-
+paryApwa_1	13	-	-	15:k1s	-	-	-
+sax_1	14	-	-	15:r6	-	-	-
+vrawa_1	15	-	-	16:k1	-	-	-
+BU_1-awi_1	16	-	-	0:main	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=02_047_1>
+#नक्तं-दिनानि मे यान्ति कथम्-भूतस्य सम्प्रति दुःखभाक् न भवति एवम् नित्यम् सन्निहित-स्मृतिः (सन्) .
+nakwaM_1	1	-	-	2:k7	-	-	-
+xina_1	2	-	pl	4:k1	-	-	-
+asmax_1	3	-	-	2:r6	-	-	-
+yA_1-awi_1	4	-	pl	0:main	-	-	-
+kaWam_1	5	-	-	6:केवलसमासः	-	-	-
+BUwa_1	6	-	-	3:mod	-	-	-
+samprawi_1	7	-	-	4:k7t	-	-	-
+xuHKaBAj_1	8	-	-	10:k1	-	-	-
+na_1	9	-	-	10:neg	-	-	-
+BU_1-awi_1	10	-	-	0:main	-	-	-
+evam_1	11	-	-	15:krvn	-	-	-
+niwya_1	12	-	-	15:krvn	-	-	-
+sannihiwa_1	13	-	-	14:षष्ठ्यर्थ-बहुव्रीहिः	-	-	-
+smqwi_1	14	-	-	15:k1	-	-	-
+saw_1	15	-	-	10:rvks	-	-	-
+%affirmative
+</sent_id>
+
