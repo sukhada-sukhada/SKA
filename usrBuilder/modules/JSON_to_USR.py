@@ -37,7 +37,9 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
             if dep_rel is None or (isinstance(dep_rel, float) and math.isnan(dep_rel)):
                 dep_rel = "main"
             if dep_rel in DISCOURSE_PARTICLES_DEP or (
-                dep_rel in ['समुच्चय_द्योतकः', 'सुप्_समुच्चय_द्योतकः', 'घटक_द्योतकः'] and entry.get("root") == 'अपि'):
+                dep_rel in ['समुच्चय_द्योतकः', 'सुप्_समुच्चय_द्योतकः', 'घटक_द्योतकः'] and entry.get("root") == 'अपि') or (
+                dep_rel == 'सम्बन्धः' and entry.get("is_indeclinable")
+                ):
                 particle_map[str(dep_head)] = entry.get("wx_root")
 
         # Process and write each word line
