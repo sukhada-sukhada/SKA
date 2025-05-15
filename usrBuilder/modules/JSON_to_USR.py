@@ -45,7 +45,9 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
                 particle_map[str(dep_head)] = entry.get("wx_root")
 
 
+        
         sent_type = 'affirmative'
+        has_abhihita_karm = has_abhihita_karta = has_kim = has_pratishedha = False
         # Process and write each word line
         for entry in entries:
             wx_root = entry.get("wx_root")
@@ -59,31 +61,30 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
             if dep_rel is None or (isinstance(dep_rel, float) and math.isnan(dep_rel)):
                 dep_rel = "main"
 
-            # # Determine sentence type
-            # if dep_rel == 'अभिहित_कर्ता' and 'लोट्' in entry.get("morph_in_context"):
-            #     sent_type = 'imperative'
-            # elif dep_rel == 'अभिहित_कर्ता' and 'किम्' in entry.get("root"):
-            #     sent_type = 'interrogative'
-            # elif dep_rel == 'अभिहित_कर्ता' and 'प्रतिषेध:' in dep_rel:
-            #     sent_type = 'negative'
-            # elif dep_rel == 'अभिहित_कर्म' and 'लोट्' in entry.get("morph_in_context"):
-            #     sent_type = 'pass_imperative'
-            # elif dep_rel == 'अभिहित_कर्म' and 'किम्' in entry.get("root"):
-            #     sent_type = 'pass_interrogative'
-            # elif dep_rel == 'अभिहित_कर्म' and 'प्रतिषेध:' in dep_rel:
-            #     sent_type = 'pass_negative'
-            # elif dep_rel == 'अभिहित_कर्म':
-            #     sent_type = 'pass_affirmative'
-            # else:
-            #     sent_type = 'affirmative'
-
+            if dep_rel == 'अभिहित_कर्ता':
+                has_abhihita_karta = True
+            if dep_rel == 'अभिहित_कर्म':
+                has_abhihita_karm = True
+            if dep_rel == 'प्रतिषेधः':
+                has_pratishedha = True
+            if wx_root == 'kim':
+                has_kim = True
+        
+            if has_abhihita_karta and has_pratishedha:
+                sent_type = 'negative'
+            if has_abhihita_karta and has_kim:
+                sent_type = 'interrogative'
+            if has_abhihita_karta and 'लोट्' in entry.get("morph_in_context"):
+                sent_type = 'imperative'
+            if has_abhihita_karm:
+                sent_type = 'pass_affirmative'
+            if has_abhihita_karm and has_pratishedha:
+                sent_type = 'pass_negative'
+            if has_abhihita_karm and has_kim:
+                sent_type = 'pass_interrogative'
+            if has_abhihita_karm and 'लोट्' in entry.get("morph_in_context"):
+                sent_type = 'pass_imperative'
             
-            if (dep_head is None or (isinstance(dep_head, float) and math.isnan(dep_head))) and "लोट्" in entry.get("morph_in_context", ""):
-                sent_type = "imperative"  
-                break         
-            elif entry.get("dependency_relation") == "अभिहित_कर्म":
-                sent_type = "pass_affirmative"
-                break
 
             if (wx_root and wx_root != "-") and dep_rel not in AVYA_LIST:
                 # Morphological features

@@ -149,6 +149,7 @@ prAyaH_1	5	-	-	7:krvn	-	-	-	-
 sAra_1	6	-	compermore	-	-	-	-	8:mod
 uccaya_1	7	-	-	-	-	-	-	8:head
 [6-tat_1]	8	-	-	9:k2	-	-	-	-
+kq_1-ya_we_1	9	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -949,6 +950,7 @@ kqcCra_1	5	-	-	9:k2s	-	-	-	-
 safkara_1	6	-	-	7:k1	-	-	-	-
 saw_1	7	-	-	9:rblsk	-	wawaH_1	-	-
 gaxa_1	8	-	-	9:k2	-	-	-	-
+brU_1-ya_we_1	9	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -963,6 +965,7 @@ aByAsa_1	5	-	-	-	-	-	-	6:head
 viparyaya_1	7	-	-	8:k1	-	-	-	-
 saw_1	8	-	-	10:rblsk	-	-	-	-
 vyAXi_1	9	-	-	10:k2	-	-	-	-
+brU_1-ya_we_1	10	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -1024,8 +1027,12 @@ mAnin_1	25	-	-	-	-	-	-	26:head
 
 <sent_id=01_035_2_1>
 #तन्त्रस्य अस्य परम् च अतः वक्ष्यते अध्याय-सङ्ग्रहः .
-wanwra_1	1	-	-	3:r6	-	-	-	-
+wanwra_1	1	-	-	5:r6	-	-	-	-
 $wyax	2	-	-	1:mod	-	proximal	-	-
+vac_1	3	-	-	0:main	-	awaH_1	-	-
+aXyAya_1	4	-	-	-	-	-	-	6:mod
+safgraha_1	5	-	-	-	-	-	-	6:head
+[6-tat_1]	6	-	-	3:k2	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -1135,7 +1142,7 @@ karNa_1	17	-	-	-	-	-	-	20:mod
 Amayin_1	18	-	-	-	-	-	-	20:head
 [6-tat_2]	20	-	-	2:k1	-	-	-	-
 $wyax	21	-	-	2:k2	-	distal	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=02_005_1_1>
@@ -1466,7 +1473,7 @@ na_1	5	-	-	7:neg	-	-	-	-
 vega_1	6	-	pl	7:k2	-	-	-	-
 Ir_1-yAw_1	7	-	causative	0:main	-	-	-	-
 bala_1	8	-	-	7:rh	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=02_019_2>
@@ -1486,7 +1493,7 @@ Amaya_1	12	-	-	9:k2	-	-	-	-
 anya_1	13	-	-	-	-	-	-	15:mod
 kArya_1	14	-	-	-	-	-	-	15:head
 [karmaXAraya_1]	15	-	-	11:k2	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=02_020_1>
@@ -1627,7 +1634,7 @@ Pala_1	7	-	-	9:k7p	-	-	-	-
 na_1	8	-	-	9:neg	-	wu_1	-	-
 IrRy_1-yAw_1	9	-	-	0:main	-	-	-	-
 as_1-yAw_1	10	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=02_026_1_1>
@@ -1755,7 +1762,7 @@ a_1	10	-	-	-	-	-	-	12:mod
 viroXayaw_1	11	-	-	-	-	-	-	12:head
 [naF-tat_1]	12	-	-	13:rvks	-	-	-	-
 Baj_1-yAw_1	13	-	-	-	-	-	-	8:समुच्चितः
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=02_030_2_1>
@@ -1907,7 +1914,7 @@ kq_1-yAw_1	7	-	-	0:main	-	-	-	-
 kRuwi_1	8	-	-	10:समाहार-द्वन्द्वः	-	-	-	-
 hAsya_1	9	-	-	10:समाहार-द्वन्द्वः	-	-	-	-
 vijqmBaNa_1	10	-	-	7:k2	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=02_036_1>
@@ -1944,7 +1951,7 @@ UrXva_1	9	-	-	10:षष्ठ्यर्थ-बहुव्रीहिः	-	-	
 jAnu_1	10	-	-	12:k1	-	-	-	-
 ciram_1	11	-	-	12:krvn	-	-	-	-
 RWA_1-yAw_1	12	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=02_037_2-038_1>
@@ -2376,6 +2383,20 @@ pAna_1	4	-	-	8:k7p	-	ca_1	-	-
 prAS_1	5	-	-	-	-	-	-	7:mod
 Bakwa_1	6	-	-	-	-	-	-	7:head
 [compound_1]	7	-	-	-	-	-	-	-
+Sas_1-ya_we_1	8	-	-	0:main	-	-	-	-
+Gqwa_1	9	-	-	8:k2	-	-	-	-
+jIrNa_1	10	-	-	-	-	-	-	12:mod
+Anwika_1	11	-	-	-	-	-	-	12:head
+[6-tat_1]	12	-	-	-	-	-	-	-
+uwwamA_1	13	-	-	14:mod	-	-	-	-
+mAwrA_1	14	-	-	4:k3	-	-	-	-
+yojanA_1	15	-	-	-	-	-	-	17:mod
+xvaya_1	16	-	-	-	-	-	-	17:head
+[6-tat_2]	17	-	-	9:mod	-	-	-	-
+avapIdaka_1	18	-	-	19:rs	-	-	-	-
+$wyax	19	-	-	21:k1	-	proximal/ca_1	-	-
+saFjFiwa_1	20	-	-	18:सञ्ज्ञा_द्योतकः	-	-	-	-
+as_1-awi_1	21	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -2833,7 +2854,7 @@ na_1	10	-	-	13:neg	-	-	-	-
 $wyax	11	-	pl	13:r6	-	distal	-	-
 punaH_1	12	-	-	13:krvn	-	-	-	-
 uxBava_1	13	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=04_027_1>
@@ -3109,6 +3130,7 @@ viSeRa_1	12	-	-	10:k1s	-	-	-	-
 #व्यपदेशः तु भूयसा (उच्यते) .
 vyapaxeSa_1	1	-	-	3:k2	-	wu_1	-	-
 BUyas_1	2	-	-	3:k1	-	-	-	-
+brU_1-ya_we_1	3	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -3126,7 +3148,7 @@ safGAwa_1	9	-	-	-	-	-	-	11:head
 [त_पु_6_1]	11	-	-	-	-	-	-	12:mod
 samBava_1	10	-	-	-	-	-	-	12:head
 [त_पु_6_2]	12	-	-	7:rh	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=09_003-004_1_2>
@@ -3137,7 +3159,7 @@ xoRa_1	3	-	pl	-	-	-	-	4:head
 [त_पु_1]	4	-	-	5:mod	-	-	-	-
 roga_1	5	-	pl	6:k1	-	-	-	-
 BU_1-awi_1	6	-	pl	0:main	-	wawaH_1	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=09_003-004_1_3>
@@ -3153,6 +3175,7 @@ rasa_1	7	-	-	-	-	-	-	8:head
 kiFciw_1	9	-	-	11:mod	-	-	-	-
 anwa_1	10	-	-	11:k7p	-	-	-	-
 vyakwa_1	11	-	-	5:mod	-	-	-	-
+iR_1-ya_we_1	12	-	-	0:main	-	api_1	-	-
 %pass_affirmative
 </sent_id>
 
@@ -3326,7 +3349,14 @@ ORaXa_1	3	-	-	-	-	-	-	4:head
 [नञ्_त_पु_1]	4	-	-	8:mod	-	-	-	-
 na_1	5	-	-	7:neg	-	evam_1	-	-
 kiFciw_1	6	-	-	8:mod	-	-	-	-
-%pass_affirmative
+vix_1-ya_we_1	7	-	-	0:main	-	-	-	-
+xravya_1	8	-	-	7:k2	-	-	-	-
+vaSa_1	9	-	-	7:rh	-	-	-	-
+nAnA_1	10	-	-	11:द्वन्द्वः	-	-	-	-
+arWa_1	11	-	-	-	-	-	-	13:mod
+yoga_1	12	-	dl	-	-	-	-	13:head
+[karmaXAraya_1]	13	-	-	9:r6	-	-	-	-
+%pass_negative
 </sent_id>
 
 <sent_id=09_011-012_1_1>
@@ -3378,6 +3408,8 @@ uRNa_1	10	-	-	11:द्वन्द्वः	-	-	-	-
 wIkRNa_1	11	-	-	-	-	-	-	15:घटकः
 $wyax	12	-	-	14:k2	-	distal	-	-
 evam_1	13	-	-	14:krvn	-	-	-	-
+mawa_1	14	-	-	0:main	-	-	-	-
+aRtan_1	15	-	-	14:krvn	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -3404,7 +3436,7 @@ vIrya_1	3	-	-	-	-	-	-	4:head
 xravya_1	5	-	-	6:k1	-	-	-	-
 kq_1	6	-	-	0:main	-	-	-	-
 kiFciw_1	7	-	-	6:k2	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=09_013_2-014_1_3>
@@ -3426,8 +3458,26 @@ Axi_1	2	-	pl	8:k7p	-	eva_1	-	-
 vIrya_1	3	-	-	-	-	-	-	5:mod
 AKyA_1	4	-	-	-	-	-	-	5:head
 [karmaXAraya_1]	5	-	-	8:k2	-	-	-	-
-$wyax	6	-	-	9:k1	-	distal	-	-
+$wyax	6	-	-	23:k1	-	distal	-	-
 anvarWA_1	7	-	-	8:कर्मसमानाधिकरण	-	-	-	-
+varNa(karmaNi,lat,Awmanepaxi,pra,eka;curAxiH}_1	8	-	-	0:main	-	iwi_1	-	-
+samagra_1	9	-	-	-	-	-	-	12:mod
+guNa_1	10	-	-	-	-	-	-	12:head
+[karmaXAraya_2]	12	-	-	-	-	-	-	13:mod
+sAra_1	11	-	pl	-	-	-	-	13:head
+[त_पु_6_1]	13	-	-	2:mod	-	-	-	-
+Sakwi_1	14	-	-	-	-	-	-	17:mod
+uwkarRa_1	15	-	-	-	-	-	-	17:head
+[त_पु_6_2]	17	-	-	-	-	-	-	18:mod
+vivarwin(_1	16	-	pl	-	-	-	-	18:head
+[त_पु_7_1]	18	-	-	2:mod	-	-	-	-
+vyavahAra_1	19	-	-	15:rt	-	-	-	-
+muKya_1	20	-	-	23:k1	-	-	-	-
+bahu_1	21	-	pl	-	-	-	-	24:mod
+agra_1	22	-	-	-	-	-	-	24:head
+[त_पु_6_3]	24	-	-	-	-	-	-	25:mod
+grahaNa_1	23	-	-	-	-	-	-	25:head
+[त_पु_6_4]	25	-	-	8:rh	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -3439,7 +3489,7 @@ $wyax	3	-	-	4:k1	-	distal	-	-
 vi_vah_1	4	-	-	0:main	-	-	-	-
 rasa_1	5	-	-	6:mod	-	-	-	-
 Axya_1	6	-	pl	4:k7p	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=09_016_2>
@@ -3477,7 +3527,7 @@ avyakwa_1	10	-	-	11:mod	-	-	-	-
 jagaw_1	11	-	-	4:ru	-	iva_1	-	-
 na_1	12	-	-	13:neg	-	-	-	-
 awi_kram_1-awi_1	13	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=09_018_2-019_1>
@@ -3536,6 +3586,11 @@ smqwa_1	15	-	-	0:main	-	iwi_1	-	-
 svAxu_1	1	-	-	4:k2	-	-	-	-
 patu_1	2	-	-	-	-	-	-	1:समुच्चितः
 maXura_1	3	-	-	4:k2s	-	-	-	-
+pac_1-ya_we_1	4	-	-	0:main	-	-	-	-
+amla_1	5	-	-	7:k2s	-	-	-	-
+amla_1	6	-	-	7:k2	-	-	-	-
+pac_1-ya_we_1	7	-	-	0:main	-	-	-	-
+rasa_1	8	-	-	5:mod	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -3619,6 +3674,7 @@ saMyoga_1	3	-	dl	-	-	-	-	5:head
 [त_पु_6_1]	5	-	-	8:k7p	-	-	-	-
 BUyas_1	6	-	-	8:k1	-	-	-	-
 alpa_1	7	-	-	8:k2	-	-	-	-
+ji_1-ya_we_1	8	-	-	0:main	-	hi_1	-	-
 %pass_affirmative
 </sent_id>
 
@@ -4854,7 +4910,7 @@ vqxXi_1	14	-	-	16:k1	-	-	-	-
 warpaNa_1	15	-	-	16:rh	-	-	-	-
 BU_1-awi_1	16	-	-	0:main	-	hi_1	-	-
 BU_1-awi_1	17	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=11_026-029_3>
@@ -5173,6 +5229,13 @@ xehasaMSrayAH_1	20	-	pl	18:mod	-	-	-	-
 
 <sent_id=11_039_2-041_1_1>
 #क्षीयेत कोप-क्षुत्-ध्यान-शोक-श्रम-आदिभिः
+kRi_1-ya_ewa_1	1	-	-	0:main	-	-	-	-
+kopa_1	2	-	-	6:k7	-	-	-	-
+kRuw_1	3	-	-	6:k7	-	-	-	-
+XyAna_1	4	-	-	6:k7	-	-	-	-
+Soka_1	5	-	-	6:k7	-	-	-	-
+Srama_1	6	-	-	7:mod	-	-	-	-
+Axi_1	7	-	pl	1:rh	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5473,6 +5536,8 @@ sarvA_1	8	-	pl	9:mod	-	-	-	-
 kriyA_1	9	-	pl	12:k2	-	-	-	-
 $wyax	10	-	-	11:mod	-	distal	-	-
 vyAna_1	11	-	-	12:k7p	-	-	-	-
+prawibaxXa_1	12	-	pl	0:main	-	-	-	-
+SarIrin_1	13	-	pl	11:r6	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5551,6 +5616,7 @@ maXya-_1	8	-	-	-	-	-	-	10:head
 maXyaga_1	9	-	-	-	-	-	-	11:head
 [upa-tat_1]	11	-	-	13:mod	-	-	-	-
 pAcaka_1	12	-	-	13:k2	-	-	-	-
+smqwa_1	13	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5585,6 +5651,7 @@ anala-_1	7	-	-	-	-	-	-	9:mod
 Sabxiwa_1	8	-	-	-	-	-	-	9:head
 [karmaXAraya_2]	9	-	-	10:mod	-	-	-	-
 pAcaka_1	10	-	-	11:k2	-	-	-	-
+smqwa_1	11	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5613,6 +5680,7 @@ xAna_1	9	-	-	-	-	-	-	10:head
 [6-tat_1]	10	-	-	7:rh	-	-	-	-
 pAcaka_1	11	-	-	13:k2	-	nAma_1	-	-
 $wyax	12	-	-	11:mod	-	distal	-	-
+smqwa_1	13	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5625,6 +5693,7 @@ raFjaka_1	4	-	-	8:k2	-	-	-	-
 rasa_1	5	-	-	-	-	-	-	7:mod
 raFjana_1	6	-	-	-	-	-	-	7:head
 [3-tat_1]	7	-	-	8:rh	-	-	-	-
+brU_1-ya_we_1	8	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5642,6 +5711,7 @@ sAXana_1	7	-	-	-	-	-	-	9:head
 sAXaka_1	10	-	-	13:k2	-	-	-	-
 hqxgawa_1	11	-	-	12:mod	-	-	-	-
 piwwa_1	12	-	-	10:mod	-	-	-	-
+brU_1-ya_we_1	13	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5666,6 +5736,7 @@ sWa_1	2	-	-	-	-	-	-	3:head
 BrAjaka_1	4	-	-	7:k2	-	-	-	-
 BrAjana_1	5	-	-	7:rh	-	-	-	-
 wvac_1	6	-	-	5:r6	-	-	-	-
+brU_1-ya_we_1	7	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5720,6 +5791,7 @@ avalambana_1	13	-	-	12:k2	-	-	-	-
 awaH_1	1	-	-	4:कार्य_द्योतकः	-	-	-	-
 avalambaka_1	2	-	-	3:mod	-	-	-	-
 SleRman_1	3	-	-	4:k2	-	-	-	-
+brU_1-ya_we_1	4	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5737,6 +5809,8 @@ safGAwa_1	9	-	-	-	-	-	-	11:head
 [6-tat_1]	11	-	-	-	-	-	-	12:mod
 klexana_1	10	-	-	-	-	-	-	12:head
 [6-tat_2]	12	-	-	13:rh	-	-	-	-
+brU_1-ya_we_1	13	-	-	0:main	-	-	-	-
+as_1	14	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5749,6 +5823,7 @@ boXaka_1	4	-	-	8:k2	-	-	-	-
 rasanA_1	5	-	-	-	-	-	-	7:mod
 sWAyin_1	6	-	-	-	-	-	-	7:head
 [upa-tat_1]	7	-	-	4:k1s	-	-	-	-
+brU_1-ya_we_1	8	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5761,6 +5836,7 @@ akRa_1	4	-	-	-	-	-	-	6:mod
 warpaNa_1	5	-	-	-	-	-	-	6:head
 [6-tat_1]	6	-	-	7:rh	-	-	-	-
 warpaka_1	7	-	-	8:k2	-	-	-	-
+brU_1-ya_we_1	8	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5770,6 +5846,9 @@ sanXi_1	1	-	-	-	-	-	-	3:mod
 saMSleRa_1	2	-	-	-	-	-	-	3:head
 [6-tat_1]	3	-	-	4:rh	-	-	-	-
 SleRaka_1	4	-	-	5:k2	-	-	-	-
+brU_1-ya_we_1	5	-	-	0:main	-	-	-	-
+sanXi_1	6	-	pl	7:k7p	-	-	-	-
+sWiwa_1	7	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -5992,7 +6071,7 @@ ORNya_1	9	-	-	12:rh	-	-	-	-
 vAwaxoRa_1	10	-	-	12:k1	-	-	-	-
 na_1	11	-	-	12:neg	-	-	-	-
 kup_1-awi_1	12	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_025_2-028_1_3>
@@ -6015,7 +6094,21 @@ SEwya_1	13	-	-	8:rh	-	-	-	-
 
 <sent_id=12_025_2-028_1_4>
 #-चीयते स्निग्ध-शीताभिः उदक-औषधीभिः कफः तुल्ये अपि काले देहे च स्कन्नत्वात् न प्रकुप्यति (कफः)
-%pass_affirmative
+ci_1-ya_we_1	1	-	-	0:main	-	-	-	-
+snigXa-_1	2	-	-	-	-	-	-	4:mod
+SIwA_1	3	-	pl	-	-	-	-	4:head
+[karmaXAraya_1]	4	-	-	6:mod	-	-	-	-
+uxaka_1	5	-	-	3:कर्मधारयः	-	-	-	-
+ORaXI_1	6	-	pl	1:rh	-	-	-	-
+kaPa_1	7	-	-	1:k2	-	-	-	-
+wulya_1	8	-	-	9:mod	-	api_1	-	-
+kAla_1	9	-	-	13:k7p	-	-	-	-
+xeha_1	10	-	-	-	-	-	-	9:समुच्चितः
+skannawva_1	11	-	-	13:rh	-	-	-	-
+na_1	12	-	-	13:neg	-	-	-	-
+pra_kup_1-awi_1	13	-	-	0:main	-	-	-	-
+kaPa_1	14	-	-	13:k1	-	-	-	-
+%pass_negative
 </sent_id>
 
 <sent_id=12_028_2-029_1_1>
@@ -6034,7 +6127,7 @@ saxyaH_1	11	-	-	10:krvn	-	api_1	-	-
 xoRa_1	12	-	pl	10:k1	-	-	-	-
 kAla_1	13	-	-	10:k7t	-	vA_1	-	-
 na_1	14	-	-	10:neg	-	wu_1	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_029_2-030_1_1>
@@ -6084,7 +6177,8 @@ ekEkaSaH_1	10	-	-	11:krvn	-	-	-	-
 vac_1	11	-	-	14:rt	-	-	-	-
 awaH_1	12	-	-	14:कार्य_द्योतकः	-	-	-	-
 sAmAnya_1	13	-	-	14:k2	-	-	-	-
-%pass_affirmative
+brU_1-ya_we_1	14	-	-	0:main	-	-	-	-
+%pass_negative
 </sent_id>
 
 <sent_id=12_032-034_1_1>
@@ -6108,7 +6202,7 @@ CAyA_1	6	-	-	7:k2	-	-	-	-
 i_1-awi_1	7	-	-	0:main	-	yaWA_1	-	-
 na_1	8	-	-	7:neg	-	-	-	-
 AwmIyA_1	9	-	-	6:mod	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_032-034_1_3>
@@ -6123,7 +6217,7 @@ viviXa_1	6	-	-	10:k1	-	-	-	-
 guNa_1	8	-	pl	10:k2	-	-	-	-
 na_1	9	-	-	10:neg	-	-	-	-
 awi_vqw_1	10	-	-	0:main	-	yaWA_1	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_032-034_1_4>
@@ -6143,7 +6237,7 @@ vikArajAwa_1	10	-	-	-	-	-	-	11:head
 xoRa_1	13	-	pl	15:k2	-	-	-	-
 na_1	14	-	-	15:neg	-	-	-	-
 awi_vqw_1	15	-	-	0:main	-	waWA_1	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_034_2-035_1>
@@ -6185,7 +6279,7 @@ saMyoga_1	6	-	-	1:mod	-	-	-	-
 sva_1	7	-	-	9:rh	-	-	-	-
 na_1	8	-	-	9:neg	-	eva_1	-	-
 as_1-awi_1	9	-	-	0:main	-	vA_1	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_036-038_1_2>
@@ -6216,6 +6310,14 @@ vipriya_1	11	-	-	-	-	-	-	12:समुच्चितः
 vikqwAxi_1	12	-	-	15:k1	-	-	-	-
 $yax	13	-	-	12:mod	-	-	-	-
 akRi_1	14	-	-	15:k3	-	-	-	-
+IkRa_1	15	-	-	0:main	-	-	-	-
+rUpa_1	16	-	-	15:k2	-	-	-	-
+miWyA_1	17	-	-	-	-	-	-	19:mod
+yoga_1	18	-	-	-	-	-	-	19:head
+[6-tat_1]	19	-	-	21:mod	-	-	-	-
+$wyax	20	-	-	21:mod	-	distal	-	-
+xAruNa_1	21	-	-	22:k1	-	-	-	-
+as_1-awi_1	22	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -6350,7 +6452,7 @@ wan_1-a_1	5	-	pl	4:k1	-	-	-	-
 na_1	6	-	-	4:neg	-	-	-	-
 eka_1	7	-	-	4:krvn	-	-	-	-
 as_1	8	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_043_2-044_1_2>
@@ -6617,7 +6719,7 @@ jFAna_1	12	-	-	-	-	-	-	13:head
 na_1	14	-	-	16:neg	-	-	-	-
 SAswra_1	15	-	-	16:k5	-	eva_1	-	-
 jan_1	16	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_057_1>
@@ -6806,7 +6908,7 @@ akuSala_1	2	-	-	4:k1	-	-	-	-
 na_1	3	-	-	4:neg	-	-	-	-
 hrI_1-yAw_1	4	-	-	0:main	-	-	-	-
 kaxAcana_1	5	-	-	4:k7t	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_064_2>
@@ -6819,7 +6921,7 @@ nAman_1	5	-	-	6:rh	-	-	-	-
 as_1-awi_1	6	-	-	0:main	-	hi_1	-	-
 XruvA_1	7	-	-	8:mod	-	-	-	-
 sWiwi_1	8	-	-	6:k1	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_065-066_1>
@@ -6886,7 +6988,7 @@ na_1	25	-	-	27:neg	-	-	-	-
 $wyax	26	-	-	27:k1	-	distal	-	-
 sKal_1-awi_1	27	-	-	0:main	-	-	-	-
 jAwuciw_1	28	-	-	27:krvn	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_069_1>
@@ -6955,7 +7057,7 @@ mala_1	7	-	pl	5:k2	-	eva_1	-	-
 kevala_1	8	-	-	5:krvn	-	-	-	-
 vapurasyasi_1	9	-	-	10:k2	-	-	-	-
 kRi_1-yAw_1	10	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=12_073_1>
@@ -7004,7 +7106,7 @@ wawra_1	4	-	-	7:k7p	-	wu_1	-	-
 $wyax	5	-	pl	7:k2	-	distal	-	-
 9_1	6	-	pl	5:k1s	-	-	-	-
 vix_1-awu_1	7	-	-	0:main	-	-	-	-
-%affirmative
+%imperative
 </sent_id>
 
 <sent_id=12_075_1_1>
@@ -7504,7 +7606,7 @@ na_1	8	-	-	11:neg	-	-	-	-
 $wyax	9	-	-	11:k1	-	distal	-	-
 viSuxXa_1	10	-	-	9:k1s	-	-	-	-
 BU_1-awi_1	11	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=13_016_2>
@@ -7516,7 +7618,7 @@ Sam_1-yAw_1	4	-	-	0:main	-	-	-	-
 $yax	5	-	-	4:pk1	-	-	-	-
 na_1	6	-	-	7:neg	-	-	-	-
 kup_1-yAw_1	7	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=13_017-018_1_1>
@@ -7657,7 +7759,7 @@ bala_1	7	-	-	-	-	-	-	9:head
 vix_1	8	-	-	-	-	-	-	10:head
 [upa-tat_1]	10	-	-	1:k1	-	-	-	-
 kriyA_1	11	-	-	1:k2	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=13_022_2-023_1_1>
@@ -8034,6 +8136,14 @@ saw_1	3	-	-	7:rblsk	-	-	-	-
 anwa_1	4	-	-	7:k7p	-	-	-	-
 prAwarASa_1	5	-	-	4:r6	-	-	-	-
 ORaXa_1	6	-	-	7:k2	-	-	-	-
+iR_1-ya_we_1	7	-	-	0:main	-	-	-	-
+sAyamASa_1	8	-	-	12:r6	-	wu_1	-	-
+uwwara_1	9	-	-	11:k1	-	-	-	-
+viguNa_1	10	-	-	9:mod	-	-	-	-
+saw_1	11	-	-	14:rblsk	-	-	-	-
+anwa_1	12	-	-	14:k7p	-	-	-	-
+ORaXa_1	13	-	-	14:k2	-	-	-	-
+iR_1-ya_we_1	14	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -8047,6 +8157,7 @@ prANa_1	5	-	-	7:mod	-	-	-	-
 praxuRta_1	6	-	-	9:rblsk	-	-	-	-
 mAwariSvan_1	7	-	-	6:k1	-	-	-	-
 ORaXa_1	8	-	-	9:k2	-	-	-	-
+iR_1-ya_we_1	9	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -8061,6 +8172,7 @@ wqt_1	6	-	-	8:k7	-	-	-	-
 SvAsa_1	7	-	-	8:k7	-	-	-	-
 kAsi_1	8	-	pl	10:k7p	-	-	-	-
 BeRaja_1	9	-	-	10:k2	-	-	-	-
+iR_1-ya_we_1	10	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -8093,6 +8205,8 @@ vikAra_1	10	-	pl	-	-	-	-	12:head
 svapna-_1	13	-	-	-	-	-	-	15:mod
 kAla_1	14	-	-	-	-	-	-	15:head
 [6-tat_2]	15	-	-	17:k7t	-	-	-	-
+pra_SaMsu_1	16	-	-	0:main	-	-	-	-
+pra_SaMsu_1	17	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -8191,7 +8305,7 @@ xvEXya_1	3	-	-	6:rh	-	-	-	-
 xviwaya_1	4	-	dl	6:k2	-	-	-	-
 na_1	5	-	-	6:neg	-	-	-	-
 awi_vqw_1	6	-	-	0:main	-	-	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=14_004_2_1>
@@ -8548,6 +8662,7 @@ SleRman_1	4	-	-	-	-	-	-	6:mod
 nASana_1	5	-	-	-	-	-	-	6:head
 [6-tat_1]	6	-	-	8:k2	-	-	-	-
 sarva_1	7	-	-	5:mod	-	-	-	-
+iR_1-ya_we_1	8	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -8597,6 +8712,7 @@ rasa_1	13	-	-	-	-	-	-	16:head
 [karmaXAraya_1]	16	-	-	-	-	-	-	-
 hiwa_1	17	-	-	8:mod	-	-	-	-
 awisWUla_1	18	-	-	19:k4	-	-	-	-
+iR_1-ya_we_1	19	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -8612,6 +8728,7 @@ rajas_1	6	-	-	-	-	-	-	8:head
 [6-tat_2]	8	-	-	-	-	-	-	-
 maXu_1	9	-	-	11:k2	-	-	-	-
 awisWUla_1	10	-	-	11:k4	-	-	-	-
+iR_1-ya_we_1	11	-	-	0:main	-	-	-	-
 %pass_affirmative
 </sent_id>
 
@@ -8897,7 +9014,7 @@ bqhaw_1	8	-	-	-	-	-	-	10:head
 kqw_1	9	-	-	-	-	-	-	11:head
 [उपपद_तत्पुरुषः_1]	11	-	-	3:k1s	-	-	-	-
 as_1-awi_1	12	-	-	0:main	-	hi_1	-	-
-%affirmative
+%negative
 </sent_id>
 
 <sent_id=14_035_2>
