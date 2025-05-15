@@ -32,16 +32,20 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
         for entry in entries:
             dep_rel = entry.get("dependency_relation")
             dep_head = entry.get("dependency_head")
+           
             if dep_head is None or (isinstance(dep_head, float) and math.isnan(dep_head)):
                 dep_head = 0
             if dep_rel is None or (isinstance(dep_rel, float) and math.isnan(dep_rel)):
                 dep_rel = "main"
+            
             if dep_rel in DISCOURSE_PARTICLES_DEP or (
                 dep_rel in ['समुच्चय_द्योतकः', 'सुप्_समुच्चय_द्योतकः', 'घटक_द्योतकः'] and entry.get("root") == 'अपि') or (
                 dep_rel == 'सम्बन्धः' and entry.get("is_indeclinable")
                 ):
                 particle_map[str(dep_head)] = entry.get("wx_root")
 
+
+        sent_type = 'affirmative'
         # Process and write each word line
         for entry in entries:
             wx_root = entry.get("wx_root")
@@ -55,23 +59,31 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
             if dep_rel is None or (isinstance(dep_rel, float) and math.isnan(dep_rel)):
                 dep_rel = "main"
 
-            # Determine sentence type
-            if dep_rel == 'अभिहित_कर्ता' and 'लोट्' in entry.get("morph_in_context"):
-                sent_type = 'imperative'
-            elif dep_rel == 'अभिहित_कर्ता' and 'किम्' in entry.get("root"):
-                sent_type = 'interrogative'
-            elif dep_rel == 'अभिहित_कर्ता' and 'प्रतिषेध:' in dep_rel:
-                sent_type = 'negative'
-            elif dep_rel == 'अभिहित_कर्म' and 'लोट्' in entry.get("morph_in_context"):
-                sent_type = 'pass_imperative'
-            elif dep_rel == 'अभिहित_कर्म' and 'किम्' in entry.get("root"):
-                sent_type = 'pass_interrogative'
-            elif dep_rel == 'अभिहित_कर्म' and 'प्रतिषेध:' in dep_rel:
-                sent_type = 'pass_negative'
-            elif dep_rel == 'अभिहित_कर्म':
-                sent_type = 'pass_affirmative'
-            else:
-                sent_type = 'affirmative'
+            # # Determine sentence type
+            # if dep_rel == 'अभिहित_कर्ता' and 'लोट्' in entry.get("morph_in_context"):
+            #     sent_type = 'imperative'
+            # elif dep_rel == 'अभिहित_कर्ता' and 'किम्' in entry.get("root"):
+            #     sent_type = 'interrogative'
+            # elif dep_rel == 'अभिहित_कर्ता' and 'प्रतिषेध:' in dep_rel:
+            #     sent_type = 'negative'
+            # elif dep_rel == 'अभिहित_कर्म' and 'लोट्' in entry.get("morph_in_context"):
+            #     sent_type = 'pass_imperative'
+            # elif dep_rel == 'अभिहित_कर्म' and 'किम्' in entry.get("root"):
+            #     sent_type = 'pass_interrogative'
+            # elif dep_rel == 'अभिहित_कर्म' and 'प्रतिषेध:' in dep_rel:
+            #     sent_type = 'pass_negative'
+            # elif dep_rel == 'अभिहित_कर्म':
+            #     sent_type = 'pass_affirmative'
+            # else:
+            #     sent_type = 'affirmative'
+
+            
+            if (dep_head is None or (isinstance(dep_head, float) and math.isnan(dep_head))) and "लोट्" in entry.get("morph_in_context", ""):
+                sent_type = "imperative"  
+                break         
+            elif entry.get("dependency_relation") == "अभिहित_कर्म":
+                sent_type = "pass_affirmative"
+                break
 
             if (wx_root and wx_root != "-") and dep_rel not in AVYA_LIST:
                 # Morphological features
@@ -81,9 +93,9 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
                 elif entry.get('is_causative', False):
                     morph_flag = "causative"
                 elif "तरप्" in re.findall(r'\{(.*?)\}', entry.get("morph_in_context", "")):
-                    morph_flag = 'comparmore'
+                    morph_flag = 'compermore'
                 elif "तमप्" in re.findall(r'\{(.*?)\}', entry.get("morph_in_context", "")):
-                    morph_flag = 'comparless'
+                    morph_flag = 'comperless'
                 else:
                     number = entry.get("number", "")
                     if number in ["NA", "sg"]:
@@ -129,9 +141,17 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
                             break
                     final_wx_root += "_1"
 
+                if 'समुच्चितः' == str(dep_rel) or 'घटकः' == str(dep_rel):
+                    dep_info = '-'
+                    cxn_info = f'{dep_head}:{dep_rel}'
+                else:
+                    dep_info = f'{dep_head}:{dep_rel_mapped}'
+                    cxn_info = '-'
+
                 out_file.write(
-                    f"{final_wx_root}\t{anvaya_no}\t{sem_cat}\t{morph_flag}\t{dep_head}:{dep_rel_mapped}\t-\t{spk_info}\t-\t-\n"
+                    f"{final_wx_root}\t{anvaya_no}\t{sem_cat}\t{morph_flag}\t{dep_info}\t-\t{spk_info}\t-\t{cxn_info}\n"
                 )
 
         out_file.write(f"%{sent_type}\n")
         out_file.write(f"</sent_id>\n\n")
+

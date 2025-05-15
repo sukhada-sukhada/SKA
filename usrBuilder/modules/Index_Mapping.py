@@ -62,7 +62,7 @@ def map_indices_by_sentences(file_path):
     return result
 
 # Example usage
-file_path = "IO/output_with_cxn.txt"
+file_path = "IO/cxn_output.txt"
 mapped_output = map_indices_by_sentences(file_path)
 
 with open("IO/mapped_index_output.txt", "w", encoding='utf-8') as f:
