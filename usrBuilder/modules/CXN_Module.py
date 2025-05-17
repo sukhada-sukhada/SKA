@@ -262,9 +262,12 @@ def process_sentence_block(lines):
                 prev_to_prev_line = updated_lines[-2].split('\t')
                 clean_dep_label = dep_label.strip()
                 print(clean_dep_label)
-                if 'द्वन्द्वः' in clean_dep_label or 'बहुव्रीहिः' in clean_dep_label:
+                if 'द्वन्द्वः' in clean_dep_label:
                     rel1 = 'op1'
                     rel2 = 'op2'
+                elif 'बहुव्रीहिः' in clean_dep_label:
+                    rel1 = 'comp1'
+                    rel2 = 'comp2'
                 else:
                     rel1 = 'mod'
                     rel2 = 'head'
