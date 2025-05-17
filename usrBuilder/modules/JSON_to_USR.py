@@ -142,7 +142,7 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
                             break
                     final_wx_root += "_1"
 
-                if 'समुच्चितः' == str(dep_rel) or 'घटकः' == str(dep_rel):
+                if 'समुच्चितः' == str(dep_rel) or 'घटकः' == str(dep_rel) or 'अन्वाचितः' == str(dep_rel):
                     dep_info = '-'
                     cxn_info = f'{dep_head}:{dep_rel}'
                 else:

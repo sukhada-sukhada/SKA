@@ -157,6 +157,7 @@
 # extract_and_check_duplicates('IO/raw_output.txt', 'IO/cxn_output.txt')
 
 
+
 import re
 
 def extract_and_check_duplicates(filename, output_filename):
@@ -259,8 +260,16 @@ def process_sentence_block(lines):
             if len(updated_lines) >= 2:
                 prev_line = updated_lines[-1].split('\t')
                 prev_to_prev_line = updated_lines[-2].split('\t')
-                updated_lines[-2] = '\t'.join(prev_to_prev_line[:4]) + f"\t-\t-\t-\t-\t{new_float_index}:mod\n"
-                updated_lines[-1] = '\t'.join(prev_line[:4]) + f"\t-\t-\t-\t-\t{new_float_index}:head\n"
+                clean_dep_label = dep_label.strip()
+                print(clean_dep_label)
+                if 'द्वन्द्वः' in clean_dep_label or 'बहुव्रीहिः' in clean_dep_label:
+                    rel1 = 'op1'
+                    rel2 = 'op2'
+                else:
+                    rel1 = 'mod'
+                    rel2 = 'head'
+                updated_lines[-2] = '\t'.join(prev_to_prev_line[:4]) + f"\t-\t-\t-\t-\t{new_float_index}:{rel1}\n"
+                updated_lines[-1] = '\t'.join(prev_line[:4]) + f"\t-\t-\t-\t-\t{new_float_index}:{rel2}\n"
 
             updated_lines.append(inserted_line)
             insert_next = None
@@ -277,9 +286,9 @@ def process_sentence_block(lines):
                     if base_current == base_dep:
                         dep_label = dep_info.split(':')[1]
 
-                        if 'द्वन्द्वः' in dep_label or 'बहुव्रीहिः' in dep_label:
-                            i += 1
-                            continue
+                        # if 'द्वन्द्वः' in dep_label or 'बहुव्रीहिः' in dep_label:
+                        #     i += 1
+                        #     continue
 
                         if i + 1 < len(lines):
                             next_line = lines[i + 1].strip()
