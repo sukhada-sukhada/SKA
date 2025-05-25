@@ -21,7 +21,7 @@ SeRa_1	17	-	pl	-	-	-	-	18:comp2
 Owsukya_1	19	-	-	-	-	-	-	24:op1
 moha_1	20	-	-	-	-	-	-	24:op2
 a_1	21	-	-	-	-	-	-	24:op3
-[द्वन्द्वः_1]	24	-	-	-	-	-	-	25:mod
+[xvanxvaH_1]	24	-	-	-	-	-	-	25:mod
 rawi_1	22	-	-	-	-	-	-	25:head
 [naF-tat_2]	25	-	-	-	-	-	-	26:mod
 xa_1	23	-	pl	-	-	-	-	26:head
@@ -175,7 +175,7 @@ awi_1	7	-	-	-	-	-	-	11:head
 safkRepa_1	8	-	-	-	-	-	-	12:comp2
 [sapwamI-bahuvrIhiH_1]	12	-	-	-	-	-	-	10:op1
 viswara_1	9	-	-	-	-	-	-	10:op2
-[द्वन्द्वः_1]	10	-	-	3:mod	-	-	-	-
+[xvanxvaH_1]	10	-	-	3:mod	-	-	-	-
 kq_1-ya_we_1	13	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -186,14 +186,14 @@ kAya_1	1	-	-	-	-	-	-	10:op1
 bAla_1	2	-	-	-	-	-	-	10:op2
 graha_1	3	-	-	-	-	-	-	10:op3
 UrXva_1	4	-	-	-	-	-	-	10:op4
-[द्वन्द्वः_1]	10	-	-	-	-	-	-	11:mod
+[xvanxvaH_1]	10	-	-	-	-	-	-	11:mod
 afga_1	5	-	-	-	-	-	-	11:head
 [karmaXAraya_1]	11	-	-	-	-	-	-	12:op1
 Salya_1	6	-	-	-	-	-	-	12:op2
 xaMRtrA_1	7	-	-	-	-	-	-	12:op3
 jarA_1	8	-	-	-	-	-	-	12:op4
 vqRa_1	9	-	pl	-	-	-	-	12:op5
-[द्वन्द्वः_2]	12	-	-	16:k2	-	-	-	-
+[xvanxvaH_2]	12	-	-	16:k2	-	-	-	-
 aRtan_1	13	-	pl	14:mod	-	-	-	-
 afga_1	14	-	pl	16:k2s	-	-	-	-
 $wyax	15	-	-	13:r6	-	distal	-	-
@@ -214,7 +214,7 @@ saMSriwA_1	3	-	-	0:main	-	-	-	-
 vAyu_1	1	-	-	-	-	-	-	3:समुच्चितः
 piwwa_1	2	-	-	-	-	-	-	3:समुच्चितः
 kaPa_1	3	-	-	-	-	-	-	4:घटकः
-3_1	4	-	pl	5:mod	-	-	-	-
+3	4	-	pl	5:mod	-	-	-	-
 xoRa_1	5	-	pl	7:k1	-	-	-	-
 samAsa_1	6	-	-	7:krvn	-	-	-	-
 as_1-awi_1	7	-	pl	0:main	-	-	-	-
@@ -225,7 +225,7 @@ as_1-awi_1	7	-	pl	0:main	-	-	-	-
 #विकृत-अ-विकृताः देहम् घ्नन्ति ते वर्तयन्ति च .
 vikqwa_1	1	-	-	-	-	-	-	4:op1
 a_1	2	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	5:mod
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:mod
 vikqwa_1	3	-	pl	-	-	-	-	5:head
 [naF-tat_1]	5	-	-	7:k1	-	-	-	-
 xeha_1	6	-	-	7:k2	-	-	-	-
@@ -241,11 +241,11 @@ $wyax	1	-	pl	2:k1	-	distal	-	-
 vyApin_1	2	-	pl	0:main	-	-	-	-
 hqw_1	3	-	-	-	-	-	-	5:op1
 nABi_1	4	-	dl	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	9:r6	-	-	-	-
+[xvanxvaH_1]	5	-	-	9:r6	-	-	-	-
 aXo_1	6	-	-	-	-	-	-	10:op1
 maXya_1	7	-	-	-	-	-	-	10:op2
 UrXva_1	8	-	-	-	-	-	-	10:op3
-[द्वन्द्वः_2]	10	-	-	-	-	-	-	11:comp1
+[xvanxvaH_2]	10	-	-	-	-	-	-	11:comp1
 saMSraya_1	9	-	pl	-	-	-	-	11:comp2
 [6-bahu_1]	11	-	-	-	-	-	-	2:समुच्चितः
 %affirmative
@@ -257,12 +257,12 @@ vayas_1	1	-	-	-	-	-	-	5:op1
 ahan_1	2	-	-	-	-	-	-	5:op2
 rAwri_1	3	-	-	-	-	-	-	5:op3
 Bukwa_1	4	-	pl	-	-	-	-	5:op4
-[द्वन्द्वः_1]	5	-	-	10:r6	-	-	-	-
+[xvanxvaH_1]	5	-	-	10:r6	-	-	-	-
 $wyax	6	-	pl	14:k1	-	distal	-	-
 anwa_1	7	-	-	-	-	-	-	11:op1
 maXya_1	8	-	-	-	-	-	-	11:op2
 Axi_1	9	-	-	-	-	-	-	11:op3
-[द्वन्द्वः_2]	11	-	-	-	-	-	-	12:mod
+[xvanxvaH_2]	11	-	-	-	-	-	-	12:mod
 ga_1	10	-	pl	-	-	-	-	12:head
 [upa-tat_1]	12	-	-	6:k1s	-	-	-	-
 krama_1	13	-	-	14:krvn	-	-	-	-
@@ -315,7 +315,7 @@ sama_1	4	-	pl	2:rh	-	api_1	-	-
 #शुक्र-आर्तव-स्थैः जन्म-आदौ विषेण इव विष-क्रिमेः (जन्म) (भवति) तैः च तिस्रः प्रकृतयः हीन-मध्य-उत्तमाः पृथक् सम-धातुः समस्तासु श्रेष्ठा निन्द्याः द्वि-दोष-जाः (भवन्ति) .
 Sukra_1	1	-	-	-	-	-	-	4:op1
 Arwava_1	2	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	5:mod
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:mod
 sWa_1	3	-	pl	-	-	-	-	5:head
 [upa-tat_1]	5	-	-	15:mod	-	-	-	-
 janma_1	6	-	-	-	-	-	-	8:mod
@@ -328,12 +328,12 @@ krimi_1	11	-	-	-	-	-	-	12:head
 janman_1	13	-	-	14:k1	-	-	-	-
 BU_1-awi_1	14	-	-	34:ru	-	iva_1	-	-
 $wyax	15	-	pl	34:k3	-	distal/ca_1	-	-
-3_1	16	-	pl	22:mod	-	-	-	-
+3	16	-	pl	22:mod	-	-	-	-
 prakqwi_1	17	-	pl	34:k1	-	-	-	-
 hIna_1	18	-	-	-	-	-	-	21:op1
 maXya_1	19	-	-	-	-	-	-	21:op2
 uwwama_1	20	-	pl	-	-	-	-	21:op3
-[द्वन्द्वः_2]	21	-	-	16:mod	-	-	-	-
+[xvanxvaH_2]	21	-	-	16:mod	-	-	-	-
 pqWak_1	22	-	-	-	-	-	-	17:घटकः
 sama_1	23	-	-	-	-	-	-	25:comp1
 XAwu_1	24	-	-	-	-	-	-	25:comp2
@@ -372,7 +372,7 @@ sneha_1	3	-	-	-	-	-	-	7:comp2
 [sahapUrvapaxa-vyaXikaraNa-bahuvrIhiH_1]	7	-	-	-	-	-	-	6:op1
 wIkRNa_1	4	-	-	-	-	-	-	6:op2
 uRNa_1	5	-	-	-	-	-	-	6:op3
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	-
+[xvanxvaH_1]	6	-	-	-	-	-	-	-
 laGu_1	8	-	-	-	-	-	-	11:समुच्चितः
 visra_1	9	-	-	-	-	-	-	11:समुच्चितः
 sara_1	10	-	-	-	-	-	-	11:समुच्चितः
@@ -403,11 +403,11 @@ $wyax	3	-	-	-	-	-	-	10:mod
 xvi_1	4	-	dl	-	-	-	-	10:head
 [6-tat_1]	10	-	-	-	-	-	-	8:op1
 wri_1	5	-	-	-	-	-	-	8:op2
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	11:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	11:mod
 kRaya_1	6	-	-	-	-	-	-	11:head
 [6-tat_2]	11	-	-	-	-	-	-	9:op1
 kopa_1	7	-	-	-	-	-	-	9:op2
-[द्वन्द्वः_2]	9	-	-	13:rh	-	-	-	-
+[xvanxvaH_2]	9	-	-	13:rh	-	-	-	-
 krama_1	12	-	-	13:krvn	-	-	-	-
 BU_1-awi_1	13	-	-	0:main	-	-	-	-
 %affirmative
@@ -422,7 +422,7 @@ mexas_1	4	-	-	-	-	-	-	8:op4
 asWi_1	5	-	-	-	-	-	-	8:op5
 majja_1	6	-	-	-	-	-	-	8:op6
 Sukra_1	7	-	pl	-	-	-	-	8:op7
-[द्वन्द्वः_1]	8	-	-	10:k1	-	-	-	-
+[xvanxvaH_1]	8	-	-	10:k1	-	-	-	-
 XAwu_1	9	-	pl	7:k1s	-	-	-	-
 as_1-awi_1	10	-	pl	0:main	-	-	-	-
 %affirmative
@@ -430,7 +430,7 @@ as_1-awi_1	10	-	pl	0:main	-	-	-	-
 
 <sent_id=01_013_1_2>
 #सप्त दूष्याः (सन्ति) .
-7_1	1	-	pl	3:k1	-	-	-	-
+7	1	-	pl	3:k1	-	-	-	-
 xURyA_1	2	-	pl	1:k1s	-	-	-	-
 as_1-awi_1	3	-	pl	0:main	-	-	-	-
 %affirmative
@@ -442,7 +442,7 @@ mala_1	1	-	pl	5:k1s	-	-	-	-
 mUwra_1	2	-	-	-	-	-	-	6:op1
 Sakqw_1	3	-	-	-	-	-	-	6:op2
 svexa_1	4	-	-	-	-	-	-	6:op3
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	7:comp1
+[xvanxvaH_1]	6	-	-	-	-	-	-	7:comp1
 Axi_1	5	-	pl	-	-	-	-	7:comp2
 [6-bahu_1]	7	-	-	8:k1	-	-	-	-
 as_1-awi_1	8	-	pl	0:main	-	-	-	-
@@ -473,14 +473,14 @@ lavaNa_1	4	-	-	-	-	-	-	8:op3
 wikwa_1	5	-	-	-	-	-	-	8:op4
 URaNa_1	6	-	-	-	-	-	-	8:op5
 kaRAya_1	7	-	pl	-	-	-	-	8:op6
-[द्वन्द्वः_1]	8	-	-	1:k1s	-	-	-	-
+[xvanxvaH_1]	8	-	-	1:k1s	-	-	-	-
 as_1-awi_1	9	-	pl	0:main	-	-	-	-
 %affirmative
 </sent_id>
 
 <sent_id=01_014_2-015_1_2>
 #षट् द्रव्यम् आश्रिताः ते च यथा-पूर्वम् बल-आवहाः (सन्ति) .
-6_1	1	-	pl	4:mod	-	-	-	-
+6	1	-	pl	4:mod	-	-	-	-
 xravya_1	2	-	-	3:k2	-	-	-	-
 ASriwa_1	3	-	pl	4:mod	-	-	-	-
 $wyax	4	-	pl	11:k1	-	distal/ca_1	-	-
@@ -500,7 +500,7 @@ wawra_1	1	-	-	4:k7p	-	-	-	-
 Axya_1	2	-	pl	5:mod	-	-	-	-
 mAruwa_1	3	-	-	4:k2	-	-	-	-
 han_1-awi_1	4	-	pl	0:main	-	-	-	-
-3_1	5	-	pl	4:k1	-	-	-	-
+3	5	-	pl	4:k1	-	-	-	-
 %affirmative
 </sent_id>
 
@@ -519,7 +519,7 @@ han_1-awi_1	5	-	pl	0:main	-	-	-	-
 kaRAya_1	1	-	-	-	-	-	-	4:op1
 wikwa_1	2	-	-	-	-	-	-	4:op2
 maXura_1	3	-	pl	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	6:k1	-	-	-	-
+[xvanxvaH_1]	4	-	-	6:k1	-	-	-	-
 piwwa_1	5	-	-	6:k2	-	-	-	-
 han_1-awi_1	6	-	pl	0:main	-	-	-	-
 %affirmative
@@ -549,7 +549,7 @@ as_1-awi_1	8	-	-	0:main	-	-	-	-
 #उष्ण-शीत-गुण-उत्कर्षात् तत्र वीर्यम् द्विधा स्मृतम् .
 uRNa_1	1	-	-	-	-	-	-	5:op1
 SIwa_1	2	-	-	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:mod
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:mod
 guNa_1	3	-	-	-	-	-	-	6:head
 [karmaXAraya_1]	6	-	-	-	-	-	-	7:mod
 uwkarRa_1	4	-	-	-	-	-	-	7:head
@@ -569,7 +569,7 @@ xravya_1	3	-	-	2:r6	-	-	-	-
 svAxu_1	4	-	-	-	-	-	-	8:op1
 amla_1	5	-	-	-	-	-	-	8:op2
 katuka_1	6	-	-	-	-	-	-	8:op3
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:comp1
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:comp1
 Awmaka_1	7	-	-	-	-	-	-	9:comp2
 [6-bahu_1]	9	-	-	-	-	-	-	1:घटकः
 as_1-awi_1	10	-	-	0:main	-	-	-	-
@@ -585,7 +585,7 @@ sa_1	4	-	-	-	-	-	-	8:comp1
 sUkRma_1	5	-	-	-	-	-	-	8:comp2
 [sahapUrvapaxa-vyaXikaraNa-bahuvrIhiH_2]	8	-	-	-	-	-	-	7:op1
 viSaxa_1	6	-	pl	-	-	-	-	7:op2
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	-
+[xvanxvaH_1]	7	-	-	-	-	-	-	-
 guru_1	9	-	-	-	-	-	-	17:op1
 manxa_1	10	-	-	-	-	-	-	17:op2
 hima_1	11	-	-	-	-	-	-	17:op3
@@ -594,7 +594,7 @@ SlakRNa_1	13	-	-	-	-	-	-	17:op5
 sAnxra_1	14	-	-	-	-	-	-	17:op6
 mqxu_1	15	-	-	-	-	-	-	17:op7
 sWira_1	16	-	pl	-	-	-	-	17:op8
-[द्वन्द्वः_2]	17	-	-	-	-	-	-	-
+[xvanxvaH_2]	17	-	-	-	-	-	-	-
 viMSawi_1	18	-	-	19:k1s	-	-	-	-
 guNa_1	19	-	pl	20:k1	-	-	-	-
 as_1-awi_1	20	-	pl	0:main	-	-	-	-
@@ -606,12 +606,12 @@ as_1-awi_1	20	-	pl	0:main	-	-	-	-
 kAla_1	1	-	-	-	-	-	-	4:op1
 arWa_1	2	-	-	-	-	-	-	4:op2
 karman_1	3	-	pl	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	5:r6	-	-	-	-
+[xvanxvaH_1]	4	-	-	5:r6	-	-	-	-
 yoga_1	5	-	-	12:k2	-	-	-	-
 hIna_1	6	-	-	-	-	-	-	10:op1
 miWyA_1	7	-	-	-	-	-	-	10:op2
 awi_1	8	-	-	-	-	-	-	10:op3
-[द्वन्द्वः_2]	10	-	-	-	-	-	-	11:comp1
+[xvanxvaH_2]	10	-	-	-	-	-	-	11:comp1
 mAwraka_1	9	-	-	-	-	-	-	11:comp2
 [bahu_1]	11	-	-	5:mod	-	-	-	-
 vijFeya_1	12	-	-	0:main	-	-	-	-
@@ -662,7 +662,7 @@ BU_1-awi_1	7	-	-	0:main	-	-	-	-
 #निज-आगन्तु-विभागेन तत्र रोगाः द्विधा स्मृताः .
 nija_1	1	-	-	-	-	-	-	4:op1
 Aganwu_1	2	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	5:mod
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:mod
 viBAga_1	3	-	-	-	-	-	-	5:head
 [6-tat_1]	5	-	-	9:rh	-	-	-	-
 wawra_1	6	-	-	9:k7p	-	-	-	-
@@ -677,7 +677,7 @@ smqwa_1	9	-	pl	0:main	-	-	-	-
 $wyax	1	-	pl	7:r6	-	distal	-	-
 kAya_1	2	-	-	-	-	-	-	5:op1
 manas_1	3	-	-	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:mod
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:mod
 Bexa_1	4	-	-	-	-	-	-	6:head
 [6-tat_1]	6	-	-	9:rh	-	-	-	-
 aXiRTAna_1	7	-	-	9:k2	-	api_1	-	-
@@ -691,7 +691,7 @@ smqwa_1	9	-	-	0:main	-	-	-	-
 rajas_1	1	-	-	-	-	-	-	2:समुच्चितः
 wama_1	2	-	-	-	-	-	-	4:घटकः
 manas_1	3	-	-	5:r6	-	-	-	-
-2_1	4	-	dl	5:mod	-	ca_1	-	-
+2	4	-	dl	5:mod	-	ca_1	-	-
 xos_1	5	-	dl	6:k2	-	-	-	-
 uxAhqwa_1	6	-	dl	0:main	-	-	-	-
 %affirmative
@@ -702,7 +702,7 @@ uxAhqwa_1	6	-	dl	0:main	-	-	-	-
 xarSana_1	1	-	pl	-	-	-	-	4:op1
 sparSana_1	2	-	pl	-	-	-	-	4:op2
 praSna_1	3	-	pl	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	5:k3	-	-	-	-
+[xvanxvaH_1]	4	-	-	5:k3	-	-	-	-
 pari_IkR_1	5	-	-	0:main	-	ca_1	-	-
 rogin_1	6	-	-	5:k2	-	-	-	-
 %affirmative
@@ -713,13 +713,13 @@ rogin_1	6	-	-	5:k2	-	-	-	-
 roga_1	1	-	-	11:k2	-	-	-	-
 nixAna_1	2	-	-	-	-	-	-	8:op1
 prAS_1	3	-	-	-	-	-	-	8:op2
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	10:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	10:mod
 rUpa_1	4	-	-	-	-	-	-	10:head
 [kevala-samAsaH_1]	10	-	-	-	-	-	-	9:op1
 lakRaNa_1	5	-	-	-	-	-	-	9:op2
 upaSaya_1	6	-	-	-	-	-	-	9:op3
 Apwi_1	7	-	pl	-	-	-	-	9:op4
-[द्वन्द्वः_2]	9	-	-	11:k3	-	-	-	-
+[xvanxvaH_2]	9	-	-	11:k3	-	-	-	-
 pari_IkR_1	11	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -728,7 +728,7 @@ pari_IkR_1	11	-	-	0:main	-	-	-	-
 #भूमि-देह-प्रभेदेन देशम् आहुः इह द्विधा .
 BUmi_1	1	-	-	-	-	-	-	4:op1
 xeha_1	2	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	5:mod
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:mod
 praBexa_1	3	-	-	-	-	-	-	5:head
 [6-tat_1]	5	-	-	7:rh	-	-	-	-
 xeSa_1	6	-	-	7:k2	-	-	-	-
@@ -974,7 +974,7 @@ hewu_1	19	-	-	-	-	-	-	24:head
 agra_1	20	-	-	-	-	-	-	23:op2
 rUpa_1	21	-	-	-	-	-	-	23:op3
 rUpa_1	22	-	-	-	-	-	-	23:op4
-[द्वन्द्वः_1]	23	-	-	50:mod	-	-	-	-
+[xvanxvaH_1]	23	-	-	50:mod	-	-	-	-
 an_1	25	-	-	-	-	-	-	27:comp1
 upaxrava_1	26	-	-	-	-	-	-	27:comp2
 [6-bahu_1]	27	-	-	50:mod	-	-	-	-
@@ -986,7 +986,7 @@ xURya_1	30	-	-	-	-	-	-	36:head
 xeSa_1	31	-	-	-	-	-	-	34:op2
 qwu_1	32	-	-	-	-	-	-	34:op3
 prakqwi_1	33	-	-	-	-	-	-	34:op4
-[द्वन्द्वः_2]	34	-	-	50:mod	-	-	-	-
+[xvanxvaH_2]	34	-	-	50:mod	-	-	-	-
 pAxa_1	37	-	-	-	-	-	-	39:mod
 sampax_1	38	-	-	-	-	-	-	39:head
 [6-tat_3]	39	-	-	40:k1	-	-	-	-
@@ -998,7 +998,7 @@ eka_1	44	-	-	-	-	-	-	48:comp1
 xoRa_1	45	-	-	-	-	-	-	48:comp2
 [RaRTyarWa-bahuvrIhiH_1]	48	-	-	-	-	-	-	47:op1
 mArga_1	46	-	-	-	-	-	-	47:op2
-[द्वन्द्वः_3]	47	-	-	50:mod	-	-	-	-
+[xvanxvaH_3]	47	-	-	50:mod	-	-	-	-
 nava_1	49	-	-	50:mod	-	-	-	-
 vyAXi_1	50	-	-	52:k2	-	-	-	-
 suKa_1	51	-	-	52:k2s	-	-	-	-
@@ -1049,7 +1049,7 @@ viparyaya_1	7	-	-	-	-	-	-	8:head
 Owsukya_1	9	-	-	-	-	-	-	14:op1
 moha_1	10	-	-	-	-	-	-	14:op2
 a_1	11	-	-	-	-	-	-	14:op3
-[द्वन्द्वः_1]	14	-	-	-	-	-	-	15:mod
+[xvanxvaH_1]	14	-	-	-	-	-	-	15:mod
 rawi_1	12	-	-	-	-	-	-	15:head
 [naF-tat_1]	15	-	-	-	-	-	-	16:mod
 kqw_1	13	-	-	-	-	-	-	16:head
@@ -1070,7 +1070,7 @@ wyaj_1-yAw_1	1	-	-	0:main	-	-	-	-
 Arwa_1	2	-	-	-	-	-	-	29:समुच्चितः
 BiRaj_1	3	-	-	-	-	-	-	5:op1
 BUpa_1	4	-	pl	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	6:k1	-	-	-	-
+[xvanxvaH_1]	5	-	-	6:k1	-	-	-	-
 xviRta_1	6	-	dl	-	-	-	-	29:समुच्चितः
 $wyax	7	-	pl	8:r6	-	distal	-	-
 xviRa_1	8	-	dl	-	-	-	-	29:समुच्चितः
@@ -1160,7 +1160,7 @@ nyagroXa_1	11	-	-	-	-	-	-	17:op2
 Kaxira_1	12	-	-	-	-	-	-	17:op3
 karaFja_1	13	-	-	-	-	-	-	17:op4
 kakuBa_1	14	-	-	-	-	-	-	17:op5
-[द्वन्द्वः_1]	17	-	-	-	-	-	-	18:comp1
+[xvanxvaH_1]	17	-	-	-	-	-	-	18:comp1
 Axi_1	15	-	-	-	-	-	-	18:comp2
 [RaRTyarWa-bahuvrIhiH_1]	18	-	-	-	-	-	-	19:mod
 ja_1	16	-	-	-	-	-	-	19:head
@@ -1213,17 +1213,17 @@ SvAsa_1	6	-	-	-	-	-	-	10:op3
 kAsa_1	7	-	-	-	-	-	-	10:op4
 jvara_1	8	-	-	-	-	-	-	10:op5
 arxiwin_1	9	-	-	-	-	-	-	10:op6
-[द्वन्द्वः_1]	10	-	-	-	-	-	-	-
+[xvanxvaH_1]	10	-	-	-	-	-	-	-
 wqRNA_1	12	-	-	-	-	-	-	20:op1
 Asya_1	13	-	-	-	-	-	-	20:op2
-[द्वन्द्वः_2]	20	-	-	-	-	-	-	22:mod
+[xvanxvaH_2]	20	-	-	-	-	-	-	22:mod
 pAka_1	14	-	-	-	-	-	-	22:head
 [6-tat_1]	22	-	-	-	-	-	-	21:op1
 hqx_1	15	-	-	-	-	-	-	21:op2
 newra_1	16	-	-	-	-	-	-	21:op3
 Siras_1	17	-	-	-	-	-	-	21:op4
 karNa_1	18	-	-	-	-	-	-	21:op5
-[द्वन्द्वः_3]	21	-	-	-	-	-	-	23:mod
+[xvanxvaH_3]	21	-	-	-	-	-	-	23:mod
 Amayin_1	19	-	-	-	-	-	-	23:head
 [6-tat_2]	23	-	-	2:k1	-	-	-	-
 $wyax	24	-	-	2:k2	-	distal	-	-
@@ -1272,7 +1272,7 @@ nAvana_1	1	-	-	-	-	-	-	6:op1
 gaNdURa_1	2	-	-	-	-	-	-	6:op2
 XUma_1	3	-	-	-	-	-	-	6:op3
 wAmbUla_1	4	-	-	-	-	-	-	6:op4
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	7:comp1
+[xvanxvaH_1]	6	-	-	-	-	-	-	7:comp1
 BAj_1	5	-	-	-	-	-	-	7:comp2
 [bahu_1]	7	-	-	8:k1	-	-	-	-
 BU_1-yAw_1	8	-	-	0:main	-	wawaH_1	-	-
@@ -1286,13 +1286,13 @@ kRawa_1	2	-	-	-	-	-	-	7:op1
 piwwAsra_1	3	-	-	-	-	-	-	7:op2
 rUkRa_1	4	-	-	-	-	-	-	7:op3
 uwkupiwa_1	5	-	-	-	-	-	-	7:op4
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	8:comp1
+[xvanxvaH_1]	7	-	-	-	-	-	-	8:comp1
 cakRus_1	6	-	pl	-	-	-	-	8:comp2
 [6-bahu_1]	8	-	-	-	-	-	-	18:समुच्चितः
 viRa_1	9	-	-	-	-	-	-	13:op1
 mUrCA_1	10	-	-	-	-	-	-	13:op2
 maxa_1	11	-	-	-	-	-	-	13:op3
-[द्वन्द्वः_2]	13	-	-	-	-	-	-	14:mod
+[xvanxvaH_2]	13	-	-	-	-	-	-	14:mod
 Arwa_1	12	-	pl	-	-	-	-	14:head
 [3-tat_1]	14	-	-	-	-	-	-	18:समुच्चितः
 a_1	15	-	-	-	-	-	-	17:mod
@@ -1312,7 +1312,7 @@ $wyax	4	-	-	25:k1	-	distal	-	-
 jarA_1	5	-	-	-	-	-	-	9:op1
 Srama_1	6	-	-	-	-	-	-	9:op2
 vAwa_1	7	-	-	-	-	-	-	9:op3
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	10:mod
+[xvanxvaH_1]	9	-	-	-	-	-	-	10:mod
 ha_1	8	-	-	-	-	-	-	10:head
 [upa-tat_1]	10	-	-	-	-	-	-	19:समुच्चितः
 xqRti_1	11	-	-	-	-	-	-	22:mod
@@ -1322,11 +1322,11 @@ puRti_1	13	-	-	-	-	-	-	20:op2
 Ayus_1	14	-	-	-	-	-	-	20:op3
 svapna_1	15	-	-	-	-	-	-	20:op4
 su_1	16	-	-	-	-	-	-	20:op5
-[द्वन्द्वः_2]	20	-	-	-	-	-	-	23:comp1
+[xvanxvaH_2]	20	-	-	-	-	-	-	23:comp1
 wvac_1	17	-	-	-	-	-	-	23:comp2
 [RaRTyarWa-bahuvrIhiH_1]	23	-	-	-	-	-	-	21:op1
 xArDya_1	18	-	-	-	-	-	-	21:op2
-[द्वन्द्वः_3]	21	-	-	-	-	-	-	24:mod
+[xvanxvaH_3]	21	-	-	-	-	-	-	24:mod
 kqw_1	19	-	-	-	-	-	-	24:head
 [upa-tat_2]	24	-	-	4:k1s	-	-	-	-
 BU_1-awi_1	25	-	-	0:main	-	-	-	-
@@ -1338,7 +1338,7 @@ BU_1-awi_1	25	-	-	0:main	-	-	-	-
 Siras_1	1	-	-	-	-	-	-	4:op1
 SravaNa_1	2	-	-	-	-	-	-	4:op2
 pAxa_1	3	-	pl	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	7:k7p	-	-	-	-
+[xvanxvaH_1]	4	-	-	7:k7p	-	-	-	-
 $wyax	5	-	-	7:k2	-	distal	-	-
 viSeRa_1	6	-	-	7:krvn	-	-	-	-
 SIl_1-yAw_1	7	-	causative	0:main	-	-	-	-
@@ -1353,13 +1353,13 @@ kaPa_1	3	-	-	-	-	-	-	12:mod
 graswa_1	4	-	-	-	-	-	-	12:head
 [3-tat_1]	12	-	-	-	-	-	-	10:op1
 kqwa_1	5	-	-	-	-	-	-	10:op2
-[द्वन्द्वः_1]	10	-	-	-	-	-	-	13:comp1
+[xvanxvaH_1]	10	-	-	-	-	-	-	13:comp1
 saM_1	6	-	-	-	-	-	-	13:comp2
 [wqwIyArWa-bahuvrIhiH_1]	13	-	-	-	-	-	-	14:mod
 SuxXi_1	7	-	-	-	-	-	-	14:head
 [prAxi-wawpuruRaH_1]	14	-	-	-	-	-	-	11:op1
 a_1	8	-	-	-	-	-	-	11:op2
-[द्वन्द्वः_2]	11	-	-	-	-	-	-	15:mod
+[xvanxvaH_2]	11	-	-	-	-	-	-	15:mod
 jIrNi_1	9	-	pl	-	-	-	-	15:head
 [naF-tat_1]	15	-	-	1:k1	-	-	-	-
 %affirmative
@@ -1377,7 +1377,7 @@ mexas_1	7	-	-	8:r6	-	-	-	-
 kRaya_1	8	-	-	-	-	-	-	11:समुच्चितः
 viBakwa_1	9	-	-	-	-	-	-	12:op1
 Gana_1	10	-	-	-	-	-	-	12:op2
-[द्वन्द्वः_1]	12	-	-	-	-	-	-	13:comp1
+[xvanxvaH_1]	12	-	-	-	-	-	-	13:comp1
 gAwra_1	11	-	-	-	-	-	-	13:comp2
 [RaRTyarWa-bahuvrIhiH_1]	13	-	-	15:k1	-	-	-	-
 vyAyAma_1	14	-	-	15:rh	-	-	-	-
@@ -1389,7 +1389,7 @@ upa_jan_1	15	-	-	0:main	-	-	-	-
 #वात-पित्त-आमयी बालः वृद्धः अजीर्णः च तम् त्यजेत् .
 vAwa_1	1	-	-	-	-	-	-	4:op1
 piwwa_1	2	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	5:mod
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:mod
 Amayin_1	3	-	-	-	-	-	-	5:head
 [6-tat_1]	5	-	-	-	-	-	-	8:समुच्चितः
 bAla_1	6	-	-	-	-	-	-	8:समुच्चितः
@@ -1460,7 +1460,7 @@ aXvan_1	3	-	-	-	-	-	-	8:op3
 swrI_1	4	-	-	-	-	-	-	8:op4
 hAsya_1	5	-	-	-	-	-	-	8:op5
 BARi_1	6	-	-	-	-	-	-	8:op6
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:comp1
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:comp1
 Axi_1	7	-	-	-	-	-	-	9:comp2
 [RaRTyarWa-bahuvrIhiH_1]	9	-	-	-	-	-	-	10:समुच्चितः
 sAhasa_1	10	-	-	15:k2	-	-	-	-
@@ -1503,7 +1503,7 @@ AyuRya_1	3	-	-	-	-	-	-	18:समुच्चितः
 snAna_1	4	-	-	21:k1	-	-	-	-
 UrjA_1	5	-	-	-	-	-	-	8:op1
 bala_1	6	-	-	-	-	-	-	8:op2
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:mod
 praxa_1	7	-	-	-	-	-	-	9:head
 [upa-tat_1]	9	-	-	-	-	-	-	18:समुच्चितः
 kaNdU_1	10	-	-	-	-	-	-	19:op1
@@ -1514,7 +1514,7 @@ wanxrA_1	14	-	-	-	-	-	-	19:op5
 wqt_1	15	-	-	-	-	-	-	19:op6
 xAha_1	16	-	-	-	-	-	-	19:op7
 pApman_1	17	-	-	-	-	-	-	19:op8
-[द्वन्द्वः_2]	19	-	-	-	-	-	-	20:mod
+[xvanxvaH_2]	19	-	-	-	-	-	-	20:mod
 jiw_1	18	-	-	-	-	-	-	20:head
 [upa-tat_2]	20	-	-	4:k1s	-	-	-	-
 BU_1-awi_1	21	-	-	0:main	-	-	-	-
@@ -1543,7 +1543,7 @@ hqx_1	17	-	-	-	-	-	-	18:head
 [upa-tat_2]	18	-	-	23:k1s	-	-	-	-
 keSa_1	19	-	-	-	-	-	-	21:op1
 cakRus_1	20	-	pl	-	-	-	-	21:op2
-[द्वन्द्वः_1]	21	-	-	17:r6	-	-	-	-
+[xvanxvaH_1]	21	-	-	17:r6	-	-	-	-
 BU_1-awi_1	22	-	-	0:main	-	-	-	-
 pariReka_1	23	-	-	22:k1	-	-	-	-
 %affirmative
@@ -1556,19 +1556,19 @@ arxiwa_1	2	-	-	-	-	-	-	8:op1
 newra_1	3	-	dl	-	-	-	-	8:op2
 asya_1	4	-	-	-	-	-	-	8:op3
 karNa_1	5	-	-	-	-	-	-	8:op4
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	10:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	10:mod
 roga_1	6	-	-	-	-	-	-	10:head
 [7-tat_1]	10	-	-	-	-	-	-	9:op1
 awisArin_1	7	-	pl	-	-	-	-	9:op2
-[द्वन्द्वः_2]	9	-	-	-	-	-	-	-
+[xvanxvaH_2]	9	-	-	-	-	-	-	-
 aXmAna_1	11	-	-	-	-	-	-	16:op1
 pInasa_1	12	-	-	-	-	-	-	16:op2
 a_1	13	-	-	-	-	-	-	16:op3
-[द्वन्द्वः_3]	16	-	-	-	-	-	-	18:mod
+[xvanxvaH_3]	16	-	-	-	-	-	-	18:mod
 jIrNa_1	14	-	-	-	-	-	-	18:head
 [naF-tat_1]	18	-	-	-	-	-	-	17:op1
 Bukwa_1	15	-	mawupa	-	-	-	-	17:op2
-[द्वन्द्वः_4]	17	-	-	19:k7p	-	-	-	-
+[xvanxvaH_4]	17	-	-	19:k7p	-	-	-	-
 garhiwa_1	19	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -1652,13 +1652,13 @@ saw_1	11	-	-	5:rvks	-	-	-	-
 hiMsA_1	1	-	-	-	-	-	-	5:op1
 sweya_1	2	-	-	-	-	-	-	5:op2
 anyaWA_1	3	-	-	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:mod
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:mod
 kAma_1	4	-	-	-	-	-	-	6:head
 [karmaXAraya_1]	6	-	-	-	-	-	-	21:घटकः
 pESunya_1	7	-	-	-	-	-	-	21:घटकः
 paruRa_1	8	-	-	-	-	-	-	10:op1
 anqwa_1	9	-	dl	-	-	-	-	10:op2
-[द्वन्द्वः_2]	10	-	-	-	-	-	-	-
+[xvanxvaH_2]	10	-	-	-	-	-	-	-
 samBinna_1	11	-	-	-	-	-	-	13:mod
 AlApa_1	12	-	-	-	-	-	-	13:head
 [karmaXAraya_2]	13	-	-	-	-	-	-	21:घटकः
@@ -1673,7 +1673,7 @@ xaSan_1	21	-	-	20:mod	-	-	-	-
 kAya_1	22	-	-	-	-	-	-	25:op1
 vAc_1	23	-	-	-	-	-	-	25:op2
 mAnasa_1	24	-	pl	-	-	-	-	25:op3
-[द्वन्द्वः_3]	25	-	-	26:k3	-	-	-	-
+[xvanxvaH_3]	25	-	-	26:k3	-	-	-	-
 wyaj_1-yAw_1	26	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -1685,7 +1685,7 @@ vqwwi_1	2	-	-	-	-	-	-	7:comp2
 [naF-bahu_1]	7	-	-	-	-	-	-	6:op1
 vyAXi_1	3	-	-	-	-	-	-	6:op2
 Soka_1	4	-	-	-	-	-	-	6:op3
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	8:mod
+[xvanxvaH_1]	6	-	-	-	-	-	-	8:mod
 Arwa_1	5	-	pl	-	-	-	-	8:head
 [3-tat_1]	8	-	-	9:k2	-	-	-	-
 anu_vqw_1	9	-	-	0:main	-	-	-	-
@@ -1714,7 +1714,7 @@ vqxXa_1	5	-	-	-	-	-	-	9:op4
 vExya_1	6	-	-	-	-	-	-	9:op5
 nqpa_1	7	-	-	-	-	-	-	9:op6
 awiWi_1	8	-	pl	-	-	-	-	9:op7
-[द्वन्द्वः_1]	9	-	-	1:k2	-	-	-	-
+[xvanxvaH_1]	9	-	-	1:k2	-	-	-	-
 %affirmative
 </sent_id>
 
@@ -1747,7 +1747,7 @@ ari_1	8	-	-	4:k7p	-	-	-	-
 #सम्पत्-विपत्सु एक-मनाः हेतौ ईर्ष्येत् फले न तु (ईर्ष्येत्) (स्यात्) .
 sampaw_1	1	-	-	-	-	-	-	3:op1
 vipaw_1	2	-	pl	-	-	-	-	3:op2
-[द्वन्द्वः_1]	3	-	-	12:k7p	-	-	-	-
+[xvanxvaH_1]	3	-	-	12:k7p	-	-	-	-
 eka_1	4	-	-	-	-	-	-	6:comp1
 manas_1	5	-	-	-	-	-	-	6:comp2
 [6-bahu_1]	6	-	-	12:k1	-	-	-	-
@@ -1794,7 +1794,7 @@ as_1-yAw_1	13	-	-	0:main	-	-	-	-
 <sent_id=02_026_2-027_1_2>
 #न एकः सुखी (स्यात्) न सर्वत्र विश्रब्धः (स्यात्) न च शङ्कितः (स्यात्) .
 na_1	1	-	-	4:neg	-	-	-	-
-1_1	2	-	-	3:mod	-	-	-	-
+1	2	-	-	3:mod	-	-	-	-
 suKin_1	3	-	-	4:k1	-	-	-	-
 as_1-yAw_1	4	-	-	0:main	-	-	-	-
 na_1	5	-	-	8:neg	-	-	-	-
@@ -1908,7 +1908,7 @@ roman_1	2	-	-	-	-	-	-	6:comp2
 [RaRTyarWa-bahuvrIhiH_1]	6	-	-	-	-	-	-	5:op1
 naKa_1	3	-	-	-	-	-	-	5:op2
 SmaSru_1	4	-	-	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	-
+[xvanxvaH_1]	5	-	-	-	-	-	-	-
 nirmala_1	7	-	-	-	-	-	-	12:comp1
 afGri_1	8	-	-	-	-	-	-	12:comp2
 [RaRTyarWa-bahuvrIhiH_2]	12	-	-	-	-	-	-	11:op1
@@ -1941,11 +1941,11 @@ Xq_1-yAw_1	1	-	-	0:main	-	-	-	-
 sawawam_1	2	-	-	1:krvn	-	-	-	-
 rawna_1	3	-	-	-	-	-	-	8:op1
 sixXa_1	4	-	-	-	-	-	-	8:op2
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	10:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	10:mod
 manwra_1	5	-	-	-	-	-	-	10:head
 [karmaXAraya_1]	10	-	-	-	-	-	-	9:op1
 mahaw_1	6	-	-	-	-	-	-	9:op2
-[द्वन्द्वः_2]	9	-	-	-	-	-	-	11:mod
+[xvanxvaH_2]	9	-	-	-	-	-	-	11:mod
 oRaXi_1	7	-	pl	-	-	-	-	11:head
 [karmaXAraya_2]	11	-	-	1:k2	-	-	-	-
 %affirmative
@@ -1959,7 +1959,7 @@ Awapa_1	2	-	-	-	-	-	-	7:comp2
 wra_1	3	-	-	-	-	-	-	8:head
 [upa-tat_1]	8	-	-	-	-	-	-	6:op1
 paxa_1	4	-	-	-	-	-	-	6:op2
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	9:mod
+[xvanxvaH_1]	6	-	-	-	-	-	-	9:mod
 wrANa_1	5	-	-	-	-	-	-	9:head
 [6-tat_1]	9	-	-	-	-	-	-	13:समुच्चितः
 vi_car_1-yAw_1	10	-	-	0:main	-	-	-	-
@@ -1991,20 +1991,20 @@ cEwya_1	1	-	-	-	-	-	-	9:op1
 pUjya_1	2	-	-	-	-	-	-	9:op2
 Xvaja_1	3	-	-	-	-	-	-	9:op3
 ASaswa_1	4	-	-	-	-	-	-	9:op4
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	11:mod
+[xvanxvaH_1]	9	-	-	-	-	-	-	11:mod
 CAyA_1	5	-	-	-	-	-	-	11:head
 [6-tat_1]	11	-	-	-	-	-	-	10:op1
 Basman_1	6	-	-	-	-	-	-	10:op2
 wuRa_1	7	-	-	-	-	-	-	10:op3
 aSuci_1	8	-	pl	-	-	-	-	10:op4
-[द्वन्द्वः_2]	10	-	-	13:k2	-	-	-	-
+[xvanxvaH_2]	10	-	-	13:k2	-	-	-	-
 na_1	12	-	-	13:neg	-	-	-	-
 Af_kram_1-yAw_1	13	-	-	0:main	-	-	-	-
 SarkarA_1	14	-	-	-	-	-	-	19:op1
 loRta_1	15	-	-	-	-	-	-	19:op2
 bali_1	16	-	-	-	-	-	-	19:op3
 snAna_1	17	-	-	-	-	-	-	19:op4
-[द्वन्द्वः_3]	19	-	-	-	-	-	-	20:mod
+[xvanxvaH_3]	19	-	-	-	-	-	-	20:mod
 BU_1	18	-	pl	-	-	-	-	20:head
 [6-tat_2]	20	-	-	22:k2	-	-	-	-
 na_1	21	-	-	22:neg	-	-	-	-
@@ -2081,7 +2081,7 @@ ciram_1	15	-	-	13:krvn	-	-	-	-
 xeha_1	1	-	-	-	-	-	-	4:op1
 vAc_1	2	-	-	-	-	-	-	4:op2
 cewas_1	3	-	pl	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	5:r6	-	-	-	-
+[xvanxvaH_1]	4	-	-	5:r6	-	-	-	-
 ceRtA_1	5	-	pl	8:k2	-	-	-	-
 prAk_1	6	-	-	8:k7t	-	-	-	-
 Srama_1	7	-	-	6:rdl	-	-	-	-
@@ -2103,25 +2103,25 @@ na_1	3	-	-	2:neg	-	-	-	-
 xruma_1	4	-	-	2:k2	-	-	-	-
 cawvara_1	5	-	-	-	-	-	-	12:op1
 cEwya_1	6	-	-	-	-	-	-	12:op2
-[द्वन्द्वः_1]	12	-	-	-	-	-	-	15:mod
+[xvanxvaH_1]	12	-	-	-	-	-	-	15:mod
 anwaH_1	7	-	-	-	-	-	-	15:head
 [6-tat_1]	15	-	-	-	-	-	-	13:op1
 cawuRpaWa_1	8	-	-	-	-	-	-	13:op2
-[द्वन्द्वः_2]	13	-	-	-	-	-	-	16:mod
+[xvanxvaH_2]	13	-	-	-	-	-	-	16:mod
 paWa_1	9	-	-	-	-	-	-	16:head
 [samAhAra-xviguH_1]	16	-	-	-	-	-	-	14:op1
 sura_1	10	-	-	-	-	-	-	14:op2
-[द्वन्द्वः_3]	14	-	-	-	-	-	-	17:mod
+[xvanxvaH_3]	14	-	-	-	-	-	-	17:mod
 Alaya_1	11	-	pl	-	-	-	-	17:head
 [6-tat_2]	17	-	-	-	-	-	-	4:समुच्चितः
 sUnA_1	18	-	-	-	-	-	-	23:op1
 atavI_1	19	-	-	-	-	-	-	23:op2
 SUnya_1	20	-	-	-	-	-	-	23:op3
-[द्वन्द्वः_4]	23	-	-	-	-	-	-	25:mod
+[xvanxvaH_4]	23	-	-	-	-	-	-	25:mod
 gqha_1	21	-	-	-	-	-	-	25:head
 [karmaXAraya_1]	25	-	-	-	-	-	-	24:op1
 SmaSAna_1	22	-	pl	-	-	-	-	24:op2
-[द्वन्द्वः_5]	24	-	-	28:k2	-	-	-	-
+[xvanxvaH_5]	24	-	-	28:k2	-	-	-	-
 xivA_1	26	-	-	28:k7t	-	api_1	-	-
 na_1	27	-	-	28:neg	-	-	-	-
 sev_1	28	-	-	0:main	-	-	-	-
@@ -2145,7 +2145,7 @@ sUkRma_1	12	-	-	-	-	-	-	16:समुच्चितः
 xIpwa_1	13	-	-	-	-	-	-	17:op1
 ameXya_1	14	-	-	-	-	-	-	17:op2
 a_1	15	-	-	-	-	-	-	17:op3
-[द्वन्द्वः_1]	17	-	-	-	-	-	-	18:mod
+[xvanxvaH_1]	17	-	-	-	-	-	-	18:mod
 priya_1	16	-	pl	-	-	-	-	18:head
 [naF-tat_1]	18	-	-	10:k2	-	-	-	-
 %affirmative
@@ -2159,7 +2159,7 @@ vikraya_1	2	-	-	-	-	-	-	7:head
 sanXAna_1	3	-	-	-	-	-	-	6:op2
 xAna_1	4	-	-	-	-	-	-	6:op3
 AxAna_1	5	-	pl	-	-	-	-	6:op4
-[द्वन्द्वः_1]	6	-	-	9:k2	-	-	-	-
+[xvanxvaH_1]	6	-	-	9:k2	-	-	-	-
 na_1	8	-	-	9:neg	-	-	-	-
 Af_car_1-yAw_1	9	-	-	0:main	-	-	-	-
 %affirmative
@@ -2174,7 +2174,7 @@ Awapa_1	3	-	-	-	-	-	-	8:op2
 rajas_1	4	-	-	-	-	-	-	8:op3
 wuRAra_1	5	-	-	-	-	-	-	8:op4
 paruRa_1	6	-	-	-	-	-	-	8:op5
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	10:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	10:mod
 anila_1	7	-	pl	-	-	-	-	10:head
 [karmaXAraya_2]	10	-	-	11:k2	-	-	-	-
 wyaj_1-yAw_1	11	-	-	0:main	-	-	-	-
@@ -2190,7 +2190,7 @@ kAsa_1	4	-	-	-	-	-	-	8:op3
 svapna_1	5	-	-	-	-	-	-	8:op4
 anna_1	6	-	-	-	-	-	-	8:op5
 mEWuna_1	7	-	-	-	-	-	-	8:op6
-[द्वन्द्वः_1]	8	-	-	9:k2	-	-	-	-
+[xvanxvaH_1]	8	-	-	9:k2	-	-	-	-
 wyaj_1-yAw_1	9	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -2206,14 +2206,14 @@ xviRta_1	5	-	dl	-	-	-	-	6:head
 vyAla_1	7	-	-	-	-	-	-	10:op1
 xaMRtrin_1	8	-	-	-	-	-	-	10:op2
 viRANin_1	9	-	pl	-	-	-	-	10:op3
-[द्वन्द्वः_1]	10	-	-	-	-	-	-	-
+[xvanxvaH_1]	10	-	-	-	-	-	-	-
 hIna_1	11	-	-	-	-	-	-	17:op1
 an_1	12	-	-	-	-	-	-	17:op2
-[द्वन्द्वः_2]	17	-	-	-	-	-	-	19:mod
+[xvanxvaH_2]	17	-	-	-	-	-	-	19:mod
 Arya_1	13	-	-	-	-	-	-	19:head
 [naF-tat_1]	19	-	-	-	-	-	-	18:op1
 awi_1	14	-	-	-	-	-	-	18:op2
-[द्वन्द्वः_3]	18	-	-	-	-	-	-	20:mod
+[xvanxvaH_3]	18	-	-	-	-	-	-	20:mod
 nipuNa_1	15	-	-	-	-	-	-	20:head
 [prAxi-wawpuruRaH_1]	20	-	-	-	-	-	-	21:mod
 sevA_1	16	-	-	-	-	-	-	21:head
@@ -2228,7 +2228,7 @@ swrI_1	28	-	-	-	-	-	-	32:op2
 svapna_1	29	-	-	-	-	-	-	32:op3
 aXyayana_1	30	-	-	-	-	-	-	32:op4
 cinwana_1	31	-	-	-	-	-	-	32:op5
-[द्वन्द्वः_4]	32	-	-	33:k2	-	-	-	-
+[xvanxvaH_4]	32	-	-	33:k2	-	-	-	-
 wyaj_1-yAw_1	33	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -2241,7 +2241,7 @@ gaNa_1	3	-	-	-	-	-	-	8:op3
 AkIrNa_1	4	-	-	-	-	-	-	8:op4
 gaNikA_1	5	-	-	-	-	-	-	8:op5
 paNika_1	6	-	-	-	-	-	-	8:op6
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:mod
 aSana_1	7	-	-	-	-	-	-	9:head
 [6-tat_1]	9	-	-	10:k2	-	-	-	-
 wyaj_1-yAw_1	10	-	-	0:main	-	-	-	-
@@ -2253,7 +2253,7 @@ wyaj_1-yAw_1	10	-	-	0:main	-	-	-	-
 gAwra_1	1	-	-	-	-	-	-	4:op1
 vakwra_1	2	-	-	-	-	-	-	4:op2
 naKa_1	3	-	pl	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	6:k3	-	-	-	-
+[xvanxvaH_1]	4	-	-	6:k3	-	-	-	-
 vAxya_1	5	-	-	6:k2	-	-	-	-
 wyaj_1-yAw_1	6	-	-	0:main	-	-	-	-
 haswa_1	7	-	-	-	-	-	-	10:op1
@@ -2270,7 +2270,7 @@ wyaj_1-yAw_1	12	-	-	0:main	-	-	-	-
 woya_1	1	-	-	-	-	-	-	5:op1
 agni_1	2	-	-	-	-	-	-	5:op2
 pUjya_1	3	-	-	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:mod
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:mod
 maXya_1	4	-	-	-	-	-	-	6:head
 [6-tat_1]	6	-	-	8:k3	-	-	-	-
 yAna_1	7	-	-	8:k2	-	-	-	-
@@ -2287,7 +2287,7 @@ sakwi_1	15	-	-	-	-	-	-	17:head
 wyaj_1-yAw_1	18	-	-	0:main	-	-	-	-
 viSramBa_1	19	-	-	-	-	-	-	21:op1
 svAwanwrya_1	20	-	dl	-	-	-	-	21:op2
-[द्वन्द्वः_2]	21	-	-	23:k2	-	-	-	-
+[xvanxvaH_2]	21	-	-	23:k2	-	-	-	-
 swrI_1	22	-	pl	23:k7p	-	-	-	-
 wyaj_1-yAw_1	23	-	-	0:main	-	ca_1	-	-
 %affirmative
@@ -2319,7 +2319,7 @@ wyAga_1	4	-	-	-	-	-	-	20:घटकः
 kAya_1	5	-	-	-	-	-	-	8:op1
 vAc_1	6	-	-	-	-	-	-	8:op2
 cewas_1	7	-	pl	-	-	-	-	8:op3
-[द्वन्द्वः_1]	8	-	-	9:r6	-	-	-	-
+[xvanxvaH_1]	8	-	-	9:r6	-	-	-	-
 xama_1	9	-	-	-	-	-	-	20:घटकः
 sva_1	10	-	-	-	-	-	-	13:mod
 arWa_1	11	-	-	-	-	-	-	13:head
@@ -2341,7 +2341,7 @@ BU_1-awi_1	22	-	-	0:main	-	-	-	-
 #नक्तं-दिनानि मे यान्ति कथम्-भूतस्य सम्प्रति दुःखभाक् न भवति एवम् नित्यम् सन्निहित-स्मृतिः (सन्) .
 nakwaM_1	1	-	-	-	-	-	-	3:op1
 xina_1	2	-	pl	-	-	-	-	3:op2
-[द्वन्द्वः_1]	3	-	-	5:k1	-	-	-	-
+[xvanxvaH_1]	3	-	-	5:k1	-	-	-	-
 asmax_1	4	-	-	2:r6	-	-	-	-
 yA_1-awi_1	5	-	pl	0:main	-	-	-	-
 kaWam_1	6	-	-	-	-	-	-	8:mod
@@ -2413,18 +2413,18 @@ mUwra_1	6	-	-	-	-	-	-	10:op3
 kRava_1	7	-	-	-	-	-	-	10:op4
 wqt_1	8	-	-	-	-	-	-	10:op5
 kRuX_1	9	-	pl	-	-	-	-	10:op6
-[द्वन्द्वः_1]	10	-	-	-	-	-	-	-
+[xvanxvaH_1]	10	-	-	-	-	-	-	-
 nixrA_1	11	-	-	-	-	-	-	19:op1
 kAsa_1	12	-	-	-	-	-	-	19:op2
 Srama_1	13	-	-	-	-	-	-	19:op3
-[द्वन्द्वः_2]	19	-	-	-	-	-	-	21:mod
+[xvanxvaH_2]	19	-	-	-	-	-	-	21:mod
 SvAsa_1	14	-	-	-	-	-	-	21:head
 [3-tat_1]	21	-	-	-	-	-	-	20:op1
 jqmBa_1	15	-	-	-	-	-	-	20:op2
 aSru_1	16	-	-	-	-	-	-	20:op3
 Carxi_1	17	-	-	-	-	-	-	20:op4
 rewas_1	18	-	pl	-	-	-	-	20:op5
-[द्वन्द्वः_3]	20	-	-	1:r6	-	-	-	-
+[xvanxvaH_3]	20	-	-	1:r6	-	-	-	-
 %affirmative
 </sent_id>
 
@@ -2438,20 +2438,20 @@ gulma_1	5	-	-	-	-	-	-	9:op1
 uxAvarwa_1	6	-	-	-	-	-	-	9:op2
 ruc_1	7	-	-	-	-	-	-	9:op3
 klama_1	8	-	pl	-	-	-	-	9:op4
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	-
+[xvanxvaH_1]	9	-	-	-	-	-	-	-
 vAwa_1	10	-	-	-	-	-	-	19:op1
 mUwra_1	11	-	-	-	-	-	-	19:op2
 Sakqw_1	12	-	-	-	-	-	-	19:op3
-[द्वन्द्वः_2]	19	-	-	-	-	-	-	22:mod
+[xvanxvaH_2]	19	-	-	-	-	-	-	22:mod
 safga_1	13	-	-	-	-	-	-	22:head
 [6-tat_1]	22	-	-	-	-	-	-	20:op1
 xqRti_1	14	-	-	-	-	-	-	20:op2
 agni_1	15	-	-	-	-	-	-	20:op3
-[द्वन्द्वः_3]	20	-	-	-	-	-	-	23:mod
+[xvanxvaH_3]	20	-	-	-	-	-	-	23:mod
 vaXa_1	16	-	-	-	-	-	-	23:head
 [6-tat_2]	23	-	-	-	-	-	-	21:op1
 hqw_1	17	-	-	-	-	-	-	21:op2
-[द्वन्द्वः_4]	21	-	-	-	-	-	-	24:mod
+[xvanxvaH_4]	21	-	-	-	-	-	-	24:mod
 gaxa_1	18	-	pl	-	-	-	-	24:head
 [6-tat_3]	24	-	-	25:k1	-	-	-	-
 jan_1	25	-	pl	0:main	-	-	-	-
@@ -2467,7 +2467,7 @@ uxveRta_1	4	-	-	-	-	-	-	8:head
 [6-tat_1]	8	-	-	-	-	-	-	7:op1
 prawiSyAya_1	5	-	-	-	-	-	-	7:op2
 Siroruja_1	6	-	-	-	-	-	-	7:op3
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	-
+[xvanxvaH_1]	7	-	-	-	-	-	-	-
 UrXva_1	9	-	-	-	-	-	-	11:mod
 vAyu_1	10	-	-	-	-	-	-	11:head
 [karmaXAraya_1]	11	-	-	-	-	-	-	17:समुच्चितः
@@ -2501,7 +2501,7 @@ aSmarI_1	3	-	-	-	-	-	-	8:op2
 baswi_1	4	-	-	-	-	-	-	8:op3
 meDra_1	5	-	-	-	-	-	-	8:op4
 vafkRaNa_1	6	-	-	-	-	-	-	8:op5
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	10:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	10:mod
 vexanA_1	7	-	pl	-	-	-	-	10:head
 [6-tat_2]	10	-	-	13:k1	-	-	-	-
 mUwra_1	11	-	-	12:r6	-	-	-	-
@@ -2522,7 +2522,7 @@ ORaXa_1	2	-	-	-	-	-	-	3:head
 varwI_1	4	-	-	-	-	-	-	7:op1
 aByafga_1	5	-	-	-	-	-	-	7:op2
 avagAha_1	6	-	pl	-	-	-	-	7:op3
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	-
+[xvanxvaH_1]	7	-	-	-	-	-	-	-
 svexana_1	8	-	-	-	-	-	-	10:समुच्चितः
 baswi_1	9	-	-	-	-	-	-	11:mod
 karman_1	10	-	-	-	-	-	-	11:head
@@ -2587,11 +2587,11 @@ kampa_1	6	-	-	-	-	-	-	13:समुच्चितः
 vibanXa_1	7	-	-	-	-	-	-	13:समुच्चितः
 hqxaya_1	8	-	-	-	-	-	-	10:op1
 uras_1	9	-	dl	-	-	-	-	10:op2
-[द्वन्द्वः_1]	10	-	-	7:r6	-	-	-	-
+[xvanxvaH_1]	10	-	-	7:r6	-	-	-	-
 AXmAna_1	11	-	-	-	-	-	-	14:op1
 kAsa_1	12	-	-	-	-	-	-	14:op2
 hiXmA_1	13	-	pl	-	-	-	-	14:op3
-[द्वन्द्वः_2]	14	-	-	15:k1	-	-	-	-
+[xvanxvaH_2]	14	-	-	15:k1	-	-	-	-
 jan_1	15	-	pl	0:main	-	punaH_1	-	-
 hiXmAvaw_1	16	-	mawupa	19:krvn	-	-	-	-
 wawra_1	17	-	-	19:k7p	-	-	-	-
@@ -2630,7 +2630,7 @@ aFjana_1	3	-	-	-	-	-	-	8:op2
 AGrANa_1	4	-	-	-	-	-	-	8:op3
 nAvana_1	5	-	-	-	-	-	-	8:op4
 arka_1	6	-	-	-	-	-	-	8:op5
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	10:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	10:mod
 vilokana_1	7	-	pl	-	-	-	-	10:head
 [6-tat_1]	10	-	-	11:k3	-	-	-	-
 pra_vqw_1-yAw_1	11	-	-	0:main	-	-	-	-
@@ -2638,7 +2638,7 @@ kRuwi_1	12	-	-	11:k2	-	-	-	-
 sakwA_1	13	-	-	12:mod	-	-	-	-
 sneha_1	14	-	-	-	-	-	-	16:op1
 svexa_1	15	-	dl	-	-	-	-	16:op2
-[द्वन्द्वः_2]	16	-	-	17:k2	-	-	-	-
+[xvanxvaH_2]	16	-	-	17:k2	-	-	-	-
 SIl_1-yAw_1	17	-	-	-	-	-	-	11:समुच्चितः
 %affirmative
 </sent_id>
@@ -2647,14 +2647,14 @@ SIl_1-yAw_1	17	-	-	-	-	-	-	11:समुच्चितः
 #शोष-अङ्ग-साद-बाधिर्य-सम्मोह-भ्रम-हृत्-गदाः तृष्णायाः निग्रहात् (जायन्ते) तत्र शीतः सर्वः विधिः हितः .
 SoRa_1	1	-	-	-	-	-	-	9:op1
 afga_1	2	-	-	-	-	-	-	9:op2
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	11:mod
+[xvanxvaH_1]	9	-	-	-	-	-	-	11:mod
 sAxa_1	3	-	-	-	-	-	-	11:head
 [6-tat_1]	11	-	-	-	-	-	-	10:op1
 bAXirya_1	4	-	-	-	-	-	-	10:op2
 sammoha_1	5	-	-	-	-	-	-	10:op3
 Brama_1	6	-	-	-	-	-	-	10:op4
 hqw_1	7	-	-	-	-	-	-	10:op5
-[द्वन्द्वः_2]	10	-	-	-	-	-	-	12:mod
+[xvanxvaH_2]	10	-	-	-	-	-	-	12:mod
 gaxa_1	8	-	pl	-	-	-	-	12:head
 [6-tat_2]	12	-	-	15:k1	-	-	-	-
 wqRNA_1	13	-	-	14:r6	-	-	-	-
@@ -2674,14 +2674,14 @@ afga_1	1	-	-	-	-	-	-	11:mod
 Bafga_1	2	-	-	-	-	-	-	11:head
 [6-tat_1]	11	-	-	-	-	-	-	9:op1
 a_1	3	-	-	-	-	-	-	9:op2
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	12:mod
+[xvanxvaH_1]	9	-	-	-	-	-	-	12:mod
 ruci_1	4	-	-	-	-	-	-	12:head
 [naF-tat_1]	12	-	-	-	-	-	-	10:op1
 glAni_1	5	-	-	-	-	-	-	10:op2
 kArSya_1	6	-	-	-	-	-	-	10:op3
 SUla_1	7	-	-	-	-	-	-	10:op4
 Brama_1	8	-	pl	-	-	-	-	10:op5
-[द्वन्द्वः_2]	10	-	-	15:k1	-	-	-	-
+[xvanxvaH_2]	10	-	-	15:k1	-	-	-	-
 kRuX_1	13	-	-	14:r6	-	-	-	-
 nigraha_1	14	-	-	15:rh	-	-	-	-
 jan_1	15	-	pl	0:main	-	-	-	-
@@ -2703,12 +2703,12 @@ jan_1	3	-	pl	0:main	-	-	-	-
 moha_1	4	-	-	-	-	-	-	10:op1
 mUrXA_1	5	-	-	-	-	-	-	10:op2
 akRi_1	6	-	-	-	-	-	-	10:op3
-[द्वन्द्वः_1]	10	-	-	-	-	-	-	12:mod
+[xvanxvaH_1]	10	-	-	-	-	-	-	12:mod
 gOrava_1	7	-	-	-	-	-	-	12:head
 [6-tat_1]	12	-	-	-	-	-	-	11:op1
 Alasya_1	8	-	-	-	-	-	-	11:op2
 jqmBikA_1	9	-	pl	-	-	-	-	11:op3
-[द्वन्द्वः_2]	11	-	-	3:k1	-	-	-	-
+[xvanxvaH_2]	11	-	-	3:k1	-	-	-	-
 afga_1	13	-	-	-	-	-	-	15:mod
 marxa_1	14	-	-	-	-	-	-	15:head
 [6-tat_2]	15	-	-	-	-	-	-	9:समुच्चितः
@@ -2728,11 +2728,11 @@ vqxXi_1	4	-	-	-	-	-	-	5:head
 [6-tat_1]	5	-	-	-	-	-	-	16:समुच्चितः
 SvAsa_1	6	-	-	-	-	-	-	11:op1
 a_1	7	-	-	-	-	-	-	11:op2
-[द्वन्द्वः_1]	11	-	-	-	-	-	-	13:mod
+[xvanxvaH_1]	11	-	-	-	-	-	-	13:mod
 ruci_1	8	-	-	-	-	-	-	13:head
 [naF-tat_1]	13	-	-	-	-	-	-	12:op1
 hqw_1	9	-	-	-	-	-	-	12:op2
-[द्वन्द्वः_2]	12	-	-	-	-	-	-	14:mod
+[xvanxvaH_2]	12	-	-	-	-	-	-	14:mod
 Amaya_1	10	-	pl	-	-	-	-	14:head
 [6-tat_2]	14	-	-	-	-	-	-	16:समुच्चितः
 SoRa_1	15	-	-	-	-	-	-	16:समुच्चितः
@@ -2752,11 +2752,11 @@ viXi_1	24	-	-	18:k1	-	-	-	-
 #गुल्म-हृत्-रोग-सम्मोहाः श्रम-श्वासात् विधारितात् हितम् विश्रमणम् तत्र वात-घ्नः च क्रिया-क्रमः (जायन्ते) .
 gulma_1	1	-	-	-	-	-	-	5:op1
 hqw_1	2	-	-	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	7:mod
+[xvanxvaH_1]	5	-	-	-	-	-	-	7:mod
 roga_1	3	-	-	-	-	-	-	7:head
 [6-tat_1]	7	-	-	-	-	-	-	6:op1
 sammoha_1	4	-	pl	-	-	-	-	6:op2
-[द्वन्द्वः_2]	6	-	-	21:k1	-	-	-	-
+[xvanxvaH_2]	6	-	-	21:k1	-	-	-	-
 Srama_1	8	-	-	-	-	-	-	10:mod
 SvAsa_1	9	-	-	-	-	-	-	10:head
 [3-tat_1]	10	-	-	21:rh	-	-	-	-
@@ -2798,19 +2798,19 @@ pInasa_1	1	-	-	-	-	-	-	11:op1
 akRi_1	2	-	-	-	-	-	-	11:op2
 Siras_1	3	-	-	-	-	-	-	11:op3
 hqw_1	4	-	-	-	-	-	-	11:op4
-[द्वन्द्वः_1]	11	-	-	-	-	-	-	15:mod
+[xvanxvaH_1]	11	-	-	-	-	-	-	15:mod
 ruc_1	5	-	-	-	-	-	-	15:head
 [6-tat_1]	15	-	-	-	-	-	-	12:op1
 manyA_1	6	-	-	-	-	-	-	12:op2
-[द्वन्द्वः_2]	12	-	-	-	-	-	-	16:mod
+[xvanxvaH_2]	12	-	-	-	-	-	-	16:mod
 swamBa_1	7	-	-	-	-	-	-	16:head
 [6-tat_2]	16	-	-	-	-	-	-	13:op1
 a_1	8	-	-	-	-	-	-	13:op2
-[द्वन्द्वः_3]	13	-	-	-	-	-	-	17:mod
+[xvanxvaH_3]	13	-	-	-	-	-	-	17:mod
 ruci_1	9	-	-	-	-	-	-	17:head
 [naF-tat_1]	17	-	-	-	-	-	-	14:op1
 Brama_1	10	-	pl	-	-	-	-	14:op2
-[द्वन्द्वः_4]	14	-	-	23:k1	-	-	-	-
+[xvanxvaH_4]	14	-	-	23:k1	-	-	-	-
 sa_1	18	-	-	-	-	-	-	20:comp1
 gulmA_1	19	-	-	-	-	-	-	20:comp2
 [sahapUrvapaxa-vyaXikaraNa-bahuvrIhiH_1]	20	-	-	23:rask1	-	-	-	-
@@ -2834,11 +2834,11 @@ kuRTa_1	3	-	-	-	-	-	-	9:op3
 akRi_1	4	-	-	-	-	-	-	9:op4
 kaNdU_1	5	-	-	-	-	-	-	9:op5
 pANdu_1	6	-	-	-	-	-	-	9:op6
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	11:mod
+[xvanxvaH_1]	9	-	-	-	-	-	-	11:mod
 Amaya_1	7	-	-	-	-	-	-	11:head
 [6-tat_1]	11	-	-	-	-	-	-	10:op1
 jvara_1	8	-	pl	-	-	-	-	10:op2
-[द्वन्द्वः_2]	10	-	-	22:k1	-	-	-	-
+[xvanxvaH_2]	10	-	-	22:k1	-	-	-	-
 sa_1	12	-	-	-	-	-	-	19:comp1
 kAsa_1	13	-	-	-	-	-	-	19:comp2
 [sahapUrvapaxa-vyaXikaraNa-bahuvrIhiH_1]	19	-	-	-	-	-	-	18:op1
@@ -2846,7 +2846,7 @@ SvAsa_1	14	-	-	-	-	-	-	18:op2
 hrallAsa_1	15	-	-	-	-	-	-	18:op3
 vyafga_1	16	-	-	-	-	-	-	18:op4
 SvayaWu_1	17	-	pl	-	-	-	-	18:op5
-[द्वन्द्वः_3]	18	-	-	22:rask1	-	-	-	-
+[xvanxvaH_3]	18	-	-	22:rask1	-	-	-	-
 vami_1	20	-	-	22:rh	-	-	-	-
 viXAriwA_1	21	-	-	20:mod	-	-	-	-
 jan_1	22	-	pl	0:main	-	-	-	-
@@ -2858,7 +2858,7 @@ jan_1	22	-	pl	0:main	-	-	-	-
 gaNdURa_1	1	-	-	-	-	-	-	5:op1
 XUma_1	2	-	-	-	-	-	-	5:op2
 an_1	3	-	-	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:mod
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:mod
 AhAra_1	4	-	pl	-	-	-	-	6:head
 [naF-tat_1]	6	-	-	-	-	-	-	17:समुच्चितः
 rUkRa_1	7	-	-	8:k2	-	-	-	-
@@ -2881,7 +2881,7 @@ sa_1	1	-	-	-	-	-	-	5:mod
 kRAra_1	2	-	-	-	-	-	-	5:head
 [avyayIBAvaH_1]	5	-	-	-	-	-	-	4:op1
 lavaNa_1	3	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	-
+[xvanxvaH_1]	4	-	-	-	-	-	-	-
 wEla_1	6	-	-	10:k2	-	-	-	-
 aByafga_1	7	-	-	-	-	-	-	9:mod
 arWa_1	8	-	-	-	-	-	-	9:head
@@ -2901,22 +2901,22 @@ vexanA_1	6	-	-	-	-	-	-	10:head
 [6-tat_2]	10	-	-	-	-	-	-	9:op1
 SvayaWu_1	7	-	-	-	-	-	-	9:op2
 jvara_1	8	-	pl	-	-	-	-	9:op3
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	-
+[xvanxvaH_1]	9	-	-	-	-	-	-	-
 hqw_1	11	-	-	-	-	-	-	22:mod
 vyaWA_1	12	-	-	-	-	-	-	22:head
 [6-tat_3]	22	-	-	-	-	-	-	20:op1
 mUwra_1	13	-	-	-	-	-	-	20:op2
-[द्वन्द्वः_2]	20	-	-	-	-	-	-	23:mod
+[xvanxvaH_2]	20	-	-	-	-	-	-	23:mod
 safgA_1	14	-	-	-	-	-	-	23:head
 [6-tat_4]	23	-	-	-	-	-	-	21:op1
 afga_1	15	-	-	-	-	-	-	21:op2
-[द्वन्द्वः_3]	21	-	-	-	-	-	-	24:mod
+[xvanxvaH_3]	21	-	-	-	-	-	-	24:mod
 Bafga_1	16	-	-	-	-	-	-	24:head
 [6-tat_5]	24	-	-	-	-	-	-	25:op1
 vqxXiH_1	17	-	-	-	-	-	-	25:op2
 aSman_1	18	-	-	-	-	-	-	25:op3
 RaNDa_1	19	-	pl	-	-	-	-	25:op4
-[द्वन्द्वः_4]	25	-	-	27:k1	-	-	-	-
+[xvanxvaH_4]	25	-	-	27:k1	-	-	-	-
 viXAriwa_1	26	-	-	1:mod	-	-	-	-
 jan_1	27	-	pl	0:main	-	-	-	-
 %affirmative
@@ -2931,7 +2931,7 @@ SAli_1	4	-	-	-	-	-	-	8:op3
 vaswi_1	5	-	-	-	-	-	-	8:op4
 aByafga_1	6	-	-	-	-	-	-	8:op5
 avagAhana_1	7	-	-	-	-	-	-	8:op6
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	-
+[xvanxvaH_1]	8	-	-	-	-	-	-	-
 baswi_1	9	-	-	-	-	-	-	12:mod
 SuxXi_1	10	-	-	-	-	-	-	12:head
 [6-tat_1]	12	-	-	-	-	-	-	13:mod
@@ -2949,7 +2949,7 @@ swrI_1	18	-	pl	15:k2	-	-	-	-
 #तृट्-शूल-आर्तम् त्यजेत् क्षीणम् विट्-वमम् वेग-रोधिनम् .
 wqt_1	1	-	-	-	-	-	-	4:op1
 SUla_1	2	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	5:mod
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:mod
 Arwa_1	3	-	-	-	-	-	-	5:head
 [3-tat_1]	5	-	-	12:mod	-	-	-	-
 wyaj_1-yAw_1	6	-	-	0:main	-	-	-	-
@@ -2972,7 +2972,7 @@ vega_1	4	-	-	-	-	-	-	8:mod
 uxIraNa_1	5	-	-	-	-	-	-	8:head
 [6-tat_1]	8	-	-	-	-	-	-	7:op1
 XAraNa_1	6	-	pl	-	-	-	-	7:op2
-[द्वन्द्वः_1]	7	-	-	3:rh	-	-	-	-
+[xvanxvaH_1]	7	-	-	3:rh	-	-	-	-
 %affirmative
 </sent_id>
 
@@ -2998,7 +2998,7 @@ pra_kup_1-awi_1	4	-	-	0:main	-	yaw_1	-	-
 anna_1	5	-	-	-	-	-	-	8:op1
 pAna_1	6	-	-	-	-	-	-	8:op2
 ORaXa_1	7	-	-	-	-	-	-	8:op3
-[द्वन्द्वः_1]	8	-	-	10:k1	-	-	-	-
+[xvanxvaH_1]	8	-	-	10:k1	-	-	-	-
 $wyax	9	-	-	7:r6	-	distal	-	-
 yuj_1	10	-	-	0:main	-	awaH_1	-	-
 anulomana_1	11	-	-	7:mod	-	-	-	-
@@ -3020,7 +3020,7 @@ IrRyA_1	10	-	-	-	-	-	-	15:op2
 xveRa_1	11	-	-	-	-	-	-	15:op3
 mAwsarya_1	12	-	-	-	-	-	-	15:op4
 rAga_1	13	-	-	-	-	-	-	15:op5
-[द्वन्द्वः_1]	15	-	-	-	-	-	-	16:comp1
+[xvanxvaH_1]	15	-	-	-	-	-	-	16:comp1
 Axi_1	14	-	pl	-	-	-	-	16:comp2
 [RaRTyarWa-bahuvrIhiH_1]	16	-	-	3:r6	-	-	-	-
 jiwa_1	17	-	-	-	-	-	-	19:comp1
@@ -3062,7 +3062,7 @@ kup_1-awi_1	3	-	pl	0:main	-	-	-	-
 jiwa_1	4	-	pl	1:mod	-	-	-	-
 lafGana_1	5	-	-	-	-	-	-	7:op1
 pAcana_1	6	-	pl	-	-	-	-	7:op2
-[द्वन्द्वः_1]	7	-	-	4:rh	-	-	-	-
+[xvanxvaH_1]	7	-	-	4:rh	-	-	-	-
 $yax	8	-	pl	10:k1	-	wu_1	-	-
 saMSoXana_1	9	-	pl	10:rh	-	-	-	-
 SuxXa_1	10	-	pl	0:main	-	-	-	-
@@ -3108,12 +3108,12 @@ goXUma_1	10	-	-	-	-	-	-	15:op3
 muxga_1	11	-	-	-	-	-	-	15:op4
 mAMsa_1	12	-	-	-	-	-	-	15:op5
 Gqwa_1	13	-	-	-	-	-	-	15:op6
-[द्वन्द्वः_1]	15	-	-	-	-	-	-	16:comp1
+[xvanxvaH_1]	15	-	-	-	-	-	-	16:comp1
 Axi_1	14	-	pl	-	-	-	-	16:comp2
 [RaRTyarWa-bahuvrIhiH_1]	16	-	-	5:mod	-	-	-	-
 hqxya_1	17	-	-	-	-	-	-	21:op1
 xIpana_1	18	-	-	-	-	-	-	21:op2
-[द्वन्द्वः_2]	21	-	-	-	-	-	-	22:mod
+[xvanxvaH_2]	21	-	-	-	-	-	-	22:mod
 BERajya_1	19	-	-	-	-	-	-	22:head
 [karmaXAraya_1]	22	-	-	-	-	-	-	23:mod
 saMyoga_1	20	-	-	-	-	-	-	23:head
@@ -3131,7 +3131,7 @@ snAna_1	32	-	-	-	-	-	-	36:op3
 nirUha_1	33	-	-	-	-	-	-	36:op4
 sneha_1	34	-	-	-	-	-	-	36:op5
 baswi_1	35	-	pl	-	-	-	-	36:op6
-[द्वन्द्वः_3]	36	-	-	5:mod	-	-	-	-
+[xvanxvaH_3]	36	-	-	5:mod	-	-	-	-
 saw_1	38	-	-	39:rblak	-	-	-	-
 BU_1-awi_1	39	-	-	0:main	-	-	-	-
 %affirmative
@@ -3150,7 +3150,7 @@ pAtava_1	6	-	-	-	-	-	-	8:head
 XI_1	9	-	-	-	-	-	-	13:op1
 varNa_1	10	-	-	-	-	-	-	13:op2
 inxriya_1	11	-	-	-	-	-	-	13:op3
-[द्वन्द्वः_1]	13	-	-	-	-	-	-	14:mod
+[xvanxvaH_1]	13	-	-	-	-	-	-	14:mod
 vEmalya_1	12	-	-	-	-	-	-	14:head
 [6-tat_2]	14	-	-	-	-	-	-	16:समुच्चितः
 vqRa_1	15	-	-	-	-	-	-	16:समुच्चितः
@@ -3169,7 +3169,7 @@ vAyu_1	5	-	-	-	-	-	-	11:op3
 agni_1	6	-	-	-	-	-	-	11:op4
 kRawa_1	7	-	-	-	-	-	-	11:op5
 Bafga_1	8	-	-	-	-	-	-	11:op6
-[द्वन्द्वः_1]	11	-	-	-	-	-	-	12:comp1
+[xvanxvaH_1]	11	-	-	-	-	-	-	12:comp1
 Axi_1	9	-	-	-	-	-	-	12:comp2
 [RaRTyarWa-bahuvrIhiH_1]	12	-	-	-	-	-	-	13:mod
 samBava_1	10	-	pl	-	-	-	-	13:head
@@ -3177,7 +3177,7 @@ samBava_1	10	-	pl	-	-	-	-	13:head
 rAga_1	14	-	-	-	-	-	-	18:op1
 xveRa_1	15	-	-	-	-	-	-	18:op2
 Baya_1	16	-	-	-	-	-	-	18:op3
-[द्वन्द्वः_2]	18	-	-	-	-	-	-	19:comp1
+[xvanxvaH_2]	18	-	-	-	-	-	-	19:comp1
 Axya_1	17	-	pl	-	-	-	-	19:comp2
 [RaRTyarWa-bahuvrIhiH_2]	19	-	-	2:k1s	-	-	-	-
 as_1-awi_1	20	-	pl	0:main	-	-	-	-
@@ -3193,7 +3193,7 @@ gaxa_1	24	-	pl	21:k1s	-	-	-	-
 wyAga_1	1	-	-	-	-	-	-	42:घटकः
 prajFA_1	2	-	-	-	-	-	-	4:op1
 aparAXa_1	3	-	pl	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	1:r6	-	-	-	-
+[xvanxvaH_1]	4	-	-	1:r6	-	-	-	-
 inxriya_1	5	-	-	-	-	-	-	7:mod
 upaSama_1	6	-	-	-	-	-	-	7:head
 [6-tat_1]	7	-	-	-	-	-	-	42:घटकः
@@ -3201,7 +3201,7 @@ smqwi_1	8	-	-	-	-	-	-	42:घटकः
 xeSa_1	9	-	-	-	-	-	-	13:op1
 kAla_1	10	-	-	-	-	-	-	13:op2
 Awman_1	11	-	-	-	-	-	-	13:op3
-[द्वन्द्वः_2]	13	-	-	-	-	-	-	14:mod
+[xvanxvaH_2]	13	-	-	-	-	-	-	14:mod
 vijFAna_1	12	-	-	-	-	-	-	14:head
 [6-tat_2]	14	-	-	-	-	-	-	42:घटकः
 saw_1	15	-	-	-	-	-	-	17:mod
@@ -3236,7 +3236,7 @@ $wyax	43	-	-	42:mod	-	proximal	-	-
 praxarSiwa_1	44	-	-	0:main	-	-	-	-
 nija_1	45	-	-	-	-	-	-	48:op1
 Aganwu_1	46	-	-	-	-	-	-	48:op2
-[द्वन्द्वः_3]	48	-	-	-	-	-	-	49:mod
+[xvanxvaH_3]	48	-	-	-	-	-	-	49:mod
 vikAra_1	47	-	pl	-	-	-	-	49:head
 [6-tat_7]	49	-	-	40:r6	-	-	-	-
 uwpanna_1	50	-	pl	51:r6	-	-	-	-
@@ -3285,7 +3285,7 @@ hiwa_1	2	-	-	-	-	-	-	7:mod
 AhAra_1	3	-	-	-	-	-	-	7:head
 [karmaXAraya_1]	7	-	-	-	-	-	-	6:op1
 vihAra_1	4	-	-	-	-	-	-	6:op2
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	8:mod
+[xvanxvaH_1]	6	-	-	-	-	-	-	8:mod
 sevin_1	5	-	-	-	-	-	-	8:head
 [upa-tat_1]	8	-	-	-	-	-	-	21:समुच्चितः
 samIkRya_1	9	-	-	-	-	-	-	11:mod
@@ -4068,7 +4068,7 @@ vAyu_1	8	-	-	-	-	-	-	12:op9
 agnni_1	9	-	-	-	-	-	-	12:op10
 go_1	10	-	-	-	-	-	-	12:op11
 anila_1	11	-	pl	-	-	-	-	12:op12
-[द्वन्द्वः_1]	12	-	-	17:mod	-	-	-	-
+[xvanxvaH_1]	12	-	-	17:mod	-	-	-	-
 xvaya_1	13	-	-	-	-	-	-	15:mod
 ulbaNa_1	14	-	pl	-	-	-	-	15:head
 [samAhAra-xviguH_1]	15	-	-	17:mod	-	-	-	-
@@ -4125,7 +4125,7 @@ muKa_1	3	-	-	2:k2	-	-	-	-
 harRaNa_1	1	-	-	-	-	-	-	7:समुच्चितः
 roman_1	2	-	-	-	-	-	-	4:op1
 xanwa_1	3	-	pl	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	1:r6	-	-	-	-
+[xvanxvaH_1]	4	-	-	1:r6	-	-	-	-
 akRi_1	5	-	-	-	-	-	-	8:op1
 Bruva_1	6	-	-	-	-	-	-	8:op2
 [samAhAra-xvanxvaH_2]	8	-	-	-	-	-	-	9:mod
@@ -4190,7 +4190,7 @@ jihvA_1	3	-	-	2:k2	-	-	-	-
 kaNTa_1	4	-	-	-	-	-	-	8:op1
 srowas_1	5	-	-	-	-	-	-	8:op2
 vibanXa_1	6	-	-	-	-	-	-	8:op3
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:mod
 kqw_1	7	-	-	-	-	-	-	9:head
 [6-tat_1]	9	-	-	10:k1	-	-	-	-
 %affirmative
@@ -4232,7 +4232,7 @@ $wyax	5	-	-	1:कर्त	-	distal	-	-
 mexas_1	6	-	-	-	-	-	-	9:op1
 SleRman_1	7	-	-	-	-	-	-	9:op2
 ja_1	8	-	pl	-	-	-	-	9:op3
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	10:mod
+[xvanxvaH_1]	9	-	-	-	-	-	-	10:mod
 gaxa_1	11	-	pl	-	-	-	-	10:head
 [upa-tat_1]	10	-	-	1:k2	-	-	-	-
 sWOlya_1	12	-	-	-	-	-	-	?.?:op1
@@ -4243,7 +4243,7 @@ meha_1	16	-	-	-	-	-	-	?.?:op5
 gaNda_1	17	-	-	-	-	-	-	?.?:op6
 arbuxa_1	18	-	-	-	-	-	-	?.?:op7
 %affirmative	-	-	-	-	-	-	-	?.?:op8
-[द्वन्द्वः_2]	?.?	-	-	-	-	-	-	-
+[xvanxvaH_2]	?.?	-	-	-	-	-	-	-
 </sent_id>
 
 <sent_id=10_010_1>
@@ -4312,7 +4312,7 @@ SoPa_1	5	-	-	-	-	-	-	9:op4
 visPota_1	6	-	-	-	-	-	-	9:op5
 wqt_1	7	-	-	-	-	-	-	9:op6
 jvara_1	8	-	pl	-	-	ca_1	-	9:op7
-[द्वन्द्वः_1]	9	-	-	10:k2	-	-	-	-
+[xvanxvaH_1]	9	-	-	10:k2	-	-	-	-
 kq_1-yAw_1	10	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -4323,7 +4323,7 @@ lavaNa_1	1	-	-	20:k1	-	-	-	-
 swamBa_1	2	-	-	-	-	-	-	6:op1
 safGAwa_1	3	-	-	-	-	-	-	6:op2
 banXa_1	4	-	-	-	-	-	-	6:op3
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	7:mod
+[xvanxvaH_1]	6	-	-	-	-	-	-	7:mod
 viXmApana_1	5	-	-	-	-	-	-	7:head
 [6-tat_1]	7	-	-	-	-	-	-	17:समुच्चितः
 agni_1	8	-	-	-	-	-	-	10:mod
@@ -4335,7 +4335,7 @@ wIkRNa_1	13	-	-	-	-	-	-	17:समुच्चितः
 rocana_1	14	-	-	-	-	-	-	17:समुच्चितः
 Cexa_1	15	-	-	-	-	-	-	18:op1
 Bexa_1	16	-	-	-	-	-	-	18:op2
-[द्वन्द्वः_2]	18	-	-	-	-	-	-	19:mod
+[xvanxvaH_2]	18	-	-	-	-	-	-	19:mod
 kqw_1	17	-	-	-	-	-	-	19:head
 [upa-tat_2]	19	-	-	1:k1s	-	-	-	-
 BU_1-awi_1	20	-	-	0:main	-	-	-	-
@@ -4385,7 +4385,7 @@ uwkleSa_1	11	-	-	-	-	-	-	15:op4
 xAha_1	12	-	-	-	-	-	-	15:op5
 piwwa_1	13	-	-	-	-	-	-	15:op6
 kaPa_1	14	-	pl	-	-	-	-	15:op7
-[द्वन्द्वः_2]	15	-	-	1:विधेय-विशेषणम्	-	-	-	-
+[xvanxvaH_2]	15	-	-	1:विधेय-विशेषणम्	-	-	-	-
 ji_1-yAw_1	16	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -4400,7 +4400,7 @@ majja_1	5	-	-	-	-	-	-	9:op4
 Sakqw_1	6	-	-	-	-	-	-	9:op5
 mUwra_1	7	-	-	-	-	-	-	9:op6
 upaSoRaNa_1	8	-	-	-	-	-	-	9:op7
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	-
+[xvanxvaH_1]	9	-	-	-	-	-	-	-
 laGu_1	10	-	-	-	-	-	-	16:समुच्चितः
 meXya_1	11	-	-	-	-	-	-	16:समुच्चितः
 hima_1	12	-	-	-	-	-	-	16:समुच्चितः
@@ -4408,7 +4408,7 @@ rUkRa_1	13	-	-	-	-	-	-	16:समुच्चितः
 swanya_1	14	-	-	-	-	-	-	18:op1
 kaNTa_1	15	-	-	-	-	-	-	18:op2
 BU_1-awi_1	17	-	-	-	-	-	-	18:op3
-[द्वन्द्वः_2]	18	-	-	0:main	-	-	-	-
+[xvanxvaH_2]	18	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
 
@@ -4420,7 +4420,7 @@ kRaya_1	2	-	-	-	-	-	-	6:head
 anila_1	3	-	-	-	-	-	-	7:head
 [karmaXAraya_1]	7	-	-	-	-	-	-	5:op1
 vyAXi_1	4	-	pl	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	9:k2	-	-	-	-
+[xvanxvaH_1]	5	-	-	9:k2	-	-	-	-
 awiyoga_1	8	-	-	9:krvn	-	-	-	-
 kq_1-awi_1	9	-	-	0:main	-	-	-	-
 $wyax	10	-	-	9:k1	-	distal	-	-
@@ -4437,13 +4437,13 @@ uxarxa_1	4	-	-	-	-	-	-	8:op2
 kuRTa_1	5	-	-	-	-	-	-	8:op3
 alasaka_1	6	-	-	-	-	-	-	8:op4
 SoPajiw_1	7	-	-	-	-	-	-	8:op5
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	-
+[xvanxvaH_1]	8	-	-	-	-	-	-	-
 vraNa_1	10	-	-	-	-	-	-	12:mod
 avasAxana_1	11	-	-	-	-	-	-	12:head
 [6-tat_2]	12	-	-	-	-	-	-	17:समुच्चितः
 sneha_1	13	-	-	-	-	-	-	15:op1
 mexa_1	14	-	-	-	-	-	-	15:op2
-[द्वन्द्वः_2]	15	-	-	-	-	-	-	-
+[xvanxvaH_2]	15	-	-	-	-	-	-	-
 klexa_1	16	-	-	-	-	-	-	18:mod
 upaSoRaNa_1	17	-	-	-	-	-	-	18:head
 [6-tat_3]	18	-	-	1:k1s	-	-	-	-
@@ -4486,7 +4486,7 @@ wqRNA_1	7	-	-	-	-	-	-	19:समुच्चितः
 Sukra_1	8	-	-	-	-	-	-	11:op1
 bala_1	9	-	-	-	-	-	-	11:op2
 kRaya_1	10	-	-	-	-	-	-	11:op3
-[द्वन्द्वः_1]	11	-	-	-	-	-	-	-
+[xvanxvaH_1]	11	-	-	-	-	-	-	-
 mUrcCA_1	12	-	-	-	-	-	-	19:समुच्चितः
 AkuFca_1	13	-	-	-	-	-	-	19:समुच्चितः
 kampa_1	14	-	-	-	-	-	-	19:समुच्चितः
@@ -4504,7 +4504,7 @@ kaRAya_1	1	-	-	26:k1	-	-	-	-
 piwwa_1	2	-	-	-	-	-	-	5:op1
 kaPa_1	3	-	-	-	-	-	-	5:op2
 hA_1	4	-	-	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	-
+[xvanxvaH_1]	5	-	-	-	-	-	-	-
 guru_1	6	-	-	-	-	-	-	24:समुच्चितः
 asra_1	7	-	-	-	-	-	-	9:mod
 viSoXana_1	8	-	-	-	-	-	-	9:head
@@ -4515,7 +4515,7 @@ SIwa_1	12	-	-	-	-	-	-	24:समुच्चितः
 klexa_1	13	-	-	-	-	-	-	16:op1
 mexas_1	14	-	-	-	-	-	-	16:op2
 viSoRaNa_1	15	-	-	-	-	-	-	16:op3
-[द्वन्द्वः_2]	16	-	-	-	-	-	-	-
+[xvanxvaH_2]	16	-	-	-	-	-	-	-
 Ama_1	17	-	-	-	-	-	-	19:mod
 saMswamBa_1	18	-	-	-	-	-	-	19:head
 [RaRTI-wawparuRaH_2]	19	-	-	-	-	-	-	24:समुच्चितः
@@ -4558,7 +4558,7 @@ qRi_1	6	-	pl	-	-	-	-	7:head
 xoRa_1	1	-	-	-	-	-	-	4:op1
 XAwu_1	2	-	-	-	-	-	-	4:op2
 mala_1	3	-	pl	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	8:k1	-	-	-	-
+[xvanxvaH_1]	4	-	-	8:k1	-	-	-	-
 mUla_1	5	-	-	3:k1s	-	-	-	-
 saxA_1	6	-	-	8:k7t	-	-	-	-
 xeha_1	7	-	-	5:r6	-	-	-	-
@@ -4576,7 +4576,7 @@ niSvAsa_1	5	-	-	-	-	-	-	9:op3
 ceRtA_1	6	-	-	-	-	-	-	9:op4
 vega_1	7	-	-	-	-	-	-	9:op5
 pravarwana_1	8	-	pl	-	-	-	-	9:op6
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	-
+[xvanxvaH_1]	9	-	-	-	-	-	-	-
 samyak_1	10	-	-	11:krvn	-	-	-	-
 gawi_1	11	-	-	-	-	-	-	14:समुच्चितः
 XAwu_1	12	-	pl	11:r6	-	-	-	-
@@ -4595,7 +4595,7 @@ piwwa_1	1	-	-	17:k1	-	-	-	-
 pakwi_1	2	-	-	-	-	-	-	5:op1
 URman_1	3	-	-	-	-	-	-	5:op2
 xarSana_1	4	-	pl	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	-
+[xvanxvaH_1]	5	-	-	-	-	-	-	-
 kRuw_1	6	-	-	-	-	-	-	15:op1
 wqt_1	7	-	-	-	-	-	-	15:op2
 ruci_1	8	-	-	-	-	-	-	15:op3
@@ -4604,7 +4604,7 @@ meXA_1	10	-	-	-	-	-	-	15:op5
 XI_1	11	-	-	-	-	-	-	15:op6
 SOrya_1	12	-	-	-	-	-	-	15:op7
 wanu_1	13	-	-	-	-	-	-	15:op8
-[द्वन्द्वः_2]	15	-	-	-	-	-	-	16:mod
+[xvanxvaH_2]	15	-	-	-	-	-	-	16:mod
 mArxava_1	14	-	pl	-	-	-	-	16:head
 [6-tat_1]	16	-	-	17:rh	-	-	-	-
 anu_grah_1-awi_1	17	-	-	0:main	-	-	-	-
@@ -4619,7 +4619,7 @@ snigXawva_1	3	-	-	-	-	-	-	8:op2
 sanXi_1	4	-	-	-	-	-	-	8:op3
 banXa_1	5	-	-	-	-	-	-	8:op4
 kRamA_1	6	-	-	-	-	-	-	8:op5
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:comp1
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:comp1
 Axi_1	7	-	pl	-	-	-	-	9:comp2
 [6-bahu_1]	9	-	-	10:rh	-	-	-	-
 anu_grah_1-awi_1	10	-	-	0:main	-	-	-	-
@@ -4634,7 +4634,7 @@ lepa_1	3	-	-	-	-	-	-	9:समुच्चितः
 sneha_1	4	-	-	-	-	-	-	9:समुच्चितः
 XAraNa_1	5	-	-	-	-	-	-	7:op1
 pUraNa_1	6	-	dl	-	-	-	-	7:op2
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	-
+[xvanxvaH_1]	7	-	-	-	-	-	-	-
 garBa_1	8	-	-	-	-	-	-	10:mod
 uwpAxa_1	9	-	-	-	-	-	-	10:head
 [6-tat_1]	10	-	-	15:k2	-	-	-	-
@@ -4670,25 +4670,25 @@ anila_1	3	-	-	2:k1	-	-	-	-
 kArSya_1	4	-	-	-	-	-	-	12:op1
 kArRNya_1	5	-	-	-	-	-	-	12:op2
 uRNa_1	6	-	-	-	-	-	-	12:op3
-[द्वन्द्वः_1]	12	-	-	-	-	-	-	14:mod
+[xvanxvaH_1]	12	-	-	-	-	-	-	14:mod
 kAma_1	7	-	-	-	-	-	-	14:head
 [upa-tat_1]	14	-	-	-	-	-	-	13:op1
 kampa_1	8	-	-	-	-	-	-	13:op2
 anAha_1	9	-	-	-	-	-	-	13:op3
 Sakqx_1	10	-	-	-	-	-	-	13:op4
-[द्वन्द्वः_2]	13	-	-	-	-	-	-	15:mod
+[xvanxvaH_2]	13	-	-	-	-	-	-	15:mod
 graha_1	11	-	pl	-	-	-	-	15:head
 [6-tat_1]	15	-	-	-	-	-	-	22:समुच्चितः
 bala_1	16	-	-	-	-	-	-	23:op1
 nixrA_1	17	-	-	-	-	-	-	23:op2
 inxriya_1	18	-	-	-	-	-	-	23:op3
-[द्वन्द्वः_3]	23	-	-	-	-	-	-	25:mod
+[xvanxvaH_3]	23	-	-	-	-	-	-	25:mod
 BraMSa_1	19	-	-	-	-	-	-	25:head
 [6-tat_2]	25	-	-	-	-	-	-	24:op1
 pralApa_1	20	-	-	-	-	-	-	24:op2
 Brama_1	21	-	-	-	-	-	-	24:op3
 xInawA_1	22	-	pl	-	-	-	-	24:op4
-[द्वन्द्वः_4]	24	-	-	2:k2	-	-	-	-
+[xvanxvaH_4]	24	-	-	2:k2	-	-	-	-
 %affirmative
 </sent_id>
 
@@ -4704,7 +4704,7 @@ kRuw_1	6	-	-	-	-	-	-	11:op5
 wqt_1	7	-	-	-	-	-	-	11:op6
 xAha_1	8	-	-	-	-	-	-	11:op7
 alpa_1	9	-	-	-	-	-	-	11:op8
-[द्वन्द्वः_1]	11	-	-	-	-	-	-	13:mod
+[xvanxvaH_1]	11	-	-	-	-	-	-	13:mod
 nixrawA_1	10	-	-	-	-	-	-	13:head
 [karmaXAraya_2]	13	-	-	16:k2	-	-	-	-
 vqxXa_1	14	-	-	15:mod	-	-	-	-
@@ -4723,17 +4723,17 @@ saxana_1	4	-	-	-	-	-	-	9:head
 praseka_1	5	-	-	-	-	-	-	8:op2
 Alasya_1	6	-	-	-	-	-	-	8:op3
 gOrava_1	7	-	-	-	-	-	-	8:op4
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	-
+[xvanxvaH_1]	8	-	-	-	-	-	-	-
 SvEwya_1	10	-	-	-	-	-	-	14:op1
 SEwya_1	11	-	-	-	-	-	-	14:op2
 SlaWA_1	12	-	-	-	-	-	-	14:op3
-[द्वन्द्वः_2]	14	-	-	-	-	-	-	15:mod
+[xvanxvaH_2]	14	-	-	-	-	-	-	15:mod
 afga_1	13	-	-	-	-	-	-	15:head
 [compound_1]	15	-	-	-	-	-	-	19:समुच्चितः
 SvAsa_1	16	-	-	-	-	-	-	20:op1
 kAsa_1	17	-	-	-	-	-	-	20:op2
 awi_1	18	-	-	-	-	-	-	20:op3
-[द्वन्द्वः_3]	20	-	-	-	-	-	-	21:mod
+[xvanxvaH_3]	20	-	-	-	-	-	-	21:mod
 nixrawA_1	19	-	-	-	-	-	-	21:head
 [avyayIBAvaH_1]	21	-	-	22:k2	-	-	-	-
 kq_1	22	-	-	0:main	-	-	-	-
@@ -4756,27 +4756,27 @@ rakwa_1	2	-	-	27:k1	-	-	-	-
 visarpa_1	3	-	-	-	-	-	-	6:op1
 plIhan_1	4	-	-	-	-	-	-	6:op2
 vixraXi_1	5	-	pl	-	-	-	-	6:op3
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	-
+[xvanxvaH_1]	6	-	-	-	-	-	-	-
 kuRTa_1	7	-	-	-	-	-	-	13:op1
 vAwa_1	8	-	-	-	-	-	-	13:op2
 piwwa_1	9	-	-	-	-	-	-	13:op3
 gulmA_1	10	-	-	-	-	-	-	13:op4
 upakuSa_1	11	-	-	-	-	-	-	13:op5
 kAmalA_1	12	-	pl	-	-	-	-	13:op6
-[द्वन्द्वः_2]	13	-	-	-	-	-	-	-
+[xvanxvaH_2]	13	-	-	-	-	-	-	-
 vyafga_1	14	-	-	-	-	-	-	22:op1
 agni_1	15	-	-	-	-	-	-	22:op2
-[द्वन्द्वः_3]	22	-	-	-	-	-	-	25:mod
+[xvanxvaH_3]	22	-	-	-	-	-	-	25:mod
 nASa_1	16	-	-	-	-	-	-	25:head
 [6-tat_1]	25	-	-	-	-	-	-	23:op1
 sammoha_1	17	-	-	-	-	-	-	23:op2
 rakwa_1	18	-	-	-	-	-	-	23:op3
-[द्वन्द्वः_4]	23	-	-	-	-	-	-	26:mod
+[xvanxvaH_4]	23	-	-	-	-	-	-	26:mod
 wvac_1	19	-	-	-	-	-	-	26:head
 [karmaXAraya_1]	26	-	-	-	-	-	-	24:op1
 newra_1	20	-	-	-	-	-	-	24:op2
 mUwra_1	21	-	pl	-	-	-	-	24:op3
-[द्वन्द्वः_5]	24	-	-	27:k2	-	-	-	-
+[xvanxvaH_5]	24	-	-	27:k2	-	-	-	-
 kq_1	27	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -4791,7 +4791,7 @@ granWi_1	5	-	-	-	-	-	-	10:op3
 gaNda_1	6	-	-	-	-	-	-	10:op4
 Uru_1	7	-	-	-	-	-	-	10:op5
 uxara_1	8	-	-	-	-	-	-	10:op6
-[द्वन्द्वः_1]	10	-	-	-	-	-	-	11:mod
+[xvanxvaH_1]	10	-	-	-	-	-	-	11:mod
 vqxXi_1	9	-	pl	-	-	-	-	11:head
 [6-tat_1]	11	-	-	12:k2	-	-	-	-
 kq_1	12	-	-	0:main	-	-	-	-
@@ -4821,7 +4821,7 @@ sPik_1	3	-	-	-	-	-	-	8:mod
 swana_1	4	-	-	-	-	-	-	8:head
 [6-tat_1]	8	-	-	-	-	-	-	7:op1
 uxara_1	5	-	-	-	-	-	-	7:op2
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	9:mod
+[xvanxvaH_1]	7	-	-	-	-	-	-	9:mod
 sPikswanoxaralambana_1	6	-	-	-	-	-	-	9:head
 [6-tat_2]	9	-	-	-	-	-	-	2:समुच्चितः
 kq_1	10	-	-	0:main	-	-	-	-
@@ -4908,7 +4908,7 @@ svexa_1	2	-	-	-	-	-	-	6:head
 [prAxiwawpuruRaH_1]	6	-	-	-	-	-	-	5:op1
 xOrganXya_1	3	-	-	-	-	-	-	5:op2
 kaNdu_1	4	-	pl	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	7:k2	-	-	-	-
+[xvanxvaH_1]	5	-	-	7:k2	-	-	-	-
 kq_1-yAw_1	7	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -4937,7 +4937,7 @@ sAxa_1	5	-	-	1:mod	-	-	-	-
 alpa_1	6	-	-	8:krvn	-	-	-	-
 BARiwa_1	7	-	-	-	-	-	-	9:op1
 Ihiwa_1	8	-	-	-	-	-	-	9:op2
-[द्वन्द्वः_1]	9	-	-	1:k1s	-	-	-	-
+[xvanxvaH_1]	9	-	-	1:k1s	-	-	-	-
 BU_1-awi_1	10	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -5011,11 +5011,11 @@ amla_1	1	-	-	-	-	-	-	7:op1
 SiSira_1	2	-	-	-	-	-	-	7:op2
 prIwi_1	3	-	-	-	-	-	-	7:op3
 SirA_1	4	-	-	-	-	-	-	7:op4
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	9:mod
+[xvanxvaH_1]	7	-	-	-	-	-	-	9:mod
 SEWilya_1	5	-	-	-	-	-	-	9:head
 [6-tat_1]	9	-	-	-	-	-	-	8:op1
 rUkRa_1	6	-	pl	-	-	-	-	8:op2
-[द्वन्द्वः_2]	8	-	-	10:k1	-	-	-	-
+[xvanxvaH_2]	8	-	-	10:k1	-	-	-	-
 as_1-awi_1	10	-	pl	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -5027,11 +5027,11 @@ galA_1	2	-	-	-	-	-	-	10:head
 [6-tat_1]	10	-	-	-	-	-	-	8:op1
 nigaNda_1	3	-	-	-	-	-	-	8:op2
 sPic_1	4	-	-	-	-	-	-	8:op3
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	11:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	11:mod
 SuRkawA_1	5	-	-	-	-	-	-	11:head
 [6-tat_2]	11	-	-	-	-	-	-	9:op1
 sanXi_1	6	-	-	-	-	-	-	9:op2
-[द्वन्द्वः_2]	9	-	-	-	-	-	-	12:mod
+[xvanxvaH_2]	9	-	-	-	-	-	-	12:mod
 vexanA_1	7	-	pl	-	-	-	-	12:head
 [6-tat_3]	12	-	-	13:k1	-	-	-	-
 as_1-yAw_1	13	-	pl	0:main	-	-	-	-
@@ -5059,7 +5059,7 @@ Saxana_1	3	-	-	2:rpk	-	-	-	-
 xanwa_1	4	-	-	-	-	-	-	8:op1
 keSa_1	5	-	-	-	-	-	-	8:op2
 naKa_1	6	-	-	-	-	-	-	8:op3
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:mod
 Axi_1	7	-	pl	-	-	-	-	9:head
 [6-tat_1]	9	-	-	3:k7p	-	-	-	-
 %affirmative
@@ -5157,7 +5157,7 @@ lakR_1-yAw_1	8	-	-	0:main	-	-	-	-
 kRaya_1	9	-	-	8:k2	-	-	-	-
 sva_1	10	-	-	-	-	-	-	17:op1
 mala_1	11	-	-	-	-	-	-	17:op2
-[द्वन्द्वः_1]	17	-	-	-	-	-	-	19:mod
+[xvanxvaH_1]	17	-	-	-	-	-	-	19:mod
 ayana_1	12	-	-	-	-	-	-	19:head
 [6-tat_1]	19	-	-	-	-	-	-	20:mod
 saMSoRa_1	13	-	-	-	-	-	-	20:head
@@ -5165,7 +5165,7 @@ saMSoRa_1	13	-	-	-	-	-	-	20:head
 woxa_1	14	-	-	-	-	-	-	18:op2
 SUnya_1	15	-	-	-	-	-	-	18:op3
 lAGava_1	16	-	pl	-	-	-	-	18:op4
-[द्वन्द्वः_2]	18	-	-	8:k3	-	-	-	-
+[xvanxvaH_2]	18	-	-	8:k3	-	-	-	-
 %affirmative
 </sent_id>
 
@@ -5178,7 +5178,7 @@ sva_1	3	-	-	-	-	-	-	4:head
 vix_1-yAw_1	5	-	-	0:main	-	-	-	-
 vqxXi_1	6	-	-	-	-	-	-	8:op1
 kRaya_1	7	-	dl	-	-	-	-	8:op2
-[द्वन्द्वः_1]	8	-	-	5:k2	-	-	-	-
+[xvanxvaH_1]	8	-	-	5:k2	-	-	-	-
 BiRaj_1	9	-	-	5:krvn	-	-	-	-
 kRaya_1	10	-	-	12:rh	-	-	-	-
 viparIwa_1	11	-	pl	12:mod	-	-	-	-
@@ -5222,7 +5222,7 @@ vAyu_1	3	-	-	2:k1	-	-	-	-
 piwwa_1	4	-	-	8:कर्ता_बे_वेर्ब्स्	-	wu_1	-	-
 svexa_1	5	-	-	-	-	-	-	7:op1
 rakwa_1	6	-	dl	-	-	-	-	7:op2
-[द्वन्द्वः_1]	7	-	-	8:k7p	-	-	-	-
+[xvanxvaH_1]	7	-	-	8:k7p	-	-	-	-
 BU_1-awi_1	8	-	-	0:main	-	-	-	-
 SleRman_1	9	-	-	11:k1	-	-	-	-
 SeRa_1	10	-	pl	11:k7p	-	-	-	-
@@ -5231,24 +5231,24 @@ $wyax	12	-	-	11:rh	-	distal	-	-
 $wyax	13	-	pl	15:mod	-	proximal	-	-
 ASraya_1	14	-	-	-	-	-	-	16:op1
 ASrayin_1	15	-	pl	-	-	-	-	16:op2
-[द्वन्द्वः_2]	16	-	-	17:r6	-	-	-	-
+[xvanxvaH_2]	16	-	-	17:r6	-	-	-	-
 miWaH_1	17	-	-	11:krvn	-	-	-	-
 %affirmative
 </sent_id>
 
 <sent_id=11_026-029_2>
 #-एकस्य तत् अन्यस्य वर्धन-क्षपण-औषधम् अस्थि-मारुतयोः न (भवति) एवं प्रायः वृद्धिः हि तर्पणात् (भवति) (भवति)
-1_1	2	-	-	1:r6	-	-	-	-
+1	2	-	-	1:r6	-	-	-	-
 $wyax	3	-	-	7:mod	-	distal	-	-
 anya_1	4	-	-	3:r6	-	-	-	-
 varXana_1	5	-	-	-	-	-	-	8:op1
 kRapaNa_1	6	-	-	-	-	-	-	8:op2
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:mod
 ORaXa_1	7	-	-	-	-	-	-	9:head
 [6-tat_1]	9	-	-	19:k1	-	-	-	-
 asWi_1	10	-	-	-	-	-	-	12:op1
 mAruwA_1	11	-	dl	-	-	evam_1	-	12:op2
-[द्वन्द्वः_2]	12	-	-	14:k7p	-	-	-	-
+[xvanxvaH_2]	12	-	-	14:k7p	-	-	-	-
 na_1	13	-	-	14:neg	-	-	-	-
 BU_1-awi_1	14	-	-	0:main	-	-	-	-
 prAyaH_1	15	-	-	18:krvn	-	-	-	-
@@ -5272,7 +5272,7 @@ anugawa_1	8	-	-	15:krvn	-	-	-	-
 $wyax	9	-	-	15:rh	-	proximal/ca_1	-	-
 vqxXi_1	10	-	-	-	-	-	-	13:op1
 kRaya_1	11	-	-	-	-	-	-	13:op2
-[द्वन्द्वः_1]	13	-	-	-	-	-	-	14:mod
+[xvanxvaH_1]	13	-	-	-	-	-	-	14:mod
 samuxBava_1	12	-	pl	-	-	-	-	14:head
 [5-tat_1]	14	-	-	15:k2	-	-	-	-
 RiX_1-yAw_1	15	-	-	0:main	-	-	-	-
@@ -5287,7 +5287,7 @@ SIGram_1	3	-	-	2:krvn	-	-	-	-
 krama_1	4	-	-	2:rh	-	-	-	-
 lafGana_1	5	-	-	-	-	-	-	7:op1
 bqMhaNa_1	6	-	pl	-	-	-	-	7:op2
-[द्वन्द्वः_1]	7	-	-	2:rh	-	-	-	-
+[xvanxvaH_1]	7	-	-	2:rh	-	-	-	-
 vAyu_1	8	-	-	11:r6	-	-	-	-
 anyawra_1	9	-	-	2:k7p	-	-	-	-
 waw_1	10	-	-	-	-	-	-	12:mod
@@ -5310,7 +5310,7 @@ rakwa_1	7	-	-	-	-	-	-	11:mod
 sruwi_1	8	-	-	-	-	-	-	11:head
 [6-tat_2]	11	-	-	-	-	-	-	10:op1
 virecana_1	9	-	pl	-	-	-	-	10:op2
-[द्वन्द्वः_1]	10	-	-	12:k3	-	-	-	-
+[xvanxvaH_1]	10	-	-	12:k3	-	-	-	-
 upa-kram_1	12	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -5326,7 +5326,7 @@ roga_1	6	-	pl	13:k2	-	-	-	-
 Saswra_1	7	-	-	-	-	-	-	11:op1
 kRAra_1	8	-	-	-	-	-	-	11:op2
 agni_1	9	-	-	-	-	-	-	11:op3
-[द्वन्द्वः_1]	11	-	-	-	-	-	-	12:mod
+[xvanxvaH_1]	11	-	-	-	-	-	-	12:mod
 karman_1	10	-	pl	-	-	-	-	12:head
 [6-tat_2]	12	-	-	13:k3	-	-	-	-
 upa-kram_1	13	-	-	0:main	-	-	-	-
@@ -5337,7 +5337,7 @@ upa-kram_1	13	-	-	0:main	-	-	-	-
 #स्थौल्य-कार्श्य-उपचारेण मेदो जान् (उपक्रमेत) .
 sWOlya_1	1	-	-	-	-	-	-	4:op1
 kArSya_1	2	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	5:mod
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:mod
 upacAra_1	3	-	-	-	-	-	-	5:head
 [6-tat_1]	5	-	-	9:k3	-	-	-	-
 mexo_1	6	-	-	-	-	-	-	8:mod
@@ -5355,7 +5355,7 @@ safkRaya_1	2	-	-	-	-	-	-	3:head
 jAwa_1	4	-	pl	12:k2	-	-	-	-
 kRIra_1	5	-	-	-	-	-	-	7:op1
 Gqwa_1	6	-	pl	-	-	-	-	7:op2
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	-
+[xvanxvaH_1]	7	-	-	-	-	-	-	-
 wikwa_1	8	-	-	-	-	-	-	10:mod
 saMyuwa_1	9	-	pl	-	-	-	-	10:head
 [wqwIya-wawpuruRaH_1]	10	-	-	11:mod	-	-	-	-
@@ -5387,13 +5387,13 @@ uxBava_1	3	-	pl	-	-	-	-	5:head
 [upa-tat_1]	5	-	-	19:k2	-	-	-	-
 meRa_1	6	-	-	-	-	-	-	14:op1
 aja_1	7	-	-	-	-	-	-	14:op2
-[द्वन्द्वः_1]	14	-	-	-	-	-	-	16:mod
+[xvanxvaH_1]	14	-	-	-	-	-	-	16:mod
 maXya_1	8	-	-	-	-	-	-	16:head
 [6-tat_2]	16	-	-	-	-	-	-	15:op1
 kulmARa_1	9	-	-	-	-	-	-	15:op2
 yava_1	10	-	-	-	-	-	-	15:op3
 mARa_1	11	-	-	-	-	-	-	15:op4
-[द्वन्द्वः_2]	15	-	-	-	-	-	-	17:mod
+[xvanxvaH_2]	15	-	-	-	-	-	-	17:mod
 xvaya_1	12	-	-	-	-	-	-	17:head
 [6-tat_3]	17	-	-	-	-	-	-	18:comp1
 Axi_1	13	-	pl	-	-	-	-	18:comp2
@@ -5408,12 +5408,12 @@ mUwra_1	1	-	-	-	-	-	-	6:mod
 vqxXi_1	2	-	-	-	-	-	-	6:head
 [6-tat_1]	6	-	-	-	-	-	-	5:op1
 kRaya_1	3	-	-	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	7:mod
+[xvanxvaH_1]	5	-	-	-	-	-	-	7:mod
 uwWa_1	4	-	pl	-	-	-	-	7:head
 [upa-tat_1]	7	-	-	13:k2	-	-	-	-
 meha_1	8	-	-	-	-	-	-	11:op1
 kqcCra_1	9	-	-	-	-	-	-	11:op2
-[द्वन्द्वः_2]	11	-	-	-	-	-	-	12:mod
+[xvanxvaH_2]	11	-	-	-	-	-	-	12:mod
 cikiwsA_1	10	-	-	-	-	-	-	12:head
 [6-tat_2]	12	-	-	13:k3	-	-	-	-
 upa-kram_1	13	-	-	0:main	-	-	-	-
@@ -5426,7 +5426,7 @@ vyAyAma_1	1	-	-	-	-	-	-	5:op1
 aByaFjana_1	2	-	-	-	-	-	-	5:op2
 svexa_1	3	-	-	-	-	-	-	5:op3
 maxya_1	4	-	pl	-	-	-	-	5:op4
-[द्वन्द्वः_1]	5	-	-	11:k3	-	-	-	-
+[xvanxvaH_1]	5	-	-	11:k3	-	-	-	-
 svexa_1	6	-	-	-	-	-	-	9:mod
 kRaya_1	7	-	-	-	-	-	-	9:head
 [6-tat_1]	9	-	-	-	-	-	-	10:mod
@@ -5457,14 +5457,14 @@ saMSriwa_1	11	-	pl	0:main	-	-	-	-
 $wyax	1	-	pl	4:r6	-	distal	-	-
 sAxa_1	2	-	-	-	-	-	-	5:op1
 awi_1	3	-	-	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:mod
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:mod
 xIpwi_1	4	-	dl	-	-	-	-	6:head
 [avyayIBAvaH_1]	6	-	-	10:rh	-	-	-	-
 XAwu_1	7	-	-	-	-	-	-	12:mod
 vqxXi_1	8	-	-	-	-	-	-	12:head
 [6-tat_1]	12	-	-	-	-	-	-	11:op1
 kRaya_1	9	-	-	-	-	-	-	11:op2
-[द्वन्द्वः_2]	11	-	-	-	-	-	-	13:mod
+[xvanxvaH_2]	11	-	-	-	-	-	-	13:mod
 uxBava_1	10	-	-	-	-	-	-	13:head
 [upa-tat_1]	13	-	-	0:main	-	-	-	-
 %affirmative
@@ -5504,10 +5504,10 @@ xuR_1-awi_1	8	-	causative	0:main	-	-	-	-
 <sent_id=11_035_2-036_2>
 #अधः द्वे (मलायने) (स्तः) सप्त शिरसि (मलायनानि) (सन्ति) खानि स्वेद-वहानि च (मलायनानि) (सन्ति) मलाः मलायनानि (दूषयन्ति) .
 aXaH_1	1	-	-	4:k7p	-	-	-	-
-2_1	2	-	dl	3:mod	-	-	-	-
+2	2	-	dl	3:mod	-	-	-	-
 malAyana_1	3	-	dl	4:k1	-	-	-	-
 as_1-awi_1	4	-	dl	0:main	-	-	-	-
-7_1	5	-	pl	7:mod	-	-	-	-
+7	5	-	pl	7:mod	-	-	-	-
 Siras_1	6	-	-	8:k7p	-	-	-	-
 malAyana_1	7	-	pl	8:k1	-	-	-	-
 as_1-awi_1	8	-	pl	0:main	-	-	-	-
@@ -5571,7 +5571,7 @@ IRaw_1	3	-	-	-	-	-	-	7:mod
 lohiwa_1	4	-	-	-	-	-	-	7:head
 [karmaXAraya_1]	7	-	-	-	-	-	-	6:op1
 pIwaka_1	5	-	-	-	-	-	-	6:op2
-[द्वन्द्वः_1]	6	-	-	8:k1	-	-	-	-
+[xvanxvaH_1]	6	-	-	8:k1	-	-	-	-
 as_1-awi_1	8	-	-	0:main	-	-	-	-
 yaw_1	9	-	-	-	-	-	-	11:mod
 nASa_1	10	-	-	-	-	-	-	11:head
@@ -5597,7 +5597,7 @@ kRuw_1	3	-	-	-	-	-	-	8:op2
 XyAna_1	4	-	-	-	-	-	-	8:op3
 Soka_1	5	-	-	-	-	-	-	8:op4
 Srama_1	6	-	-	-	-	-	-	8:op5
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:comp1
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:comp1
 Axi_1	7	-	pl	-	-	-	-	9:comp2
 [bahu_1]	9	-	-	1:rh	-	-	-	-
 %pass_affirmative
@@ -5627,7 +5627,7 @@ kRaya_1	14	-	-	-	-	-	-	15:head
 ORaXa_1	1	-	-	-	-	-	-	4:op1
 kRIra_1	2	-	-	-	-	-	-	4:op2
 rasa_1	3	-	-	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	5:mod	-	-	-	-
+[xvanxvaH_1]	4	-	-	5:mod	-	-	-	-
 Axi_1	5	-	-	8:k1s	-	-	-	-
 wawra_1	6	-	-	8:k7p	-	-	-	-
 BeRaja_1	7	-	-	8:k1	-	-	-	-
@@ -5642,7 +5642,7 @@ xeha_1	2	-	-	1:r6	-	-	-	-
 wuRti_1	3	-	-	-	-	-	-	7:op1
 puRti_1	4	-	-	-	-	-	-	7:op2
 bala_1	5	-	-	-	-	-	-	7:op3
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	8:mod
+[xvanxvaH_1]	7	-	-	-	-	-	-	8:mod
 uxaya_1	6	-	-	-	-	-	-	8:head
 [6-tat_1]	8	-	-	9:k1	-	-	-	-
 BU_1-awi_1	9	-	-	0:main	-	hi_1	-	-
@@ -5664,7 +5664,7 @@ $wyax	10	-	dl	11:k4	-	distal	-	-
 $wyax	11	-	dl	15:mod	-	distal	-	-
 vqxXi_1	12	-	-	-	-	-	-	14:op1
 kRaya_1	13	-	dl	-	-	-	-	14:op2
-[द्वन्द्वः_1]	14	-	-	15:k2	-	-	-	-
+[xvanxvaH_1]	14	-	-	15:k2	-	-	-	-
 ji_1-yAw_1	15	-	-	0:main	-	-	-	-
 manuRya_1	16	-	-	15:k1	-	-	-	-
 %affirmative
@@ -5676,7 +5676,7 @@ ruci_1	2	-	-	1:k2	-	-	-	-
 xoRa_1	3	-	pl	1:k1	-	-	-	-
 viparIwa_1	4	-	-	-	-	-	-	6:op1
 samAnA_1	5	-	dl	-	-	-	-	6:op2
-[द्वन्द्वः_1]	6	-	-	2:r6	-	-	-	-
+[xvanxvaH_1]	6	-	-	2:r6	-	-	-	-
 vqxXa_1	7	-	pl	11:mod	-	-	-	-
 kRINA_1	8	-	pl	11:mod	-	ca_1	-	-
 BUyiRTa_1	9	-	-	10:k2	-	-	-	-
@@ -5757,7 +5757,7 @@ Srowra_1	5	-	-	-	-	-	-	9:op4
 asWi_1	6	-	-	-	-	-	-	9:op5
 sparSana_1	7	-	-	-	-	-	-	9:op6
 inxriya_1	8	-	-	-	-	-	-	9:op7
-[द्वन्द्वः_1]	9	-	-	11:k1	-	-	-	-
+[xvanxvaH_1]	9	-	-	11:k1	-	-	-	-
 BU_1-awi_1	11	-	-	0:main	-	-	-	-
 sWAna_1	12	-	-	11:k1s	-	-	-	-
 vAwa_1	13	-	-	12:r6	-	-	-	-
@@ -5797,7 +5797,7 @@ kaNTa_1	2	-	-	-	-	-	-	6:op2
 SiraH_1	3	-	-	-	-	-	-	6:op3
 kloma_1	4	-	-	-	-	-	-	6:op4
 parvan_1	5	-	pl	-	-	-	-	6:op5
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	-
+[xvanxvaH_1]	6	-	-	-	-	-	-	-
 AmASaya_1	7	-	-	-	-	-	-	13:घटकः
 rasa_1	8	-	-	-	-	-	-	13:घटकः
 mexa_1	9	-	-	-	-	-	-	13:घटकः
@@ -5837,14 +5837,14 @@ mUrXaga_1	4	-	-	-	-	-	-	5:head
 BU_1-awi_1	6	-	-	0:main	-	-	-	-
 uras_1	7	-	-	-	-	-	-	10:op1
 kaNTa_1	8	-	-	-	-	-	-	10:op2
-[द्वन्द्वः_1]	10	-	-	-	-	-	-	11:mod
+[xvanxvaH_1]	10	-	-	-	-	-	-	11:mod
 cara_1	9	-	-	-	-	-	-	11:head
 [upa-tat_1]	11	-	-	1:k1s	-	-	-	-
 buxXi_1	12	-	-	-	-	-	-	17:op1
 hqxaya_1	13	-	-	-	-	-	-	17:op2
 inxriya_1	14	-	-	-	-	-	-	17:op3
 ciw_1	15	-	-	-	-	-	-	17:op4
-[द्वन्द्वः_2]	17	-	-	-	-	-	-	18:mod
+[xvanxvaH_2]	17	-	-	-	-	-	-	18:mod
 Xqk_1	16	-	-	-	-	-	-	18:head
 [upa-tat_2]	18	-	-	1:k1s	-	-	-	-
 RTIvana_1	19	-	-	-	-	-	-	26:op1
@@ -5852,7 +5852,7 @@ kRavaWu_1	20	-	-	-	-	-	-	26:op2
 uxgAra_1	21	-	-	-	-	-	-	26:op3
 niHSvAsa_1	22	-	-	-	-	-	-	26:op4
 anna_1	23	-	-	-	-	-	-	26:op5
-[द्वन्द्वः_3]	26	-	-	-	-	-	-	27:mod
+[xvanxvaH_3]	26	-	-	-	-	-	-	27:mod
 praveSa_1	24	-	-	-	-	-	-	27:head
 [6-tat_1]	27	-	-	-	-	-	-	28:mod
 kqw_1	25	-	-	-	-	-	-	28:head
@@ -5868,7 +5868,7 @@ uxAna_1	3	-	-	1:r6	-	-	-	-
 nAsA_1	4	-	-	-	-	-	-	7:op1
 nABi_1	5	-	-	-	-	-	-	7:op2
 gala_1	6	-	pl	-	-	-	-	7:op3
-[द्वन्द्वः_1]	7	-	-	8:k2	-	-	-	-
+[xvanxvaH_1]	7	-	-	8:k2	-	-	-	-
 car_1-yAw_1	8	-	-	0:main	-	-	-	-
 vAc_1	9	-	-	-	-	-	-	18:mod
 pravqwwi_1	10	-	-	-	-	-	-	18:head
@@ -5878,7 +5878,7 @@ UrjA_1	12	-	-	-	-	-	-	17:op3
 bala_1	13	-	-	-	-	-	-	17:op4
 varNa_1	14	-	-	-	-	-	-	17:op5
 smqwi_1	15	-	-	-	-	-	-	17:op6
-[द्वन्द्वः_2]	17	-	-	-	-	-	-	19:mod
+[xvanxvaH_2]	17	-	-	-	-	-	-	19:mod
 kriya_1	16	-	-	-	-	-	-	19:head
 [upa-tat_1]	19	-	-	21:k1s	-	-	-	-
 BU_1-awi_1	20	-	-	0:main	-	-	-	-
@@ -5908,7 +5908,7 @@ apakRepaNa_1	2	-	-	-	-	-	-	7:op2
 uwakRepa_1	3	-	-	-	-	-	-	7:op3
 nimeSa_1	4	-	-	-	-	-	-	7:op4
 unmeRaNa_1	5	-	-	-	-	-	-	7:op5
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	8:comp1
+[xvanxvaH_1]	7	-	-	-	-	-	-	8:comp1
 AxikA_1	6	-	pl	-	-	-	-	8:comp2
 [bahu_1]	8	-	-	11:mod	-	-	-	-
 prAyaH_1	9	-	-	14:krvn	-	-	-	-
@@ -5950,7 +5950,7 @@ SroNi_1	5	-	-	-	-	-	-	10:op1
 baswi_1	6	-	-	-	-	-	-	10:op2
 meDra_1	7	-	-	-	-	-	-	10:op3
 urU_1	8	-	-	-	-	-	-	10:op4
-[द्वन्द्वः_1]	10	-	-	-	-	-	-	11:mod
+[xvanxvaH_1]	10	-	-	-	-	-	-	11:mod
 gocara_1	9	-	-	-	-	-	-	11:head
 [6-tat_1]	11	-	-	1:k1s	-	-	-	-
 BU_1-awi_1	12	-	-	0:main	-	-	-	-
@@ -5964,7 +5964,7 @@ Arwava_1	2	-	-	-	-	-	-	8:op2
 Sakqw_1	3	-	-	-	-	-	-	8:op3
 mUwra_1	4	-	-	-	-	-	-	8:op4
 garBa_1	5	-	-	-	-	-	-	8:op5
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:mod
 niRkramaNa_1	6	-	-	-	-	-	-	9:head
 [6-tat_1]	9	-	-	-	-	-	-	10:mod
 kriya_1	7	-	-	-	-	-	-	10:head
@@ -5993,7 +5993,7 @@ Awmaka_1	3	-	-	-	-	-	-	4:head
 piwwa_1	5	-	-	14:k7p	-	-	-	-
 pakva_1	6	-	-	-	-	-	-	10:op1
 AmASaya_1	7	-	-	-	-	-	-	10:op2
-[द्वन्द्वः_1]	10	-	-	-	-	-	-	11:mod
+[xvanxvaH_1]	10	-	-	-	-	-	-	11:mod
 maXya_1	8	-	-	-	-	-	-	11:head
 [6-tat_1]	11	-	-	-	-	-	-	12:mod
 maXyaga_1	9	-	-	-	-	-	-	12:head
@@ -6047,7 +6047,7 @@ anna_1	2	-	-	1:k2	-	-	-	-
 vi_Baj_1	3	-	-	0:main	-	-	-	-
 sAra_1	4	-	-	-	-	-	-	6:op1
 kitta_1	5	-	dl	-	-	-	-	6:op2
-[द्वन्द्वः_1]	6	-	-	3:k2	-	-	-	-
+[xvanxvaH_1]	6	-	-	3:k2	-	-	-	-
 pqWak_1	7	-	-	3:krvn	-	waWA_1	-	-
 %affirmative
 </sent_id>
@@ -6089,7 +6089,7 @@ brU_1-ya_we_1	9	-	-	0:main	-	-	-	-
 buxXi_1	1	-	-	-	-	-	-	5:op1
 meXA_1	2	-	-	-	-	-	-	5:op2
 aBimAna_1	3	-	-	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:comp1
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:comp1
 Axya_1	4	-	pl	-	-	-	-	6:comp2
 [bahu_1]	6	-	-	15:rh	-	-	-	-
 aBiprewa_1	7	-	-	-	-	-	-	10:mod
@@ -6361,7 +6361,7 @@ BU_1-awi_1	6	-	-	-	-	-	-	16:समुच्चितः
 praxveRa_1	7	-	-	-	-	-	-	13:समुच्चितः
 vqxXi_1	8	-	-	-	-	-	-	10:op1
 hewu_1	9	-	pl	-	-	-	-	10:op2
-[द्वन्द्वः_1]	10	-	-	16:k7p	-	-	-	-
+[xvanxvaH_1]	10	-	-	16:k7p	-	-	-	-
 viparIwa_1	11	-	-	-	-	-	-	14:mod
 guNa_1	12	-	-	-	-	-	-	14:head
 [karmaXAraya_1]	14	-	-	-	-	-	-	15:mod
@@ -6412,12 +6412,12 @@ lakRaNa_1	21	-	-	19:k1	-	-	-	-
 caya_1	1	-	-	-	-	-	-	4:op1
 prakopa_1	2	-	-	-	-	-	-	4:op2
 Sama_1	3	-	pl	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	10:k1	-	-	-	-
+[xvanxvaH_1]	4	-	-	10:k1	-	-	-	-
 vAyu_1	5	-	-	10:k5	-	-	-	-
 grIRma_1	6	-	-	-	-	-	-	8:comp1
 grIRmAxi_1	7	-	-	-	-	-	-	8:comp2
 [bahu_1]	8	-	-	10:k7p	-	-	-	-
-3_1	9	-	pl	7:mod	-	-	-	-
+3	9	-	pl	7:mod	-	-	-	-
 jan_1	10	-	pl	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -6427,23 +6427,23 @@ jan_1	10	-	pl	0:main	-	-	-	-
 varRA_1	1	-	-	-	-	-	-	3:comp1
 varRAxi_1	2	-	pl	-	-	-	-	3:comp2
 [bahu_1]	3	-	-	6:k7t	-	-	-	-
-3_1	4	-	pl	2:mod	-	-	-	-
+3	4	-	pl	2:mod	-	-	-	-
 piwwa_1	5	-	-	15:r6	-	-	-	-
 jan_1-ya_we_1	6	-	pl	0:main	-	-	-	-
 SleRman_1	7	-	-	15:r6	-	-	-	-
 SiSira_1	8	-	-	-	-	-	-	10:comp1
 Axi_1	9	-	pl	-	-	-	-	10:comp2
 [bahu_2]	10	-	-	12:k7t	-	-	-	-
-3_1	11	-	pl	9:mod	-	-	-	-
+3	11	-	pl	9:mod	-	-	-	-
 jan_1-ya_we_1	12	-	pl	0:main	-	-	-	-
 caya_1	13	-	-	-	-	-	-	16:op1
 prakopa_1	14	-	-	-	-	-	-	16:op2
 Sama_1	15	-	pl	-	-	-	-	16:op3
-[द्वन्द्वः_1]	16	-	-	12:k1	-	-	-	-
+[xvanxvaH_1]	16	-	-	12:k1	-	-	-	-
 caya_1	17	-	-	-	-	-	-	20:op1
 prakopa_1	18	-	-	-	-	-	-	20:op2
 Sama_1	19	-	pl	-	-	-	-	20:op3
-[द्वन्द्वः_2]	20	-	-	6:k1	-	-	-	-
+[xvanxvaH_2]	20	-	-	6:k1	-	-	-	-
 %affirmative
 </sent_id>
 
@@ -6573,7 +6573,7 @@ $wyax	2	-	-	-	-	-	-	7:mod
 hewu_1	3	-	-	-	-	-	-	7:head
 [karmaXAraya_1]	7	-	-	-	-	-	-	6:op1
 Akqwi_1	4	-	-	-	-	-	-	6:op2
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	8:mod
+[xvanxvaH_1]	6	-	-	-	-	-	-	8:mod
 sAXana_1	5	-	-	-	-	-	-	8:head
 [6-tat_1]	8	-	-	12:k2s	-	-	-	-
 Sakya_1	9	-	-	12:k2	-	-	-	-
@@ -6618,7 +6618,7 @@ vikAra_1	3	-	-	-	-	-	-	5:mod
 vikArajAwa_1	4	-	-	-	-	-	-	5:head
 [upa-tat_1]	5	-	-	6:mod	-	-	-	-
 viviXa_1	6	-	-	10:k1	-	-	-	-
-3_1	7	-	pl	8:mod	-	-	-	-
+3	7	-	pl	8:mod	-	-	-	-
 guNa_1	8	-	pl	10:k2	-	-	-	-
 na_1	9	-	-	10:neg	-	-	-	-
 awi_vqw_1	10	-	-	0:main	-	yaWA_1	-	-
@@ -6638,7 +6638,7 @@ sarvaxA_1	8	-	-	15:k7t	-	-	-	-
 vikAra_1	9	-	-	-	-	-	-	11:mod
 vikArajAwa_1	10	-	-	-	-	-	-	11:head
 [5-tat_1]	11	-	-	4:k1s	-	-	-	-
-3_1	12	-	pl	13:mod	-	-	-	-
+3	12	-	pl	13:mod	-	-	-	-
 xoRa_1	13	-	pl	15:k2	-	-	-	-
 na_1	14	-	-	15:neg	-	-	-	-
 awi_vqw_1	15	-	-	0:main	-	waWA_1	-	-
@@ -6665,7 +6665,7 @@ xuRkqwa_1	10	-	-	9:mod	-	-	-	-
 hIna_1	1	-	-	-	-	-	-	5:op1
 awi_1	2	-	-	-	-	-	-	5:op2
 miWyA_1	3	-	-	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:mod
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:mod
 yoga_1	4	-	-	-	-	-	-	6:head
 [6-tat_1]	6	-	-	7:rh	-	-	-	-
 Bix_1-ya_we_1	7	-	-	0:main	-	punaH_1	-	-
@@ -6732,7 +6732,7 @@ as_1-awi_1	23	-	-	0:main	-	-	-	-
 #-एवम् अत्युच्च-पूति-आदीन् इन्द्रियार्थान् यथायथम् विद्यात् .
 awyucca_1	1	-	-	-	-	-	-	4:op1
 pUwi_1	2	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	5:comp1
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:comp1
 Axi_1	3	-	pl	-	-	-	-	5:comp2
 [bahu_1]	5	-	-	8:k2	-	-	-	-
 inxriyArWa_1	6	-	pl	3:k1s	-	-	-	-
@@ -6747,7 +6747,7 @@ kAla_1	1	-	-	9:k1s	-	wu_1	-	-
 SIwa_1	2	-	-	-	-	-	-	6:op1
 uRNa_1	3	-	-	-	-	-	-	6:op2
 varRA_1	4	-	-	-	-	-	-	6:op3
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	7:mod
+[xvanxvaH_1]	6	-	-	-	-	-	-	7:mod
 Bexa_1	5	-	-	-	-	-	-	7:head
 [6-tat_1]	7	-	-	9:rh	-	-	-	-
 wri_1	8	-	-	9:mod	-	-	-	-
@@ -6762,7 +6762,7 @@ $wyax	1	-	-	2:mod	-	distal	-	-
 hIna_1	2	-	-	8:k1	-	-	-	-
 hIna_1	3	-	-	-	-	-	-	6:op1
 SIwa_1	4	-	-	-	-	-	-	6:op2
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	7:mod
+[xvanxvaH_1]	6	-	-	-	-	-	-	7:mod
 Axi_1	5	-	-	-	-	-	-	7:head
 [6-tat_1]	7	-	-	2:k1s	-	-	-	-
 as_1-awi_1	8	-	-	0:main	-	-	-	-
@@ -6795,7 +6795,7 @@ kAya_1	1	-	-	-	-	-	-	5:op1
 vAk_1	2	-	-	-	-	-	-	5:op2
 ciwwa_1	3	-	-	-	-	-	-	5:op3
 Bexa_1	4	-	-	-	-	-	-	5:op4
-[द्वन्द्वः_1]	5	-	-	7:rh	-	-	-	-
+[xvanxvaH_1]	5	-	-	7:rh	-	-	-	-
 karman_1	6	-	-	7:k2	-	api_1	-	-
 vi_Baj_1-yAw_1	7	-	-	0:main	-	-	-	-
 wri_1	8	-	-	7:krvn	-	-	-	-
@@ -6833,20 +6833,20 @@ AramBa_1	10	-	-	-	-	-	-	15:head
 [6-tat_4]	15	-	-	-	-	-	-	13:op1
 pawana_1	11	-	-	-	-	-	-	13:op2
 sKalana_1	12	-	-	-	-	-	-	13:op3
-[द्वन्द्वः_1]	13	-	-	-	-	-	-	16:comp1
+[xvanxvaH_1]	13	-	-	-	-	-	-	16:comp1
 BARaNa_1	17	-	-	-	-	-	-	16:comp2
 [bahu_1]	16	-	-	-	-	-	-	29:घटकः
 sAmiBukwa[puM;6;eka]_1	18	-	-	17:षष्ठी-सम्बन्धः	-	-	-	-
 rAga_1	19	-	-	-	-	-	-	23:op1
 xveRa_1	20	-	-	-	-	-	-	23:op2
 Baya_1	21	-	-	-	-	-	-	23:op3
-[द्वन्द्वः_2]	23	-	-	-	-	-	-	24:comp1
+[xvanxvaH_2]	23	-	-	-	-	-	-	24:comp1
 Axi[napuM;1;eka]_1	22	-	-	-	-	-	-	24:comp2
 [bahu_2]	24	-	-	-	-	-	-	29:घटकः
 karman_1	25	-	-	31:k2	-	-	-	-
 prANAwi_1	26	-	-	-	-	-	-	28:op1
 Axi[napuM;1;eka]_1	27	-	-	-	-	-	-	28:op2
-[द्वन्द्वः_3]	28	-	-	-	-	-	-	-
+[xvanxvaH_3]	28	-	-	-	-	-	-	-
 xaSan_1	29	-	-	33:k1s	-	-	-	-
 yaw_1	30	-	-	25:mod	-	-	-	-
 ninxiwa_1	31	-	-	0:main	-	-	-	-
@@ -6884,7 +6884,7 @@ SAKA_1	4	-	-	-	-	-	-	8:op1
 koRTa_1	5	-	-	-	-	-	-	8:op2
 asWi_1	6	-	-	-	-	-	-	8:op3
 sanXi_1	7	-	pl	-	-	-	-	8:op4
-[द्वन्द्वः_1]	8	-	-	1:k7p	-	-	-	-
+[xvanxvaH_1]	8	-	-	1:k7p	-	-	-	-
 kupiwa_1	9	-	pl	1:k1	-	-	-	-
 %affirmative
 </sent_id>
@@ -6912,7 +6912,7 @@ nAma_1	18	-	-	-	-	-	-	23:head
 [avyayIBAvaH_1]	23	-	-	-	-	-	-	22:op1
 gulma_1	19	-	-	-	-	-	-	22:op2
 SoPa_1	20	-	-	-	-	-	-	22:op3
-[द्वन्द्वः_1]	22	-	-	-	-	-	-	24:comp1
+[xvanxvaH_1]	22	-	-	-	-	-	-	24:comp1
 Axi_1	21	-	pl	-	-	-	-	24:comp2
 [bahu_3]	24	-	-	25:k1	-	-	-	-
 gaxa_1	25	-	pl	0:main	-	-	-	-
@@ -6931,7 +6931,7 @@ srowa_1	5	-	-	-	-	-	-	6:comp2
 [bahu_2]	6	-	-	-	-	-	-	10:समुच्चितः
 Ama_1	7	-	-	-	-	-	-	11:op1
 pakva_1	8	-	-	-	-	-	-	11:op2
-[द्वन्द्वः_1]	11	-	-	-	-	-	-	12:mod
+[xvanxvaH_1]	11	-	-	-	-	-	-	12:mod
 ASaya_1	9	-	-	-	-	-	-	12:head
 [6-tat_1]	12	-	-	-	-	-	-	13:mod
 ASri_1	10	-	pl	-	-	-	-	13:head
@@ -6944,7 +6944,7 @@ awisAra_1	18	-	-	-	-	-	-	23:op2
 kAsa_1	19	-	-	-	-	-	-	23:op3
 SvAsa_1	20	-	-	-	-	-	-	23:op4
 uxara_1	21	-	-	-	-	-	-	23:op5
-[द्वन्द्वः_2]	23	-	-	-	-	-	-	24:mod
+[xvanxvaH_2]	23	-	-	-	-	-	-	24:mod
 jvara_1	22	-	pl	-	-	-	-	24:head
 [6-tat_3]	24	-	-	25:mod	-	-	-	-
 SoPa_1	26	-	-	-	-	-	-	31:op1
@@ -6962,7 +6962,7 @@ BU_1-awi_1	32	-	-	0:main	-	-	-	-
 SiraH_1	1	-	-	-	-	-	-	4:op1
 Axi_1	2	-	-	-	-	-	-	4:op2
 marman_1	3	-	pl	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	-
+[xvanxvaH_1]	4	-	-	-	-	-	-	-
 asWi_1	5	-	pl	6:r6	-	ca_1	-	-
 sanXi_1	6	-	pl	-	-	-	-	17:समुच्चितः
 waw_1	7	-	-	-	-	-	-	9:mod
@@ -6971,7 +6971,7 @@ nibaxXa_1	8	-	pl	-	-	-	-	9:head
 SirA_1	10	-	-	-	-	-	-	14:op1
 snAyu_1	11	-	-	-	-	-	-	14:op2
 kaNdara_1	12	-	-	-	-	-	-	14:op3
-[द्वन्द्वः_2]	14	-	-	-	-	-	-	15:comp1
+[xvanxvaH_2]	14	-	-	-	-	-	-	15:comp1
 Axi_1	13	-	-	-	-	-	-	15:comp2
 [bahu_1]	15	-	-	-	-	-	-	17:समुच्चितः
 maXyama_1	16	-	-	17:mod	-	-	-	-
@@ -6987,7 +6987,7 @@ wawra_1	2	-	-	1:k7p	-	-	-	-
 yakRma_1	3	-	-	-	-	-	-	7:op1
 pakRa_1	4	-	-	-	-	-	-	7:op2
 vaXa_1	5	-	-	-	-	-	-	7:op3
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	8:mod
+[xvanxvaH_1]	7	-	-	-	-	-	-	8:mod
 Arxiwa_1	6	-	pl	-	-	-	-	8:head
 [3-tat_1]	8	-	-	11:mod	-	-	-	-
 mUrXa_1	9	-	-	-	-	-	-	12:comp1
@@ -7000,7 +7000,7 @@ asWi_1	15	-	-	-	-	-	-	20:op2
 wrika_1	16	-	-	-	-	-	-	20:op3
 SUla_1	17	-	-	-	-	-	-	20:op4
 graha_1	18	-	-	-	-	-	-	20:op5
-[द्वन्द्वः_2]	20	-	-	-	-	-	-	21:comp1
+[xvanxvaH_2]	20	-	-	-	-	-	-	21:comp1
 Axi_1	19	-	pl	-	-	-	-	21:comp2
 [bahu_2]	21	-	-	11:mod	-	-	-	-
 %affirmative
@@ -7016,7 +7016,7 @@ sAxa_1	5	-	-	-	-	-	-	9:op5
 ruc_1	6	-	-	-	-	-	-	9:op6
 woxa_1	7	-	-	-	-	-	-	9:op7
 Bexana_1	8	-	-	-	-	-	-	9:op8
-[द्वन्द्वः_1]	9	-	-	10:k1s	-	-	-	-
+[xvanxvaH_1]	9	-	-	10:k1s	-	-	-	-
 karman_1	10	-	pl	12:k1	-	-	-	-
 vAyu_1	11	-	-	10:r6	-	-	-	-
 as_1-awi_1	12	-	pl	0:main	-	-	-	-
@@ -7068,19 +7068,19 @@ xAha_1	2	-	-	-	-	-	-	6:op1
 rAga_1	3	-	-	-	-	-	-	6:op2
 uRma_1	4	-	-	-	-	-	-	6:op3
 svexa_1	5	-	-	-	-	-	-	6:op4
-[द्वन्द्वः_1]	6	-	-	21:mod	-	-	-	-
+[xvanxvaH_1]	6	-	-	21:mod	-	-	-	-
 klexa_1	7	-	-	21:mod	-	-	-	-
 sruwi_1	8	-	-	21:mod	-	-	-	-
 saxana_1	9	-	-	21:mod	-	-	-	-
 maxa_1	10	-	-	21:mod	-	-	-	-
 katuka_1	11	-	-	-	-	-	-	13:op1
 amla_1	12	-	dl	-	-	-	-	13:op2
-[द्वन्द्वः_2]	13	-	-	21:mod	-	-	-	-
+[xvanxvaH_2]	13	-	-	21:mod	-	-	-	-
 rasa_1	14	-	dl	21:mod	-	-	-	-
 varNa_1	15	-	-	21:mod	-	-	-	-
 pANdura_1	16	-	-	-	-	-	-	19:op1
 aruNa_1	17	-	-	-	-	-	-	19:op2
-[द्वन्द्वः_3]	19	-	-	-	-	-	-	20:mod
+[xvanxvaH_3]	19	-	-	-	-	-	-	20:mod
 varjiwa_1	18	-	-	-	-	-	-	20:head
 [3-tat_1]	20	-	-	21:mod	-	-	-	-
 lakRaNa_1	21	-	-	22:k1	-	-	-	-
@@ -7096,14 +7096,14 @@ kATinya_1	3	-	-	-	-	-	-	7:op2
 kaNdU_1	4	-	-	-	-	-	-	7:op3
 SIwawva_1	5	-	-	-	-	-	-	7:op4
 gOrava_1	6	-	-	-	-	-	-	7:op5
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	-
+[xvanxvaH_1]	7	-	-	-	-	-	-	-
 banXa_1	8	-	-	-	-	-	-	14:op1
 upalepa_1	9	-	-	-	-	-	-	14:op2
 swEmiwya_1	10	-	-	-	-	-	-	14:op3
 SoPa_1	11	-	-	-	-	-	-	14:op4
 apakwi_1	12	-	-	-	-	-	-	14:op5
 awinixra_1	13	-	pl	-	-	-	-	14:op6
-[द्वन्द्वः_2]	14	-	-	-	-	-	-	-
+[xvanxvaH_2]	14	-	-	-	-	-	-	-
 varNa_1	15	-	-	16:mod	-	-	-	-
 Svewa_1	16	-	-	-	-	-	-	21:समुच्चितः
 rasa_1	17	-	dl	19:mod	-	-	-	-
@@ -7161,7 +7161,7 @@ prakASinI_1	6	-	-	-	-	-	-	8:head
 rawnAxi_1	9	-	-	-	-	-	-	13:op1
 sax_1	10	-	-	-	-	-	-	13:op2
 asax_1	11	-	-	-	-	-	-	13:op3
-[द्वन्द्वः_1]	13	-	-	-	-	-	-	14:mod
+[xvanxvaH_1]	13	-	-	-	-	-	-	14:mod
 jFAna_1	12	-	-	-	-	-	-	14:head
 [6-tat_3]	14	-	-	17:k1	-	-	-	-
 na_1	15	-	-	17:neg	-	-	-	-
@@ -7213,7 +7213,7 @@ hewO_1	14	-	-	21:k7p	-	-	-	-
 Awafka_1	15	-	-	18:k1s	-	-	-	-
 xoRa_1	16	-	-	-	-	-	-	19:op1
 karman_1	17	-	-	-	-	-	-	19:op2
-[द्वन्द्वः_1]	19	-	-	-	-	-	-	20:mod
+[xvanxvaH_1]	19	-	-	-	-	-	-	20:mod
 ja_1	18	-	-	-	-	-	-	20:head
 [upa-tat_2]	20	-	-	21:k1	-	-	-	-
 BU_1-awi_1	21	-	-	0:main	-	-	-	-
@@ -7238,7 +7238,7 @@ janmA_1	13	-	-	-	-	-	-	14:head
 [RaRtI-wawpuruRaH_1]	14	-	-	21:k1	-	-	-	-
 xoRa_1	15	-	-	-	-	-	-	18:op1
 karman_1	16	-	-	-	-	-	-	18:op2
-[द्वन्द्वः_1]	18	-	-	-	-	-	-	19:mod
+[xvanxvaH_1]	18	-	-	-	-	-	-	19:mod
 kRaya_1	17	-	-	-	-	-	-	19:head
 [6-tat_3]	19	-	-	21:k5	-	-	-	-
 kRaya_1	20	-	-	21:k2	-	-	-	-
@@ -7427,13 +7427,13 @@ pqWag_1	13	-	-	5:केवलसमासः	-	-	-	-
 viXA_1	14	-	pl	15:mod	-	-	-	-
 sUkRma_1	15	-	-	-	-	-	-	17:op1
 sUkRmA_1	16	-	pl	-	-	-	-	17:op2
-[द्वन्द्वः_1]	17	-	-	18:k2	-	-	-	-
+[xvanxvaH_1]	17	-	-	18:k2	-	-	-	-
 sam_IkR_1	18	-	-	25:rpk	-	-	-	-
 $wyax	19	-	pl	22:r6	-	proximal	-	-
 xoRa_1	20	-	-	-	-	-	-	23:op1
 ORaXa_1	21	-	-	-	-	-	-	23:op2
 nirUpaNa_1	22	-	-	-	-	-	-	23:op3
-[द्वन्द्वः_2]	23	-	-	25:k7p	-	-	-	-
+[xvanxvaH_2]	23	-	-	25:k7p	-	-	-	-
 $yax	24	-	-	29:k1	-	-	-	-
 vqw_1	25	-	-	0:main	-	-	-	-
 cikiwsA_1	26	-	-	29:k7p	-	-	-	-
@@ -7449,14 +7449,14 @@ jAwuciw_1	30	-	-	29:krvn	-	-	-	-
 gurvalpa_1	1	-	-	-	-	-	-	4:op1
 vyAXi_1	2	-	-	-	-	-	-	4:op2
 saMsWAna_1	3	-	-	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	12:k2	-	-	-	-
+[xvanxvaH_1]	4	-	-	12:k2	-	-	-	-
 sax_1	5	-	-	-	-	-	-	9:op1
 xeha_1	6	-	-	-	-	-	-	9:op2
-[द्वन्द्वः_2]	9	-	-	-	-	-	-	11:mod
+[xvanxvaH_2]	9	-	-	-	-	-	-	11:mod
 bala_1	7	-	-	-	-	-	-	11:head
 [6-tat_1]	11	-	-	-	-	-	-	10:op1
 abala_1	8	-	-	-	-	-	-	10:op2
-[द्वन्द्वः_3]	10	-	-	12:rh	-	-	-	-
+[xvanxvaH_3]	10	-	-	12:rh	-	-	-	-
 xqS_1-ya_we_1	12	-	-	0:main	-	api_1	-	-
 anyaWA_1	13	-	-	-	-	-	-	15:mod
 kAra_1	14	-	-	-	-	-	-	15:head
@@ -7539,7 +7539,7 @@ param_1	2	-	-	1:k7t	-	-	-	-
 xoRa_1	3	-	pl	1:k2	-	-	-	-
 vqxXi_1	4	-	-	-	-	-	-	8:op1
 kRaya_1	5	-	-	-	-	-	-	8:op2
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:comp1
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:comp1
 Axi_1	6	-	-	-	-	-	-	9:comp2
 [bahu_1]	9	-	-	-	-	-	-	10:mod
 Bexa_1	7	-	-	-	-	-	-	10:head
@@ -7550,7 +7550,7 @@ Bexa_1	7	-	-	-	-	-	-	10:head
 <sent_id=12_074_2_1>
 #-पृथक् त्रीन् विद्धि .
 pqWak_1	1	-	-	3:krvn	-	-	-	-
-3_1	2	-	pl	3:k2	-	-	-	-
+3	2	-	pl	3:k2	-	-	-	-
 vix_1-awu_1	3	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -7562,19 +7562,19 @@ wri_1	2	-	-	1:k1s	-	-	-	-
 BU_1-awi_1	3	-	-	0:main	-	-	-	-
 wawra_1	4	-	-	7:k7p	-	wu_1	-	-
 $wyax	5	-	pl	7:k2	-	distal	-	-
-9_1	6	-	pl	5:k1s	-	-	-	-
+9	6	-	pl	5:k1s	-	-	-	-
 vix_1-awu_1	7	-	-	0:main	-	-	-	-
 %imperative
 </sent_id>
 
 <sent_id=12_075_1_1>
 #-त्रीन् एव समया वृद्ध्या (विद्धि) षड् एकस्य अतिशयने (विद्धि) .
-3_1	1	-	pl	4:k2	-	eva_1	-	-
+3	1	-	pl	4:k2	-	eva_1	-	-
 samA_1	2	-	-	3:mod	-	-	-	-
 vqxXi_1	3	-	-	4:k3	-	-	-	-
 vix_1-awu_1	4	-	-	0:main	-	-	-	-
-6_1	5	-	pl	8:k2	-	-	-	-
-1_1	6	-	-	7:k1	-	-	-	-
+6	5	-	pl	8:k2	-	-	-	-
+1	6	-	-	7:k1	-	-	-	-
 awiSayana_1	7	-	-	8:k7p	-	-	-	-
 vix_1-awu_1	8	-	-	0:main	-	-	-	-
 %affirmative
@@ -7582,7 +7582,7 @@ vix_1-awu_1	8	-	-	0:main	-	-	-	-
 
 <sent_id=12_075_2_1>
 #-त्रयोदश समस्तेषु (विद्धि) .
-wrayoxaSan_1	1	-	pl	3:k2	-	-	-	-
+wrayoxaSan	1	-	pl	3:k2	-	-	-	-
 samaswa_1	2	-	pl	3:k7p	-	-	-	-
 vix_1-awu_1	3	-	-	0:main	-	-	-	-
 %affirmative
@@ -7590,10 +7590,10 @@ vix_1-awu_1	3	-	-	0:main	-	-	-	-
 
 <sent_id=12_075_3_1>
 #-षड् द्वि-एक-अतिशयेन तु (विद्धि) .
-6_1	1	-	pl	7:k2	-	-	-	-
+6	1	-	pl	7:k2	-	-	-	-
 xvi_1	2	-	dl	-	-	-	-	5:op1
 eka_1	3	-	-	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:mod
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:mod
 awiSaya_1	4	-	-	-	-	-	-	6:head
 [6-tat_1]	6	-	-	7:k3	-	-	-	-
 vix_1-awu_1	7	-	-	0:main	-	-	-	-
@@ -7602,10 +7602,10 @@ vix_1-awu_1	7	-	-	0:main	-	-	-	-
 
 <sent_id=12_076_1_1>
 #-एकम् तुल्य-अधिकैः दोष-भेदम् (विद्धि) .
-1_1	1	-	-	6:mod	-	-	-	-
+1	1	-	-	6:mod	-	-	-	-
 wulya_1	2	-	-	-	-	-	-	4:op1
 aXika_1	3	-	pl	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	8:rh	-	-	-	-
+[xvanxvaH_1]	4	-	-	8:rh	-	-	-	-
 xoRa_1	5	-	-	-	-	-	-	7:mod
 Bexa_1	6	-	-	-	-	-	-	7:head
 [6-tat_1]	7	-	-	8:k2	-	-	-	-
@@ -7615,7 +7615,7 @@ vix_1-awu_1	8	-	-	0:main	-	-	-	-
 
 <sent_id=12_076_2_1>
 #-षट् च तारतम्य-विकल्पनात् (विद्धि) .
-6_1	1	-	pl	5:k2	-	ca_1	-	-
+6	1	-	pl	5:k2	-	ca_1	-	-
 wArawamya_1	2	-	-	-	-	-	-	4:mod
 vikalpana_1	3	-	-	-	-	-	-	4:head
 [6-tat_1]	4	-	-	5:rh	-	-	-	-
@@ -7625,7 +7625,7 @@ vix_1-awu_1	5	-	-	0:main	-	-	-	-
 
 <sent_id=12_076_3_1>
 #-पञ्चविंशतिम् इति एव वृद्धैः (विद्धि) .
-25_1	1	-	-	3:k2	-	-	-	-
+25	1	-	-	3:k2	-	-	-	-
 vqxXa_1	2	-	pl	3:rh	-	-	-	-
 vix_1-awu_1	3	-	-	0:main	-	iwi_1	-	-
 %affirmative
@@ -7651,7 +7651,7 @@ samawA_1	4	-	-	-	-	-	-	8:head
 [6-tat_2]	8	-	-	-	-	-	-	9:mod
 kRaya_1	5	-	pl	-	-	-	-	9:head
 [6-tat_3]	9	-	-	12:rh	-	-	-	-
-6_1	10	-	pl	12:k1	-	-	-	-
+6	10	-	pl	12:k1	-	-	-	-
 $wyax	11	-	pl	10:mod	-	distal	-	-
 BU_1-awi_1	12	-	pl	0:main	-	-	-	-
 %affirmative
@@ -7660,7 +7660,7 @@ BU_1-awi_1	12	-	pl	0:main	-	-	-	-
 <sent_id=12_077_2_1>
 #-पुनः च षट् एक-क्षय-द्वन्द्व-वृद्ध्या सविपर्ययया अपि ते (भवन्ति) .
 punaH_1	1	-	-	12:krvn	-	ca_1	-	-
-6_1	2	-	pl	12:k1	-	-	-	-
+6	2	-	pl	12:k1	-	-	-	-
 eka_1	3	-	-	-	-	-	-	7:mod
 kRaya_1	4	-	-	-	-	-	-	7:head
 [6-tat_1]	7	-	-	-	-	-	-	8:mod
@@ -7677,7 +7677,7 @@ BU_1-awi_1	12	-	pl	0:main	-	-	-	-
 <sent_id=12_078_1>
 #-भेदाः द्विषष्टिः निर्दिष्टाः (सन्ति) .
 Bexa_1	1	-	pl	4:k1	-	-	-	-
-62_1	2	-	dl	3:k1	-	-	-	-
+62	2	-	dl	3:k1	-	-	-	-
 nirxiRta_1	3	-	pl	1:k1s	-	-	-	-
 as_1-awi_1	4	-	pl	0:main	-	-	-	-
 %affirmative
@@ -7698,7 +7698,7 @@ as_1-awi_1	5	-	-	0:main	-	-	-	-
 saMsarga_1	1	-	-	15:rh	-	-	-	-
 rasa_1	2	-	-	-	-	-	-	5:op1
 ruXira_1	3	-	-	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:comp1
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:comp1
 Axi_1	4	-	pl	-	-	-	-	6:comp2
 [bahu_1]	6	-	-	15:k3	-	-	-	-
 $wyax	7	-	pl	8:r6	-	proximal	-	-
@@ -7706,7 +7706,7 @@ xoRa_1	8	-	pl	15:k2	-	wu_1	-	-
 kRaya_1	9	-	-	-	-	-	-	13:op1
 samawA_1	10	-	-	-	-	-	-	13:op2
 vivqxXi_1	11	-	-	-	-	-	-	13:op3
-[द्वन्द्वः_2]	13	-	-	-	-	-	-	14:mod
+[xvanxvaH_2]	13	-	-	-	-	-	-	14:mod
 Bexa_1	12	-	pl	-	-	-	-	14:head
 [6-tat_1]	14	-	-	-	-	-	-	4:समुच्चितः
 jFA_1-yAw_1	15	-	-	0:main	-	-	-	-
@@ -7717,7 +7717,7 @@ jFA_1-yAw_1	15	-	-	0:main	-	-	-	-
 #-आनन्त्यन् तर-तम-योगतः च यातान् जानीयात् अवहित-मानसः यथा-स्वम् .
 wara_1	1	-	-	-	-	-	-	4:op1
 wama_1	2	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	5:mod
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:mod
 yoga_1	3	-	-	-	-	-	-	5:head
 [6-tat_1]	5	-	-	6:k5	-	-	-	-
 yAwa_1	6	-	pl	7:k2	-	-	-	-
@@ -7765,7 +7765,7 @@ svAxu_1	7	-	-	-	-	-	-	11:op1
 amla_1	8	-	-	-	-	-	-	11:op2
 lavaNa_1	9	-	-	-	-	-	-	11:op3
 uRNa_1	10	-	pl	-	-	-	-	11:op4
-[द्वन्द्वः_1]	11	-	-	12:mod	-	-	-	-
+[xvanxvaH_1]	11	-	-	12:mod	-	-	-	-
 Bojya_1	12	-	pl	-	-	-	-	36:समुच्चितः
 aByafga_1	13	-	-	-	-	-	-	15:op1
 marxana_1	14	-	-	-	-	-	-	15:op2
@@ -7779,7 +7779,7 @@ gOdika_1	21	-	-	-	-	-	-	22:op2
 [samAhAra-xvanxvaH_3]	22	-	-	19:mod	-	-	-	-
 snigXa_1	23	-	-	-	-	-	-	25:op1
 uRNA_1	24	-	pl	-	-	-	-	25:op2
-[द्वन्द्वः_4]	25	-	-	26:mod	-	-	-	-
+[xvanxvaH_4]	25	-	-	26:mod	-	-	-	-
 baswi_1	26	-	pl	-	-	-	-	36:समुच्चितः
 baswi_1	27	-	-	-	-	-	-	29:mod
 niyama_1	28	-	-	-	-	-	-	29:head
@@ -7808,7 +7808,7 @@ rasa_1	4	-	-	-	-	-	-	9:head
 [6-tat_1]	9	-	-	-	-	-	-	7:op1
 wEla_1	5	-	-	-	-	-	-	7:op2
 anuvAsana_1	6	-	-	-	-	-	-	7:op3
-[द्वन्द्वः_1]	7	-	-	12:k1	-	-	-	-
+[xvanxvaH_1]	7	-	-	12:k1	-	-	-	-
 vAwa_1	10	-	-	11:r6	-	-	-	-
 upakrama_1	11	-	-	6:k1s	-	-	-	-
 BU_1-awi_1	12	-	-	0:main	-	-	-	-
@@ -7822,12 +7822,12 @@ sarpis_1	2	-	-	3:r6	-	-	-	-
 pAna_1	3	-	-	-	-	-	-	99:समुच्चितः
 svAxu_1	4	-	-	-	-	-	-	6:op1
 SIwa_1	5	-	pl	-	-	-	-	6:op2
-[द्वन्द्वः_1]	6	-	-	7:k3	-	-	-	-
+[xvanxvaH_1]	6	-	-	7:k3	-	-	-	-
 virecana_1	7	-	-	-	-	-	-	99:समुच्चितः
 svAxu_1	8	-	-	-	-	-	-	11:op1
 wikwa_1	9	-	-	-	-	-	-	11:op2
 kaRAya_1	10	-	pl	-	-	-	-	11:op3
-[द्वन्द्वः_2]	11	-	-	13:mod	-	-	-	-
+[xvanxvaH_2]	11	-	-	13:mod	-	-	-	-
 Bojana_1	12	-	pl	-	-	-	-	13:समुच्चितः
 ORaXa_1	13	-	pl	-	-	-	-	99:समुच्चितः
 su_1	14	-	-	-	-	-	-	19:mod
@@ -7835,7 +7835,7 @@ ganXi_1	15	-	-	-	-	-	-	19:head
 [prAxi-wawpuruRaH_1]	19	-	-	-	-	-	-	18:op1
 SIwa_1	16	-	-	-	-	-	-	18:op2
 hqxya_1	17	-	pl	-	-	-	-	18:op3
-[द्वन्द्वः_3]	18	-	-	20:mod	-	-	-	-
+[xvanxvaH_3]	18	-	-	20:mod	-	-	-	-
 ganXa_1	20	-	pl	21:r6	-	-	-	-
 upasevana_1	21	-	-	-	-	-	-	99:समुच्चितः
 kaNTeguNa_1	22	-	pl	23:mod	-	-	-	-
@@ -7846,7 +7846,7 @@ Xqwi_1	26	-	-	-	-	-	-	99:समुच्चितः
 karpUra_1	27	-	-	-	-	-	-	30:op1
 canxana_1	28	-	-	-	-	-	-	30:op2
 uSIra_1	29	-	pl	-	-	-	-	30:op3
-[द्वन्द्वः_4]	30	-	-	31:k3	-	-	-	-
+[xvanxvaH_4]	30	-	-	31:k3	-	-	-	-
 anulepa_1	31	-	-	-	-	-	-	99:समुच्चितः
 kRaNa_1	32	-	-	33:k4	-	-	-	-
 kRaNa_1	33	-	-	31:k7p	-	-	-	-
@@ -7866,7 +7866,7 @@ miwra_1	46	-	-	-	-	-	-	99:समुच्चितः
 puwra_1	47	-	-	-	-	-	-	99:समुच्चितः
 sanxigXa_1	48	-	-	-	-	-	-	51:op1
 mugXa_1	49	-	-	-	-	-	-	51:op2
-[द्वन्द्वः_5]	51	-	-	-	-	-	-	52:comp1
+[xvanxvaH_5]	51	-	-	-	-	-	-	52:comp1
 vAc_1	50	-	-	-	-	-	-	52:comp2
 [RaRTyarWa-bahuvrIhiH_1]	52	-	-	47:mod	-	-	-	-
 Canxa_1	53	-	-	-	-	-	-	55:mod
@@ -7887,7 +7887,7 @@ garBa_1	64	-	pl	-	-	-	-	67:comp2
 gqha_1	68	-	pl	-	-	-	-	99:समुच्चितः
 uxyAna_1	69	-	-	-	-	-	-	71:op1
 xIrGikA_1	70	-	pl	-	-	-	-	71:op2
-[द्वन्द्वः_6]	71	-	-	-	-	-	-	-
+[xvanxvaH_6]	71	-	-	-	-	-	-	-
 su_1	72	-	-	-	-	-	-	79:mod
 wIrWa_1	73	-	-	-	-	-	-	79:head
 [prAxi-wawpuruRaH_2]	79	-	-	-	-	-	-	80:mod
@@ -7992,7 +7992,7 @@ ORaXa_1	8	-	-	-	-	-	-	14:समुच्चितः
 XUma_1	9	-	-	-	-	-	-	12:op1
 upavAsa_1	10	-	-	-	-	-	-	12:op2
 gaNdURa_1	11	-	pl	-	-	-	-	12:op3
-[द्वन्द्वः_1]	12	-	-	-	-	-	-	-
+[xvanxvaH_1]	12	-	-	-	-	-	-	-
 nir_1	13	-	-	-	-	-	-	15:mod
 suKa_1	14	-	-	-	-	-	-	15:head
 [avyayIBAvaH_1]	15	-	-	19:k1	-	-	-	-
@@ -8014,7 +8014,7 @@ uw_xiS_1	6	-	-	7:rpk	-	-	-	-
 kIrwiwa_1	7	-	-	0:main	-	-	-	-
 saMsarga_1	8	-	-	-	-	-	-	10:op1
 sannipAwa_1	9	-	pl	-	-	-	-	10:op2
-[द्वन्द्वः_1]	10	-	-	15:k7p	-	-	-	-
+[xvanxvaH_1]	10	-	-	15:k7p	-	-	-	-
 $wyax	11	-	-	15:k2	-	distal	-	-
 yaWA_1	12	-	-	-	-	-	-	14:mod
 sva_1	13	-	-	-	-	-	-	14:head
@@ -8029,7 +8029,7 @@ grERma_1	1	-	-	8:mod	-	-	-	-
 prAyaH_1	2	-	-	9:krvn	-	-	-	-
 maruw_1	3	-	-	-	-	-	-	5:op1
 piwwa_1	4	-	-	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	9:k7p	-	-	-	-
+[xvanxvaH_1]	5	-	-	9:k7p	-	-	-	-
 maruw_1	6	-	-	7:r6	-	-	-	-
 yogavAhin_1	7	-	-	9:rh	-	-	-	-
 upakrama_1	8	-	-	9:k1	-	-	-	-
@@ -8037,7 +8037,7 @@ yojya_1	9	-	-	0:main	-	-	-	-
 vAsanwa_1	10	-	-	17:mod	-	-	-	-
 kaPa_1	11	-	-	-	-	-	-	13:op1
 mAruwa_1	12	-	-	-	-	-	-	13:op2
-[द्वन्द्वः_2]	13	-	-	18:k7p	-	-	-	-
+[xvanxvaH_2]	13	-	-	18:k7p	-	-	-	-
 maruw_1	14	-	-	15:r6	-	-	-	-
 yogavAhin_1	15	-	-	18:rh	-	-	-	-
 prAyaH_1	16	-	-	18:krvn	-	-	-	-
@@ -8045,7 +8045,7 @@ upakrama_1	17	-	-	18:k1	-	-	-	-
 yojya_1	18	-	-	0:main	-	-	-	-
 kaPa_1	19	-	-	-	-	-	-	21:op1
 piwwa_1	20	-	-	-	-	wu_1	-	21:op2
-[द्वन्द्वः_3]	21	-	-	24:k7p	-	-	-	-
+[xvanxvaH_3]	21	-	-	24:k7p	-	-	-	-
 SAraxa_1	22	-	-	23:mod	-	-	-	-
 upakrama_1	23	-	-	24:k1	-	-	-	-
 yojya_1	24	-	-	0:main	-	-	-	-
@@ -8087,7 +8087,7 @@ ji_1-yAw_1	12	-	-	0:main	-	-	-	-
 prayoga_1	1	-	-	2:pk1	-	-	-	-
 Sam_1-yAw_1	2	-	-	0:main	-	-	-	-
 vyAXi_1	3	-	-	2:jk1	-	-	-	-
-1_1	4	-	-	3:mod	-	-	-	-
+1	4	-	-	3:mod	-	-	-	-
 $yax	5	-	-	1:mod	-	-	-	-
 anya_1	6	-	-	7:k2	-	-	-	-
 uw_Ir_1-yAw_1	7	-	-	0:main	-	-	-	-
@@ -8123,7 +8123,7 @@ AcaraNa_1	6	-	-	-	-	-	-	8:head
 koRTa_1	9	-	-	18:k5	-	-	-	-
 SAKA_1	10	-	-	-	-	-	-	13:op1
 asWi_1	11	-	-	-	-	-	-	13:op2
-[द्वन्द्वः_1]	13	-	-	-	-	-	-	14:mod
+[xvanxvaH_1]	13	-	-	-	-	-	-	14:mod
 marman_1	12	-	pl	-	-	-	-	14:head
 [6-tat_1]	14	-	-	18:k2	-	-	-	-
 xruwawva_1	15	-	-	18:rh	-	-	-	-
@@ -8247,7 +8247,7 @@ $wyax	3	-	pl	1:k7p	-	distal	-	-
 wvarA_1	4	-	-	1:krvn	-	-	-	-
 xeha_1	5	-	-	-	-	-	-	9:op1
 agni_1	6	-	-	-	-	-	-	9:op2
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	10:mod
+[xvanxvaH_1]	9	-	-	-	-	-	-	10:mod
 bala_1	7	-	-	-	-	-	-	10:head
 [6-tat_1]	10	-	-	-	-	-	-	11:mod
 vix_1	8	-	-	-	-	-	-	11:head
@@ -8286,27 +8286,27 @@ srowas_1	1	-	-	-	-	-	-	10:mod
 roXa_1	2	-	-	-	-	-	-	10:head
 [6-tat_1]	10	-	-	-	-	-	-	8:op1
 bala_1	3	-	-	-	-	-	-	8:op2
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	11:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	11:mod
 BraMSa_1	4	-	-	-	-	-	-	11:head
 [6-tat_2]	11	-	-	-	-	-	-	9:op1
 gOrava_1	5	-	-	-	-	-	-	9:op2
 anila_1	6	-	-	-	-	-	-	9:op3
-[द्वन्द्वः_2]	9	-	-	-	-	-	-	12:mod
+[xvanxvaH_2]	9	-	-	-	-	-	-	12:mod
 mUDawA_1	7	-	pl	-	-	-	-	12:head
 [6-tat_3]	12	-	-	-	-	-	-	20:समुच्चितः
 Alasya_1	13	-	-	-	-	-	-	21:op1
 apakwi_1	14	-	-	-	-	-	-	21:op2
 niRTIva_1	15	-	-	-	-	-	-	21:op3
 mala_1	16	-	-	-	-	-	-	21:op4
-[द्वन्द्वः_3]	21	-	-	-	-	-	-	24:mod
+[xvanxvaH_3]	21	-	-	-	-	-	-	24:mod
 safga_1	17	-	-	-	-	-	-	24:head
 [6-tat_4]	24	-	-	-	-	-	-	22:op1
 a_1	18	-	-	-	-	-	-	22:op2
-[द्वन्द्वः_4]	22	-	-	-	-	-	-	25:mod
+[xvanxvaH_4]	22	-	-	-	-	-	-	25:mod
 ruci_1	19	-	-	-	-	-	-	25:head
 [naF-tat_1]	25	-	-	-	-	-	-	23:op1
 klama_1	20	-	pl	-	-	-	-	23:op2
-[द्वन्द्वः_5]	23	-	-	27:k1	-	-	-	-
+[xvanxvaH_5]	23	-	-	27:k1	-	-	-	-
 lifga_1	26	-	-	20:k1s	-	-	-	-
 BU_1-awi_1	27	-	-	0:main	-	-	-	-
 mala_1	28	-	pl	26:r6	-	-	-	-
@@ -8513,7 +8513,7 @@ krama_1	6	-	-	17:krvn	-	-	-	-
 grIRma_1	7	-	-	-	-	-	-	11:op1
 varRA_1	8	-	-	-	-	-	-	11:op2
 hima_1	9	-	-	-	-	-	-	11:op3
-[द्वन्द्वः_1]	11	-	-	-	-	-	-	12:mod
+[xvanxvaH_1]	11	-	-	-	-	-	-	12:mod
 ciwa_1	10	-	pl	-	-	-	-	12:head
 [7-tat_1]	12	-	-	14:mod	-	-	-	-
 vAyu_1	13	-	-	-	-	-	-	15:comp1
@@ -8531,11 +8531,11 @@ uRNa_1	2	-	-	-	-	-	-	6:head
 [gawisamAsaH_1]	6	-	-	-	-	-	-	5:op1
 varRa_1	3	-	-	-	-	-	-	5:op2
 SIwa_1	4	-	pl	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	10:k1s	-	-	-	-
+[xvanxvaH_1]	5	-	-	10:k1s	-	-	-	-
 grIRma_1	7	-	-	-	-	-	-	11:op1
 varRA_1	8	-	-	-	-	-	-	11:op2
 hima_1	9	-	-	-	-	-	-	11:op3
-[द्वन्द्वः_2]	11	-	-	-	-	-	-	12:mod
+[xvanxvaH_2]	11	-	-	-	-	-	-	12:mod
 Agama_1	10	-	pl	-	-	-	-	12:head
 [6-tat_1]	12	-	-	13:k1	-	-	-	-
 BU_1-awi_1	13	-	pl	0:main	-	hi_1	-	-
@@ -8570,7 +8570,7 @@ kq_1	1	-	-	8:rpk	-	-	-	-
 SIwa_1	2	-	-	-	-	-	-	5:op1
 uRNa_1	3	-	-	-	-	-	-	5:op2
 vqRti_1	4	-	pl	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	6:r6	-	-	-	-
+[xvanxvaH_1]	5	-	-	6:r6	-	-	-	-
 prawIkAra_1	6	-	-	1:k2	-	-	-	-
 yaWAyaWam_1	7	-	-	1:krvn	-	-	-	-
 pra_yuj_1	8	-	-	0:main	-	-	-	-
@@ -8622,7 +8622,7 @@ anna_1	6	-	-	-	-	-	-	7:comp2
 balin_1	8	-	dl	10:mod	-	-	-	-
 roga_1	9	-	-	-	-	-	-	11:op1
 rogin_1	10	-	dl	-	-	-	-	11:op2
-[द्वन्द्वः_1]	11	-	-	12:r6	-	-	-	-
+[xvanxvaH_1]	11	-	-	12:r6	-	-	-	-
 ORaXa_1	12	-	-	13:k2	-	-	-	-
 iR_1-ya_we_1	13	-	-	0:main	-	-	-	-
 anna_1	14	-	-	-	-	-	-	16:comp1
@@ -8663,7 +8663,7 @@ iR_1-ya_we_1	14	-	-	0:main	-	-	-	-
 #ग्रास-ग्रास-अन्तयोः प्राणे प्रदुष्टे मातरिश्वनि (औषधम्) (इष्यते) .
 grAsa_1	1	-	-	-	-	-	-	4:op1
 grAsa_1	2	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	5:mod
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:mod
 anwa_1	3	-	dl	-	-	-	-	5:head
 [6-tat_1]	5	-	-	10:k7p	-	-	-	-
 prANa_1	6	-	-	8:mod	-	-	-	-
@@ -8684,7 +8684,7 @@ hiXmA_1	5	-	-	-	-	-	-	9:op3
 wqt_1	6	-	-	-	-	-	-	9:op4
 SvAsa_1	7	-	-	-	-	-	-	9:op5
 kAsi_1	8	-	pl	-	-	-	-	9:op6
-[द्वन्द्वः_1]	9	-	-	11:k7p	-	-	-	-
+[xvanxvaH_1]	9	-	-	11:k7p	-	-	-	-
 BeRaja_1	10	-	-	11:k2	-	-	-	-
 iR_1-ya_we_1	11	-	-	0:main	-	-	-	-
 %pass_affirmative
@@ -8708,7 +8708,7 @@ arocaka_1	8	-	-	1:k7p	-	-	-	-
 kampa_1	1	-	-	-	-	-	-	4:op1
 AkRepa_1	2	-	-	-	-	-	-	4:op2
 hiXman_1	3	-	pl	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	17:k7p	-	-	-	-
+[xvanxvaH_1]	4	-	-	17:k7p	-	-	-	-
 sAmuxga_1	5	-	-	17:k2	-	-	-	-
 laGu_1	6	-	-	-	-	-	-	8:mod
 Bojin_1	7	-	pl	-	-	-	-	8:head
@@ -8756,7 +8756,7 @@ BU_1-awi_1	6	-	-	0:main	-	hi_1	-	-
 
 <sent_id=14_001_2-003_1_1>
 #-एकः सन्तर्पणः तत्र (भवति) द्वितीयः च अपतर्पणः (भवति) .
-1_1	1	-	-	2:mod	-	-	-	-
+1	1	-	-	2:mod	-	-	-	-
 sanwarpaNa_1	2	-	-	4:k1	-	-	-	-
 wawra_1	3	-	-	4:k7p	-	-	-	-
 BU_1-awi_1	4	-	-	-	-	-	-	7:समुच्चितः
@@ -8855,12 +8855,12 @@ nirUha_1	1	-	-	-	-	-	-	11:घटकः
 vamana_1	2	-	-	-	-	-	-	11:घटकः
 kAya_1	3	-	-	-	-	-	-	6:op1
 SiraH_1	4	-	-	-	-	-	-	6:op2
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	7:mod
+[xvanxvaH_1]	6	-	-	-	-	-	-	7:mod
 reka_1	5	-	-	-	-	-	-	7:head
 [6-tat_1]	7	-	-	-	-	-	-	11:घटकः
 asra_1	8	-	-	-	-	-	-	10:op1
 visruwi_1	9	-	-	-	-	-	-	10:op2
-[द्वन्द्वः_2]	10	-	-	-	-	-	-	-
+[xvanxvaH_2]	10	-	-	-	-	-	-	-
 SoXana_1	11	-	pl	12:k1	-	-	-	-
 as_1	12	-	-	0:main	-	-	-	-
 %affirmative
@@ -8898,7 +8898,7 @@ wqt_1	4	-	-	-	-	-	-	8:op2
 vyAyAma_1	5	-	-	-	-	-	-	8:op3
 Awapa_1	6	-	-	-	-	-	-	8:op4
 mAruwa_1	7	-	pl	-	-	-	-	8:op5
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	-
+[xvanxvaH_1]	8	-	-	-	-	-	-	-
 Samana_1	9	-	-	10:k1	-	-	-	-
 BU_1	10	-	-	0:main	-	-	-	-
 %affirmative
@@ -8926,7 +8926,7 @@ maxya_1	4	-	-	-	-	-	-	8:op3
 swrI_1	5	-	-	-	-	-	-	8:op4
 Soka_1	6	-	-	-	-	-	-	8:op5
 karSiwa_1	7	-	pl	-	-	-	-	8:op6
-[द्वन्द्वः_1]	8	-	-	1:k2	-	-	-	-
+[xvanxvaH_1]	8	-	-	1:k2	-	-	-	-
 %affirmative
 </sent_id>
 
@@ -8939,12 +8939,12 @@ kRINa_1	4	-	-	-	-	-	-	8:op4
 rUkRa_1	5	-	-	-	-	-	-	8:op5
 xurbala_1	6	-	-	-	-	-	-	8:op6
 vAwala_1	7	-	pl	-	-	-	-	8:op7
-[द्वन्द्वः_1]	8	-	-	12:k1s	-	-	-	-
+[xvanxvaH_1]	8	-	-	12:k1s	-	-	-	-
 garBiNI_1	9	-	-	-	-	-	-	13:op1
 sUwikA_1	10	-	-	-	-	-	-	13:op2
 bAla_1	11	-	-	-	-	-	-	13:op3
 vqxXa_1	12	-	pl	-	-	api_1	-	13:op4
-[द्वन्द्वः_2]	13	-	-	16:k2	-	-	-	-
+[xvanxvaH_2]	13	-	-	16:k2	-	-	-	-
 grIRmA_1	14	-	-	16:k7t	-	-	-	-
 apara_1	15	-	pl	12:k1s	-	-	-	-
 bqMh_1	16	-	-	0:main	-	-	-	-
@@ -8960,7 +8960,7 @@ sarpis_1	4	-	-	-	-	-	-	8:op4
 maXura_1	5	-	-	-	-	-	-	8:op5
 snigXa_1	6	-	-	-	-	-	-	8:op6
 baswi_1	7	-	pl	-	-	-	-	8:op7
-[द्वन्द्वः_1]	8	-	-	17:k3	-	-	-	-
+[xvanxvaH_1]	8	-	-	17:k3	-	-	-	-
 svapna_1	9	-	-	-	-	-	-	16:op1
 SayyA_1	10	-	-	-	-	-	-	16:op2
 suKa_1	11	-	-	-	-	-	-	16:op3
@@ -8968,7 +8968,7 @@ aByafga_1	12	-	-	-	-	-	-	16:op4
 snAna_1	13	-	-	-	-	-	-	16:op5
 nirvqwi_1	14	-	-	-	-	-	-	16:op6
 harRaNa_1	15	-	pl	-	-	-	-	16:op7
-[द्वन्द्वः_2]	16	-	-	17:rh	-	-	-	-
+[xvanxvaH_2]	16	-	-	17:rh	-	-	-	-
 bqMha_1	17	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -8981,14 +8981,14 @@ awisnigXa_1	3	-	-	-	-	-	-	7:op3
 jvara_1	4	-	-	-	-	-	-	7:op4
 UruswamBa_1	5	-	-	-	-	-	-	7:op5
 kuRTin_1	6	-	pl	-	-	-	-	7:op6
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	-
+[xvanxvaH_1]	7	-	-	-	-	-	-	-
 visarpa_1	8	-	-	-	-	-	-	14:op1
 vixraXi_1	9	-	-	-	-	-	-	14:op2
 plIhan_1	10	-	-	-	-	-	-	14:op3
 Siras_1	11	-	-	-	-	-	-	14:op4
 kaNTa_1	12	-	-	-	-	-	-	14:op5
 akRirogin_1	13	-	pl	-	-	-	-	14:op6
-[द्वन्द्वः_2]	14	-	-	15:k2	-	-	-	-
+[xvanxvaH_2]	14	-	-	15:k2	-	-	-	-
 lafGa_1	15	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -9011,7 +9011,7 @@ sWOlya_1	3	-	-	-	-	-	-	8:op1
 bala_1	4	-	-	-	-	-	-	8:op2
 piwwa_1	5	-	-	-	-	-	-	8:op3
 kaPa_1	6	-	-	-	-	-	-	8:op4
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:mod
 aXika_1	7	-	pl	-	-	-	-	9:head
 [karmaXAraya_1]	9	-	-	16:k2	-	-	-	-
 AmaxoRa_1	10	-	-	-	-	-	-	15:op1
@@ -9019,7 +9019,7 @@ jvara_1	11	-	-	-	-	-	-	15:op2
 Sarxi_1	12	-	-	-	-	-	-	15:op3
 awIsAra_1	13	-	-	-	-	-	-	15:op4
 hqxAmaya_1	14	-	pl	-	-	-	-	15:op5
-[द्वन्द्वः_2]	15	-	-	16:rh	-	-	-	-
+[xvanxvaH_2]	15	-	-	16:rh	-	-	-	-
 laG_1-yAw_1	16	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -9030,32 +9030,32 @@ vibanXa_1	1	-	-	-	-	-	-	6:op1
 gOrava_1	2	-	-	-	-	-	-	6:op2
 uxgAra_1	3	-	-	-	-	-	-	6:op3
 hqllAsa_1	4	-	-	-	-	-	-	6:op4
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	7:comp1
+[xvanxvaH_1]	6	-	-	-	-	-	-	7:comp1
 Axi_1	5	-	pl	-	-	-	-	7:comp2
 [bahu_1]	7	-	-	41:k3	-	-	-	-
 Awura_1	8	-	pl	41:k2	-	-	-	-
 maXya_1	9	-	-	-	-	-	-	12:op1
 sWOlya_1	10	-	-	-	-	-	-	12:op2
-[द्वन्द्वः_2]	12	-	-	-	-	-	-	13:comp1
+[xvanxvaH_2]	12	-	-	-	-	-	-	13:comp1
 Axika_1	11	-	pl	-	-	-	-	13:comp2
 [bahu_2]	13	-	-	42:k2	-	-	-	-
 prAyaH_1	14	-	-	42:krvn	-	-	-	-
 pUrva_1	15	-	-	42:k7t	-	-	-	-
 pAcana_1	16	-	-	-	-	-	-	18:op1
 xIpana_1	17	-	pl	-	-	-	-	18:op2
-[द्वन्द्वः_3]	18	-	-	42:k3	-	-	-	-
+[xvanxvaH_3]	18	-	-	42:k3	-	-	-	-
 $wyax	19	-	pl	20:mod	-	proximal/eva_1	-	-
 Amaya_1	20	-	pl	43:k3	-	-	-	-
 Arwa_1	21	-	pl	24:mod	-	-	-	-
 hInasWOlya_1	22	-	-	-	-	-	-	25:op1
 bala_1	23	-	-	-	-	-	-	25:op2
-[द्वन्द्वः_4]	25	-	-	-	-	-	-	26:comp1
+[xvanxvaH_4]	25	-	-	-	-	-	-	26:comp1
 Axika_1	24	-	pl	-	-	-	-	26:comp2
 [bahu_3]	26	-	-	43:k2	-	-	-	-
 kRuw_1	27	-	-	-	-	-	-	30:op1
 wqRNA_1	28	-	-	-	-	-	-	30:op2
 nigraha_1	29	-	pl	-	-	-	-	30:op3
-[द्वन्द्वः_5]	30	-	-	44:k3	-	-	-	-
+[xvanxvaH_5]	30	-	-	44:k3	-	-	-	-
 xoRa_1	31	-	pl	29:mod	-	wu_1	-	-
 Arwa_1	32	-	pl	44:कर्म्	-	-	-	-
 maXyabala_1	33	-	pl	44:k3	-	-	-	-
@@ -9063,7 +9063,7 @@ xqDa_1	34	-	pl	32:mod	-	-	-	-
 samIraNa_1	35	-	-	-	-	-	-	38:op1
 Awapa_1	36	-	-	-	-	-	-	38:op2
 AyAsa_1	37	-	pl	-	-	-	-	38:op3
-[द्वन्द्वः_6]	38	-	-	45:k3	-	-	-	-
+[xvanxvaH_6]	38	-	-	45:k3	-	-	-	-
 alpabala_1	39	-	pl	37:mod	-	-	-	-
 nara_1	40	-	pl	45:k2	-	-	-	-
 laG_1-yAw_1	41	-	-	0:main	-	-	-	-
@@ -9130,7 +9130,7 @@ lAGava_1	4	-	-	-	-	-	-	22:समुच्चितः
 ruci_1	5	-	-	-	-	-	-	22:समुच्चितः
 kRuw_1	6	-	-	-	-	-	-	9:op1
 wqt_1	7	-	-	-	-	-	-	9:op2
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	10:mod
+[xvanxvaH_1]	9	-	-	-	-	-	-	10:mod
 sahoxaya_1	8	-	-	-	-	-	-	10:head
 [6-tat_1]	10	-	-	-	-	-	-	22:समुच्चितः
 SuxXa_1	11	-	-	-	-	-	-	16:mod
@@ -9138,7 +9138,7 @@ hqxaya_1	12	-	-	-	-	-	-	16:head
 [karmaXAraya_1]	16	-	-	-	-	-	-	15:op1
 uxgAra_1	13	-	-	-	-	-	-	15:op2
 kaNTa_1	14	-	-	-	-	-	-	15:op3
-[द्वन्द्वः_2]	15	-	-	-	-	-	-	-
+[xvanxvaH_2]	15	-	-	-	-	-	-	-
 vyAXi_1	17	-	-	-	-	-	-	19:mod
 mArxava_1	18	-	-	-	-	-	-	19:head
 [6-tat_2]	19	-	-	-	-	-	-	22:समुच्चितः
@@ -9154,7 +9154,7 @@ lafGiwa_1	24	-	dl	0:main	-	-	-	-
 #-अनपेक्षित-मात्रा-आदि-सेविते कुरुतः तु ते अतिस्थौल्य-अतिकार्श्यादीन् वक्ष्यन्ते ते च सौषधाः .
 anapekRiwa_1	1	-	-	-	-	-	-	5:op1
 mAwrA_1	2	-	-	-	-	-	-	5:op2
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:comp1
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:comp1
 Axi_1	3	-	-	-	-	-	-	6:comp2
 [bahu_1]	6	-	-	-	-	-	-	7:mod
 sevi_1	4	-	-	-	-	-	-	7:head
@@ -9163,7 +9163,7 @@ kuru_1	8	-	-	0:main	-	wu_1	-	-
 $wyax	9	-	pl	4:mod	-	distal	-	-
 awisWOlya_1	10	-	-	-	-	-	-	12:op1
 awikArSyAxi_1	11	-	-	-	-	-	-	12:op2
-[द्वन्द्वः_2]	12	-	-	-	-	-	-	-
+[xvanxvaH_2]	12	-	-	-	-	-	-	-
 vah_1	13	-	pl	0:main	-	-	-	-
 $wyax	14	-	pl	15:mod	-	distal	-	-
 %affirmative
@@ -9176,7 +9176,7 @@ $wyax	2	-	pl	3:k1	-	distal/eva_1	-	-
 jFeya_1	3	-	-	0:main	-	-	-	-
 awibqMhiwa_1	4	-	-	-	-	-	-	6:op1
 lafGiwa_1	5	-	dl	-	-	-	-	6:op2
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	-
+[xvanxvaH_1]	6	-	-	-	-	-	-	-
 %affirmative
 </sent_id>
 
@@ -9190,13 +9190,13 @@ meha_1	4	-	-	-	-	-	-	8:op3
 jvara_1	5	-	-	-	-	-	-	8:op4
 uxara_1	6	-	-	-	-	-	-	8:op5
 Baganxara_1	7	-	pl	-	-	-	-	8:op6
-[द्वन्द्वः_1]	8	-	-	15:mod	-	-	-	-
+[xvanxvaH_1]	8	-	-	15:mod	-	-	-	-
 kAsa_1	10	-	-	-	-	-	-	16:op1
 sanyAsa_1	11	-	-	-	-	-	-	16:op2
 kqcCra_1	12	-	-	-	-	-	-	16:op3
 Ama_1	13	-	-	-	-	-	-	16:op4
 kuRTa_1	14	-	-	-	-	-	-	16:op5
-[द्वन्द्वः_2]	16	-	-	-	-	-	-	17:comp1
+[xvanxvaH_2]	16	-	-	-	-	-	-	17:comp1
 Axi_1	15	-	pl	-	-	-	-	17:comp2
 [bahu_1]	17	-	-	18:mod	-	-	-	-
 kq_1	19	-	-	0:main	-	-	-	-
@@ -9209,7 +9209,7 @@ wawra_1	1	-	-	9:k7p	-	-	-	-
 mexas_1	2	-	-	-	-	-	-	6:op1
 anila_1	3	-	-	-	-	-	-	6:op2
 SleRman_1	4	-	-	-	-	-	-	6:op3
-[द्वन्द्वः_1]	6	-	-	-	-	-	-	7:mod
+[xvanxvaH_1]	6	-	-	-	-	-	-	7:mod
 nASana_1	5	-	-	-	-	-	-	7:head
 [6-tat_1]	7	-	-	9:k2	-	-	-	-
 sarva_1	8	-	-	5:mod	-	-	-	-
@@ -9254,7 +9254,7 @@ mUla_1	4	-	-	-	-	-	-	5:head
 [samAhAra-xviguH_1]	5	-	-	2:r6	-	-	-	-
 SilA_1	6	-	-	-	-	-	-	9:op1
 jawu_1	7	-	-	-	-	-	-	9:op2
-[द्वन्द्वः_1]	9	-	-	-	-	-	-	10:mod
+[xvanxvaH_1]	9	-	-	-	-	-	-	10:mod
 prayoga_1	8	-	-	-	-	-	-	10:head
 [6-tat_1]	10	-	-	20:k2	-	-	-	-
 sa_1	11	-	-	-	-	-	-	15:mod
@@ -9290,7 +9290,7 @@ iR_1-ya_we_1	11	-	-	0:main	-	-	-	-
 #-यव-आमलक-चूर्णम् च योगः अति-स्थौल्य-दोष-जित् (अतिस्थूलताम्) (विनश्यति) .
 yava_1	1	-	-	-	-	-	-	4:op1
 Amalaka_1	2	-	-	-	-	-	-	4:op2
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	5:mod
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:mod
 cUrNa_1	3	-	-	-	-	-	-	5:head
 [6-tat_1]	5	-	-	14:k1	-	-	-	-
 yoga_1	6	-	-	-	-	-	-	3:समुच्चितः
@@ -9328,7 +9328,7 @@ lAjA_1	3	-	-	-	-	-	-	7:op3
 AjIyavAnI_1	4	-	-	-	-	-	-	7:op4
 XAnya_1	5	-	-	-	-	-	-	7:op5
 ciwrakA_1	6	-	pl	-	-	-	-	7:op6
-[द्वन्द्वः_1]	7	-	-	11:विधेयविशेषणम्	-	-	-	-
+[xvanxvaH_1]	7	-	-	11:विधेयविशेषणम्	-	-	-	-
 ni_han_1-awi_1	8	-	-	0:main	-	-	-	-
 roga_1	9	-	pl	8:k2	-	-	-	-
 $wyax	10	-	pl	11:r6	-	proximal	-	-
@@ -9395,7 +9395,7 @@ Sviwra_1	4	-	-	-	-	-	-	8:op3
 SvAsa_1	5	-	-	-	-	-	-	8:op4
 kAsa_1	6	-	-	-	-	-	-	8:op5
 galagraha_1	7	-	pl	-	-	-	-	8:op6
-[द्वन्द्वः_1]	8	-	-	10:mod	-	-	-	-
+[xvanxvaH_1]	8	-	-	10:mod	-	-	-	-
 roga_1	10	-	pl	11:k2	-	-	-	-
 ni_han_1-awi_1	11	-	-	0:main	-	-	-	-
 %affirmative
@@ -9406,7 +9406,7 @@ ni_han_1-awi_1	11	-	-	0:main	-	-	-	-
 buxXi_1	1	-	-	-	-	-	-	5:op1
 meXA_1	2	-	-	-	-	-	-	5:op2
 smqwi_1	3	-	-	-	-	-	-	5:op3
-[द्वन्द्वः_1]	5	-	-	-	-	-	-	6:mod
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:mod
 kara_1	4	-	-	-	-	-	-	6:head
 [उपपद_तत्पुरुषः_1]	6	-	-	7:विधेयविशेषणम्	-	-	-	-
 saw_1	7	-	-	11:rvks	-	-	-	-
@@ -9444,7 +9444,7 @@ Sukra_1	6	-	-	-	-	-	-	11:op6
 ojaH_1	7	-	-	-	-	-	-	11:op7
 kRuw_1	8	-	-	-	-	-	-	11:op8
 svara_1	9	-	-	-	-	-	-	11:op9
-[द्वन्द्वः_1]	11	-	-	10:r6	-	-	-	-
+[xvanxvaH_1]	11	-	-	10:r6	-	-	-	-
 BU_1-awi_1	12	-	-	0:main	-	-	-	-
 %affirmative
 </sent_id>
@@ -9459,7 +9459,7 @@ Uru_1	5	-	-	-	-	-	-	9:op5
 wrika_1	6	-	-	-	-	-	-	9:op6
 pArSva_1	7	-	-	-	-	-	-	9:op7
 rujA_1	8	-	pl	-	-	-	-	9:op8
-[द्वन्द्वः_1]	9	-	-	28:k1	-	-	-	-
+[xvanxvaH_1]	9	-	-	28:k1	-	-	-	-
 jvara_1	10	-	-	-	-	-	-	24:समुच्चितः
 pralApa_1	11	-	-	-	-	-	-	19:op1
 UrXva_1	12	-	-	-	-	-	-	19:op2
@@ -9468,12 +9468,12 @@ glAni_1	14	-	-	-	-	-	-	19:op4
 Sarxi_1	15	-	-	-	-	-	-	19:op5
 parva_1	16	-	-	-	-	-	-	19:op6
 asWi_1	17	-	-	-	-	-	-	19:op7
-[द्वन्द्वः_2]	19	-	-	-	-	-	-	20:mod
+[xvanxvaH_2]	19	-	-	-	-	-	-	20:mod
 Bexana_1	18	-	-	-	-	-	-	20:head
 [6-tat_1]	20	-	-	-	-	-	-	8:समुच्चितः
 varcas_1	21	-	-	-	-	-	-	25:op1
 mUwra_1	22	-	-	-	-	-	-	25:op2
-[द्वन्द्वः_3]	25	-	-	-	-	-	-	26:mod
+[xvanxvaH_3]	25	-	-	-	-	-	-	26:mod
 graha_1	23	-	-	-	-	-	-	26:head
 [upa-tat_1]	26	-	-	-	-	-	-	27:comp1
 Axya_1	24	-	pl	-	-	-	-	27:comp2
@@ -9522,7 +9522,7 @@ BU_1-awi_1	9	-	-	0:main	-	-	-	-
 maXura_1	1	-	-	-	-	-	-	4:op1
 snigXa_1	2	-	-	-	-	-	-	4:op2
 sOhiwya_1	3	-	pl	-	-	-	-	4:op3
-[द्वन्द्वः_1]	4	-	-	-	-	-	-	-
+[xvanxvaH_1]	4	-	-	-	-	-	-	-
 yaw_1	5	-	-	8:mod	-	-	-	-
 sOKya_1	6	-	-	7:rh	-	-	-	-
 NaS_1-awi_1	7	-	-	0:main	-	-	-	-
@@ -9545,7 +9545,7 @@ wawra_1	3	-	-	1:k7p	-	-	-	-
 sarva_1	4	-	-	2:mod	-	-	-	-
 pAna_1	5	-	-	-	-	-	-	8:op1
 anna_1	6	-	-	-	-	-	-	8:op2
-[द्वन्द्वः_1]	8	-	-	-	-	-	-	9:mod
+[xvanxvaH_1]	8	-	-	-	-	-	-	9:mod
 BeRaja_1	7	-	-	-	-	-	-	9:head
 [6-tat_1]	9	-	-	2:mod	-	-	-	-
 %affirmative
@@ -9633,7 +9633,7 @@ xoRagawi_1	1	-	-	2:rh	-	-	-	-
 ric_1	2	-	pl	0:main	-	-	-	-
 grAhi_1	3	-	-	-	-	-	-	7:op1
 Bexa_1	4	-	-	-	-	-	-	7:op2
-[द्वन्द्वः_1]	7	-	-	-	-	-	-	8:comp1
+[xvanxvaH_1]	7	-	-	-	-	-	-	8:comp1
 Axi_1	5	-	-	-	-	-	-	8:comp2
 [bahu_1]	8	-	-	-	-	-	-	9:mod
 Bexa_1	6	-	-	-	-	-	-	9:head
