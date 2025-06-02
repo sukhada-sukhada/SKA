@@ -125,6 +125,8 @@ CONCEPT_MAP = {
         'ixam': '$wyax', 
         'wyax': '$wyax',   
         'kim': '$kim',
+        'yuRmax': '$addressee',
+        'asmax': '$speaker',
     }
 
 
