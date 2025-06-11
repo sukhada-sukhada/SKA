@@ -74,7 +74,7 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
                 sent_type = 'negative'
             if has_abhihita_karta and has_kim:
                 sent_type = 'interrogative'
-            if has_abhihita_karta and 'लोट्' in entry.get("morph_in_context"):
+            if has_abhihita_karta and ('लोट्' in entry.get("morph_in_context") or 'विधिलिङ्' in entry.get("morph_in_context") or 'आशीर्लिङ्' in entry.get("morph_in_context")):
                 sent_type = 'imperative'
             if has_abhihita_karm:
                 sent_type = 'pass_affirmative'
@@ -82,7 +82,7 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
                 sent_type = 'pass_negative'
             if has_abhihita_karm and has_kim:
                 sent_type = 'pass_interrogative'
-            if has_abhihita_karm and 'लोट्' in entry.get("morph_in_context"):
+            if has_abhihita_karm and ('लोट्' in entry.get("morph_in_context") or 'विधिलिङ्' in entry.get("morph_in_context") or 'आशीर्लिङ्' in entry.get("morph_in_context")):
                 sent_type = 'pass_imperative'
             
 
