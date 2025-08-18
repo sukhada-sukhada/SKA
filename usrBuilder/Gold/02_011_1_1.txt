@@ -1,0 +1,14 @@
+<segment_id=02_011_1_1>
+#वात-पित्त-आमयी बालः वृद्धः अजीर्णः च तम् त्यजेत् .
+vAwa_1	1	-	-	-	-	-	-	10:op1
+piwwa_1	2	-	-	-	-	-	-	10:op2
+Amayin_1	3	-	-	-	-	-	-	4:head
+[6-tat_1]	4	-	-	-	-	-	-	11:op1
+bAla_1	5	-	-	-	-	-	-	11:op2
+vqxXa_1	6	-	-	-	-	-	-	11:op3
+ajIrNa_1	7	-	-	-	-	-	-	11:op4
+[conj_1]	11	-	-	9:k1	-	-	-	-
+$wyax	8	-	-	9:k2	02_010_1.12:coref	distal	-	-
+wyaj_1-yAw_1	9	-	-	0:main	02_010_1:viroXI	-	-	-
+[iwrewarxanxaH_1]	10	-	-	-	-	-	-	4:mod
+%affirmative</segment_id>

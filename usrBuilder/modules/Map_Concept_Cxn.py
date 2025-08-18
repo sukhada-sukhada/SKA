@@ -17,6 +17,8 @@ def map_and_convert(input_file, output_file):
 
         for label, index in matches:
             original = f"[{label}_{index}]"
+            if label in ('conj', 'disjunct'):
+                continue
             if label in CXN_MAP:
                 replacement = f"[{CXN_MAP[label]}_{index}]"
             else:

@@ -1,0 +1,11 @@
+<segment_id=02_001_1_1>
+#ब्राह्मे मुहूर्ते उत्तिष्ठेत् स्वस्थः रक्षा-अर्थम् आयुषः .
+brAhma_1	1	-	-	2:mod	-	-	-	-
+muhUrwa_1	2	-	-	3:k7t	02_000_2:samuccaya	-	-	-
+Ayus_1	8	-	-	7:r6	-	-	-	-
+uw_RWA_1-yAw_1	3	-	-	0:main	-	-	-	-
+svasWa_1	4	-	-	3:k1	-	-	-	-
+rakRA_1	5	-	-	-	-	-	-	7:mod
+arWa_1	6	-	-	-	-	-	-	7:head
+[cawurWI-wawpuruRaH_1]	7	-	-	3:rt	-	-	-	-
+%affirmative</segment_id>

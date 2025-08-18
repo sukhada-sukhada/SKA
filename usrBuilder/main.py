@@ -2,7 +2,7 @@ import subprocess
 
 # List of script filenames in order
 scripts = ["modules/JSON_to_USR.py", "modules/Dvandva_Cxn.py", "modules/All_Cxn.py",
-            "modules/Index_Mapping.py", "modules/Map_Concept_Cxn.py"]
+            "modules/conj_disjunct_cxn.py", "modules/Index_Mapping.py", "modules/Map_Concept_Cxn.py"]
 
 for script in scripts:
     # print(f"Running {script}...")

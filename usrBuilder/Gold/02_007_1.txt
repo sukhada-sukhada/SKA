@@ -1,0 +1,23 @@
+<segment_id=02_007_1>
+#ताम्बूलम् क्षत-पित्तास्र-रूक्ष-उत्कुपित-चक्षुषाम् विष-मूर्छा-मद-आर्तानाम् अ-पथ्यम् शोषिणाम् अपि (भवति) .
+wAmbUla_1	1	-	-	16:k1	-	-	-	-
+kRawa_1	2	-	-	-	-	-	-	17:op1
+piwwAsra_1	3	-	-	-	-	-	-	17:op2
+rUkRa_1	4	-	-	-	-	-	-	17:op3
+uwkupiwa_1	5	-	-	-	-	-	-	17:op4
+[xanxaH_1]	17	-	-	-	-	-	-	18:component1
+cakRus_1	6	-	pl	-	-	-	-	18:component2
+[6-bahu_1]	18	-	-	-	-	-	-	20:op1
+viRa_1	7	-	-	-	-	-	-	19:op1
+mUrCA_1	8	-	-	-	-	-	-	19:op2
+maxa_1	9	-	-	-	-	-	-	19:op3
+[xanxaH_2]	19	-	-	-	-	-	-	11:mod
+Arwa_1	10	-	pl	-	-	-	-	11:head
+[3-tat_1]	11	-	-	-	-	-	-	20:op2
+a_1	12	-	-	-	-	-	-	14:mod
+paWya_1	13	-	-	-	02_006_2_1:viroXI	-	-	14:head
+[naF-tat_1]	14	-	-	16:k1s	-	-	-	-
+SoRin_1	15	-	pl	-	-	api_1	-	20:op3
+BU_1-awi_1	16	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	1:r6	-	-	-	-
+%affirmative</segment_id>

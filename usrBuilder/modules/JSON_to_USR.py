@@ -132,7 +132,9 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
 
                 final_wx_root = CONCEPT_MAP.get(cleaned_wx_root, cleaned_wx_root)
                 if 'संख्येयम्' in morph_context:
-                    final_wx_root = NUMBER_MAP.get(final_wx_root, final_wx_root)
+                    print(final_wx_root)
+                    final_wx_root = NUMBER_MAP.get(final_wx_root.strip(), final_wx_root.strip())
+                    print(final_wx_root)
                 else:
                     if final_wx_root not in ('$wyax', '$yax'):
                         final_wx_root = re.sub(r'\(.*?\)', '', final_wx_root).strip('-')
@@ -142,7 +144,7 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
                                 break
                         final_wx_root += "_1"
 
-                if 'समुच्चितः' == str(dep_rel) or 'घटकः' == str(dep_rel) or 'अन्वाचितः' == str(dep_rel):
+                if 'समुच्चितः' == str(dep_rel) or 'घटकः' == str(dep_rel) or 'अन्वाचितः' == str(dep_rel) or 'समुच्चित' == str(dep_rel) or 'अन्यतरः' == str(dep_rel):
                     dep_info = '-'
                     cxn_info = f'{dep_head}:{dep_rel}'
                 else:
