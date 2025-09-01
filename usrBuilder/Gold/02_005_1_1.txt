@@ -1,9 +1,0 @@
-<segment_id=02_005_1_1>
-#सौवीरम् अञ्जनम् नित्यम् हितम् अक्ष्णोः ततः भजेत् .
-Baj_1-yAw_1	6	-	-	0:main	-02_004_1.2:uwwarkAla	-	-	-
-sOvIra_1	1	-	-	2:mod	-	-	-	-
-aFjana_1	2	-	-	6:k2	-	-	-	-
-niwya_1	3	-	-	4:krvn	-	-	-	-
-hiwa_1	4	-	-	2:mod	-	-	-	-
-akRi_1	5	-	dl	4:r6	-	-	-	-
-%affirmative</segment_id>
