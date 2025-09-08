@@ -5,8 +5,10 @@ from constants.Drop_Columns import COLUMN_TO_DROP
 
 
 def devanagari_to_wx(word):
-    wxc = WXC()
-    wx_text = wxc.convert(word)
+    if word.startswith('('):
+        word = word[1:]
+    wxc = WXC() 
+    wx_text = wxc.convert(word) 
     return wx_text
 
 def convert_tsv_folder_to_json(folder_path, json_file_path):

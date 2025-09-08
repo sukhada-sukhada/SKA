@@ -1,0 +1,17 @@
+1. Input will be csv files within a folder having morphological information for individual sentence
+
+2. Conversion of the above csv morphological data into single compiled json using this:
+ python3 Convert_to_JSON.py <Input_Folder_Containing_CSV_Files>
+
+3.
+
+
+Segments ---> parser + NER ----> Cxn tool ----> morph ---> Builder
+                                                             |
+                                                     dicourse connective tool
+
+
+parser: pos, word, dep_rel, head_idx
+NER: per, org, loc
+cxn tool: complex concepts and their comp
+morph: morph-info

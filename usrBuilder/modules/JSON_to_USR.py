@@ -132,9 +132,9 @@ with open('IO/raw_output.txt', 'w', encoding='utf-8') as out_file:
 
                 final_wx_root = CONCEPT_MAP.get(cleaned_wx_root, cleaned_wx_root)
                 if 'संख्येयम्' in morph_context:
-                    print(final_wx_root)
+                    # print(final_wx_root)
                     final_wx_root = NUMBER_MAP.get(final_wx_root.strip(), final_wx_root.strip())
-                    print(final_wx_root)
+                    # print(final_wx_root)
                 else:
                     if final_wx_root not in ('$wyax', '$yax'):
                         final_wx_root = re.sub(r'\(.*?\)', '', final_wx_root).strip('-')

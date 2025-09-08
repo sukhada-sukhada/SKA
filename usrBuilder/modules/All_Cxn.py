@@ -136,17 +136,18 @@ def process_sentence_block(lines):
                             if len(next_parts) >= 5:
                                 next_dep_ref = next_parts[4]
                                 next_cxn = next_parts[8] if len(next_parts) > 8 else '-'  # safely get next_cxn or default '-'
-                                try:
-                                    base_int = int(base_current)
-                                    if base_int not in float_index_counters:
-                                        float_index_counters[base_int] = 4
-                                    suffix = float_index_counters[base_int]
-                                    new_float_index = f"{base_int}.{suffix}"
-                                    float_index_counters[base_int] += 1
-                                    # Now include next_cxn in insert_next tuple (4 elements)
-                                    insert_next = (dep_label, next_dep_ref, new_float_index, next_cxn)
-                                except ValueError:
-                                    pass
+                                if dep_label not in ('अभिहितकर्ता', 'कर्ता'):
+                                    try:
+                                        base_int = int(base_current)
+                                        if base_int not in float_index_counters:
+                                            float_index_counters[base_int] = 4
+                                        suffix = float_index_counters[base_int]
+                                        new_float_index = f"{base_int}.{suffix}"
+                                        float_index_counters[base_int] += 1
+                                        # Now include next_cxn in insert_next tuple (4 elements)
+                                        insert_next = (dep_label, next_dep_ref, new_float_index, next_cxn)
+                                    except ValueError:
+                                        pass
         i += 1
 
     return updated_lines

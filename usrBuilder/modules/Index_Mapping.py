@@ -8,7 +8,8 @@ def map_indices_by_sentences(file_path):
     index_map = {}
     counter = 1
 
-    float_index_pattern = re.compile(r"\b(\d+\.\d+)(:\S+)?\b")
+    # float_index_pattern = re.compile(r"\b(\d+\.\d+)(:\S+)?\b") # this is for index 14.1 or 12.2
+    float_index_pattern = re.compile(r"\b(\d+(?:\.\d+)+)(:\S+)?\b") # this was for index 14.1.1 or 10.1.2
 
     def process_sentence(sentence_lines):
         nonlocal counter
