@@ -1,0 +1,63 @@
+This project processes morphological information of Sanskrit sentences, stored in CSV/TSV format within a folder, and applies a pipeline of rule-based modules to generate USR. The pipeline converts raw morphological data into a compiled JSON file, then applies a series of linguistic rules to extract constructions, map indices, link concepts etc.
+
+
+## Workflow
+------------------------------
+
+Step 1: Input Data
+    - Format: CSV/TSV files containing morphological analysis of individual sentences.
+    - Location: Stored in a specified input folder.
+
+Step 2: Conversion to JSON
+    - Script: Convert_to_JSON.py
+    - Usage: python3 Convert_to_JSON.py <Input_Folder_Containing_CSV/TSV_Files>
+    - Input: Folder containing CSV/TSV files.
+    - Output: Compiled JSON file saved at IO/combined_data.json
+
+Step 3: USR Generation
+    - Script: main.py
+    - Usage: python3 main.py
+    - Input: JSON file with morphological data at IO/combined_data.json
+    - Output: Final USR file saved at IO/USR_output.json
+
+## Processing Modules
+-------------------------------
+
+All processing modules are stored under the modules/ directory. They are applied sequentially as follows:
+
+1. JSON_to_USR.py
+
+    - Function: Generates a basic structural representation from the compiled JSON.
+    - Input: IO/combined_data.json
+    - Output: IO/raw_output.txt
+
+2. Dvandva_Cxn.py
+
+    - Function: Implements rules for Dvandva (a type of noun compound) construction.
+    - Input: IO/raw_output.txt
+    - Output: IO/cxn_output.txt
+
+3. Complete_NC.py
+
+    - Function: Handles rules for the remaining types of noun compounds.
+    - Input: IO/cxn_output.txt
+    - Output: IO/second_cxn_output.txt
+
+4. Conj_Disjunct_Cxn.py
+
+    - Function: Implements rules for conjunction and disjunction constructions.
+    - Input: IO/second_cxn_output.txt
+    - Output: IO/final_cxn_output.txt
+
+5. Index_Mapping.py
+
+    - Function: Re-maps sentence indices into sequential order (1, 2, 3, …).
+    - Input: IO/final_cxn_output.txt
+    - Output: IO/mapped_index_output.txt
+
+6. Map_Concept_Cxn.py
+
+    - Function: Maps dependency relations and complex concepts to their respective values.
+    - Input: IO/mapped_index_output.txt
+    - Output: IO/USR_output.json (Final Output)
+

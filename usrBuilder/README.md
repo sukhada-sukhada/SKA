@@ -33,7 +33,7 @@ python3 main.py
 
 ## Output
 
-- Location: IO/generated_USR.txt
+- Location: IO/USR_output.txt
 - Format: Text file containing the generated Sanskrit USR.
 
 ## Notes
