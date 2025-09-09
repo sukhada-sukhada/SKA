@@ -133,4 +133,4 @@ def process_file_with_insertion(input_file, output_file):
 
 
 # Call the function with filenames
-process_file_with_insertion('IO/second_cxn_output.txt', 'IO/final_cxn_output.txt')
+process_file_with_insertion('IO/complete_nc_output.txt', 'IO/final_cxn_output.txt')

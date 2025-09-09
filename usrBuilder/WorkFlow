@@ -31,22 +31,22 @@ All processing modules are stored under the modules/ directory. They are applied
     - Input: IO/combined_data.json
     - Output: IO/raw_output.txt
 
-2. Dvandva_Cxn.py
+2. Dvandva_NC.py
 
     - Function: Implements rules for Dvandva (a type of noun compound) construction.
     - Input: IO/raw_output.txt
-    - Output: IO/cxn_output.txt
+    - Output: IO/Dvandva_nc_output.txt
 
 3. Complete_NC.py
 
     - Function: Handles rules for the remaining types of noun compounds.
-    - Input: IO/cxn_output.txt
-    - Output: IO/second_cxn_output.txt
+    - Input: IO/Dvandva_nc_output.txt
+    - Output: IO/complete_nc_output.txt
 
 4. Conj_Disjunct_Cxn.py
 
     - Function: Implements rules for conjunction and disjunction constructions.
-    - Input: IO/second_cxn_output.txt
+    - Input: IO/complete_nc_output.txt
     - Output: IO/final_cxn_output.txt
 
 5. Index_Mapping.py
@@ -55,7 +55,7 @@ All processing modules are stored under the modules/ directory. They are applied
     - Input: IO/final_cxn_output.txt
     - Output: IO/mapped_index_output.txt
 
-6. Map_Concept_Cxn.py
+6. Map_Concept_and_Dependency.py
 
     - Function: Maps dependency relations and complex concepts to their respective values.
     - Input: IO/mapped_index_output.txt

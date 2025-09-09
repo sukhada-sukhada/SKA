@@ -154,4 +154,4 @@ def process_sentence_block(lines):
 
 
 # Example usage
-extract_and_check_duplicates('IO/cxn_output.txt', 'IO/second_cxn_output.txt')
+extract_and_check_duplicates('IO/Dvandva_nc_output.txt', 'IO/complete_nc_output.txt')

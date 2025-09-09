@@ -206,7 +206,7 @@ def process_dvandva_insertion(filepath):
         processed = process_block(block_lines)
         output_lines.extend(processed)
 
-    with open("IO/cxn_output.txt", "w", encoding="utf-8") as f:
+    with open("IO/Dvandva_nc_output.txt", "w", encoding="utf-8") as f:
         f.writelines(output_lines)
 
     print("✔ Output written to 'processed_output.txt'.")
