@@ -1,4 +1,5 @@
-This project processes morphological information of Sanskrit sentences, stored in CSV/TSV format within a folder, and applies a pipeline of rule-based modules to generate USR. The pipeline converts raw morphological data into a compiled JSON file, then applies a series of linguistic rules to extract constructions, map indices, link concepts etc.
+This project processes morphological information of Sanskrit sentences, stored in CSV/TSV format within a folder, and applies a pipeline of rule-based modules to generate USR.
+The pipeline converts raw morphological data into a compiled JSON file, then applies a series of linguistic rules to extract constructions, map indices, link concepts etc.
 
 
 ## Workflow
